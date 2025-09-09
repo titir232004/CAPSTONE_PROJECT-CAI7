@@ -1,0 +1,34 @@
+{
+  "language": "bengali",
+  "ministries": [
+    "education",
+    "politics"
+  ],
+  "ministry_scores": {
+    "health": 0,
+    "finance": 0,
+    "education": 5,
+    "sports": 0,
+    "international_affairs": 0,
+    "agriculture": 0,
+    "politics": 5,
+    "defence": 0
+  },
+  "ministry_hit_keywords": {
+    "health": [],
+    "finance": [],
+    "education": [
+      "স্কুল"
+    ],
+    "sports": [],
+    "international_affairs": [],
+    "agriculture": [],
+    "politics": [
+      "কমান্ড"
+    ],
+    "defence": []
+  },
+  "summary": "The morning headline, 09 592 : 2025 — 9861, was coming to the city of Katanga, news from 15 to 17 November, asking people to come toKatanga to join the army, the special military units of the U.S. Army in Fort William.",
+  "ocr_text": "সকালের শিরোনাম\n\n09 592 :2025 - 9861\n\nসঙ্গে কলকাতায় আসছেন\n\nকমান্ড সূত্রে খবর, ১৫ থেকে ১৭\nসেপ্টেম্বর পর্যন্ত ফোর্ট\nউইলিয়ামে সেনাবাহিনীর বিশেষ\n\nঅনুষ্ঠান যৌথবাহিনীর\nতাতে যোগ দিতেই ১৫ তারিখ\nনিরাপত্তা উপদেষ্টাদের কলকাতায়\nআসা বলে জানা যাচ্ছে। ইস্টার্ন\nকমান্ডের মুখ্য জনসংযোগ\nআধিকারিক গ্রুপ ক্যাপ্টেন",
+  "source_image": "bengali_sample-1.jpg"
+}
