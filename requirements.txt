@@ -1,7 +1,0 @@
-opencv-python
-pytesseract
-numpy
-unicodedata2
-transformers
-torch
-rapidfuzz
