@@ -1,0 +1,5398 @@
+{
+  "metadata": {
+    "date": "2025-09-18",
+    "total": 169,
+    "last_updated": "2025-09-18T15:46:55.361084",
+    "new_articles_added": 0,
+    "ministries": [
+      "finance",
+      "general",
+      "agriculture",
+      "education",
+      "international_affairs",
+      "politics",
+      "sports"
+    ],
+    "languages": [
+      "Bengali",
+      "Kannada",
+      "Hindi"
+    ],
+    "sources": [
+      "Zee 24 Ghanta",
+      "TV9 Kannada",
+      "Zee News",
+      "NewsFirst Kannada",
+      "Public TV",
+      "TV9 Bangla",
+      "Kannada Prabha",
+      "News18 India",
+      "ABP News",
+      "Aaj Tak",
+      "News18 Bangla",
+      "Udayavani"
+    ]
+  },
+  "articles": [
+    {
+      "id": "8fa6457d27838ea2d74323b24838245c",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.038620Z",
+      "language": "Bengali",
+      "title": "Ahmedabad Plane Crash: 'মানসিক চাপেই বিমান নিয়ে আত্মঘাতী আমার ছেলে!' আমদাবাদ বিমান দুর্ঘটনায় বিস্ফোরক চিঠি নিহত ক্যাপ্টেনের বৃদ্ধ বাবার...",
+      "content": "News article: Ahmedabad Plane Crash: 'মানসিক চাপেই বিমান নিয়ে আত্মঘাতী আমার ছেলে!' আমদাবাদ বিমান দুর্ঘটনায় বিস্ফোরক চিঠি নিহত ক্যাপ্টেনের বৃদ্ধ বাবার...",
+      "summary": "Ahmedabad Plane Crash: 'মানসিক চাপেই বিমান নিয়ে আত্মঘাতী আমার ছেলে!' আমদাবাদ বিমান দুর্ঘটনায় বিস্ফোরক চিঠি নিহত ক্যাপ্টেনের বৃদ্ধ বাবার....",
+      "url": "https://zeenews.india.com/bengali/photos/air-india-crash-report-suggests-captain-sumeet-sabharwal-was-contemplating-suicide-now-air-india-pilot-father-says-in-letter-612323",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ahmedabad",
+        "plane",
+        "crash",
+        "আমদ",
+        "ঘটন",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.038620Z",
+        "website_section": null,
+        "content_hash": "23f1e21ab653842b72386fdbd37ea767"
+      }
+    },
+    {
+      "id": "58f54b79f9aabf7fc2d4b7cb49400392",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.037672Z",
+      "language": "Bengali",
+      "title": "UPI UPDATE: নগদ টাকা লাগলে মুশকিল আসান, ATM যেতেই হবে না! ফোনে Gpay-Phonepay-PayTM থাকলেই হবে... বড় আপডেট...",
+      "content": "News article: UPI UPDATE: নগদ টাকা লাগলে মুশকিল আসান, ATM যেতেই হবে না! ফোনে Gpay-Phonepay-PayTM থাকলেই হবে... বড় আপডেট...",
+      "summary": "UPI UPDATE: নগদ টাকা লাগলে মুশকিল আসান, ATM যেতেই হবে না! ফোনে Gpay-Phonepay-PayTM থাকলেই হবে... বড় আপডেট.... News article: UPI UPDATE: নগদ টাকা লাগলে মুশকিল আসান, ATM যেতেই হবে না.",
+      "url": "https://zeenews.india.com/bengali/photos/upi-update-soon-withdraw-upto-rs-10000-using-upi-at-over-20-lakh-bcs-reports-612344",
+      "author": null,
+      "ministries": [
+        "finance",
+        "politics"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "upi",
+        "update",
+        "নগদ",
+        "atm",
+        "gpay",
+        "phonepay",
+        "paytm",
+        "আপড",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.037672Z",
+        "website_section": null,
+        "content_hash": "880cd4f12bee3dd8532a720e5c7dd530"
+      }
+    },
+    {
+      "id": "261e28f4918e9d75ac1bfbfc4ecf721d",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.036629Z",
+      "language": "Bengali",
+      "title": "Durga Puja 2025: কবে বোধন? অষ্টমীর অঞ্জলি ক'টায়? সন্ধিপুজো? দেবীর কীসে আগমন, কীসে গমন? জেনে নিন দুর্গাপুজোর নিখুঁত সময়-নির্ঘণ্ট...",
+      "content": "News article: Durga Puja 2025: কবে বোধন? অষ্টমীর অঞ্জলি ক'টায়? সন্ধিপুজো? দেবীর কীসে আগমন, কীসে গমন? জেনে নিন দুর্গাপুজোর নিখুঁত সময়-নির্ঘণ্ট...",
+      "summary": "Durga Puja 2025: কবে বোধন? অষ্টমীর অঞ্জলি ক'টায়? সন্ধিপুজো? দেবীর কীসে আগমন, কীসে গমন? জেনে নিন দুর্গাপুজোর নিখুঁত সময়-নির্ঘণ্ট.... News article: Durga Puja 2025: কবে বোধন. দেবীর কীসে আগমন, কীসে গমন.",
+      "url": "https://zeenews.india.com/bengali/photos/durga-puja-2025-dates-tithi-bodhon-nabapatrika-asthami-anjali-sandhi-puja-durga-puja-cultures-612357",
+      "author": null,
+      "ministries": [
+        "agriculture"
+      ],
+      "ministry_scores": {
+        "agriculture": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "durga",
+        "puja",
+        "2025",
+        "আগমন",
+        "গমন",
+        "সময়",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.036629Z",
+        "website_section": null,
+        "content_hash": "231deb273c9d85be9624acf59fee148d"
+      }
+    },
+    {
+      "id": "bb10073fd88bf3351e69449a1f69cd9f",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.035634Z",
+      "language": "Bengali",
+      "title": "TCS Layoffs: ১২,০০০ নয়, TCS আসলে ৩০,০০০ চাকরি খেয়েছে! আসছে বছর ১ লাখ পেরোবে: গোপন রিপোর্ট",
+      "content": "News article: TCS Layoffs: ১২,০০০ নয়, TCS আসলে ৩০,০০০ চাকরি খেয়েছে! আসছে বছর ১ লাখ পেরোবে: গোপন রিপোর্ট",
+      "summary": "TCS Layoffs: ১২,০০০ নয়, TCS আসলে ৩০,০০০ চাকরি খেয়েছে! আসছে বছর ১ লাখ পেরোবে: গোপন রিপোর্ট. News article: TCS Layoffs: ১২,০০০ নয়, TCS আসলে ৩০,০০০ চাকরি খেয়েছে. আসছে বছর ১ লাখ পেরোবে: গোপন রিপোর্ট.",
+      "url": "https://zeenews.india.com/bengali/photos/tcs-layoffs-number-could-be-reach-1-lakh-in-2026-612376",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "tcs",
+        "০০০",
+        "layoffs",
+        "আসল",
+        "আসছ",
+        "বছর",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.035634Z",
+        "website_section": null,
+        "content_hash": "fbca8108f376c217c1497f708d745ba6"
+      }
+    },
+    {
+      "id": "102e5eddfd71d814cd1b46b49d56bd06",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.035634Z",
+      "language": "Bengali",
+      "title": "Bihar Horror: ১৪-র কিশোরীকে ছিঁড়েখুঁড়ে খেল ৬ বর্বর! অচেতন শরীরেই চলল এক-এক করে ভোগ লালসা মেটানোর পালা...",
+      "content": "News article: Bihar Horror: ১৪-র কিশোরীকে ছিঁড়েখুঁড়ে খেল ৬ বর্বর! অচেতন শরীরেই চলল এক-এক করে ভোগ লালসা মেটানোর পালা...",
+      "summary": "Bihar Horror: ১৪-র কিশোরীকে ছিঁড়েখুঁড়ে খেল ৬ বর্বর! অচেতন শরীরেই চলল এক-এক করে ভোগ লালসা মেটানোর পালা.... News article: Bihar Horror: ১৪-র কিশোরীকে ছিঁড়েখুঁড়ে খেল ৬ বর্বর.",
+      "url": "https://zeenews.india.com/bengali/photos/bihar-horror-14-year-old-girl-allegedly-gang-raped-by-6-men-in-khagaria-after-being-drugged-and-senseless-612367",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "bihar",
+        "horror",
+        "চলল",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.035634Z",
+        "website_section": null,
+        "content_hash": "9bc6b7c9d27c0ce88751b70a3a1ca8ca"
+      }
+    },
+    {
+      "id": "a216c92a43695ab93771c1ad99952328",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.034635Z",
+      "language": "Bengali",
+      "title": "Gold Price on 18 September: স্বস্তির খবর, পুজোর মুখে সস্তা হল সোনা! দাম কমে....",
+      "content": "News article: Gold Price on 18 September: স্বস্তির খবর, পুজোর মুখে সস্তা হল সোনা! দাম কমে....",
+      "summary": "Gold Price on 18 September: স্বস্তির খবর, পুজোর মুখে সস্তা হল সোনা! দাম কমে....",
+      "url": "https://zeenews.india.com/bengali/photos/gold-silver-price-rally-hits-pause-after-fed-rate-cut-gold-price-falls-100rs-silver-price-also-cut-down-kolkata-612395",
+      "author": null,
+      "ministries": [
+        "agriculture"
+      ],
+      "ministry_scores": {
+        "agriculture": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "gold",
+        "price",
+        "september",
+        "খবর",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.034635Z",
+        "website_section": null,
+        "content_hash": "dfdeca2ed7ef7cfbdf2fc5cd51c01ec6"
+      }
+    },
+    {
+      "id": "bb3cdd6db3c3b2a2a2f8ec5a7097abd0",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.033637Z",
+      "language": "Bengali",
+      "title": "The Ba***ds of Bollywood premiere: 'ক্রুজে যেও না', আরিয়ানের উদ্দেশ্যে সময়ের বার্তা! 'দ্য ব্যাডস অফ বলিউড'-এর প্রিমিয়ারে বিতর্ক...",
+      "content": "News article: The Ba***ds of Bollywood premiere: 'ক্রুজে যেও না', আরিয়ানের উদ্দেশ্যে সময়ের বার্তা! 'দ্য ব্যাডস অফ বলিউড'-এর প্রিমিয়ারে বিতর্ক...",
+      "summary": "The Ba***ds of Bollywood premiere: 'ক্রুজে যেও না', আরিয়ানের উদ্দেশ্যে সময়ের বার্তা! 'দ্য ব্যাডস অফ বলিউড'-এর প্রিমিয়ারে বিতর্ক....",
+      "url": "https://zeenews.india.com/bengali/photos/samay-raina-wears-say-no-to-cruise-tshirt-at-aryan-khan-show-the-bads-of-bollywood-premiere-sparks-controversy-612408",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "bollywood",
+        "premiere",
+        "সময়",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.033637Z",
+        "website_section": null,
+        "content_hash": "7b95b21a0c1bb7289b2ee03e0f248da2"
+      }
+    },
+    {
+      "id": "fc4e4311b977a850f52ced1c469a98b9",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.032646Z",
+      "language": "Bengali",
+      "title": "e-Aadhaar app launch: বিরাট লাইন বা ডেট না পাওয়ার ঝামেলা থেকে মুক্তি, আসছে e-আধার অ্যাপ! এবার ঘরে বসেই মোবাইল লিংক থেকে ঠিকানা চেঞ্জ, সব...",
+      "content": "News article: e-Aadhaar app launch: বিরাট লাইন বা ডেট না পাওয়ার ঝামেলা থেকে মুক্তি, আসছে e-আধার অ্যাপ! এবার ঘরে বসেই মোবাইল লিংক থেকে ঠিকানা চেঞ্জ, সব...",
+      "summary": "e-Aadhaar app launch: বিরাট লাইন বা ডেট না পাওয়ার ঝামেলা থেকে মুক্তি, আসছে e-আধার অ্যাপ! এবার ঘরে বসেই মোবাইল লিংক থেকে ঠিকানা চেঞ্জ, সব....",
+      "url": "https://zeenews.india.com/bengali/photos/e-aadhaar-app-launch-update-your-name-address-date-of-birth-mobile-number-in-just-one-click-from-here-is-what-you-need-to-know-612419",
+      "author": null,
+      "ministries": [
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 1.0,
+      "sentiment_label": "positive",
+      "keywords": [
+        "aadhaar",
+        "app",
+        "launch",
+        "আসছ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.032646Z",
+        "website_section": null,
+        "content_hash": "be61805c85b77695f4720f838d5651e6"
+      }
+    },
+    {
+      "id": "da5a36a73e9e6e3912779ae78b97cb5a",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.031623Z",
+      "language": "Bengali",
+      "title": "এই রসে আছে ভরপুর গুণ! হার্ট এবং লিভারকেও সুস্থ রাখে...",
+      "content": "News article: এই রসে আছে ভরপুর গুণ! হার্ট এবং লিভারকেও সুস্থ রাখে...",
+      "summary": "এই রসে আছে ভরপুর গুণ! হার্ট এবং লিভারকেও সুস্থ রাখে...",
+      "url": "https://zeenews.india.com/bengali/web-stories/lifestyle/this-juice-is-packed-with-benefits-it-helps-keep-the-heart-and-liver-healthy-604361",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ভরপ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.031623Z",
+        "website_section": null,
+        "content_hash": "b3af8bb4c08545cd204583d46c7f8bbb"
+      }
+    },
+    {
+      "id": "34398a56a9d9a6c344b1d67c47a626f8",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.029616Z",
+      "language": "Bengali",
+      "title": "ক্রুজে যেও না', আরিয়ানের উদ্দেশ্যে সমরের বার্তা! 'দ্য ব্যাডস অফ বলিউড...",
+      "content": "News article: ক্রুজে যেও না', আরিয়ানের উদ্দেশ্যে সমরের বার্তা! 'দ্য ব্যাডস অফ বলিউড...",
+      "summary": "ক্রুজে যেও না', আরিয়ানের উদ্দেশ্যে সমরের বার্তা! 'দ্য ব্যাডস অফ বলিউড...",
+      "url": "https://zeenews.india.com/bengali/photos/samay-raina-wears-say-no-to-cruise-tshirt-at-aryan-khan-show-the-bads-of-bollywood-premiere-sparks-controversy-612408",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "সমর",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.029616Z",
+        "website_section": null,
+        "content_hash": "b85000c7b14bbcc3d27d82c227d9e3fa"
+      }
+    },
+    {
+      "id": "baa68b16a43952faa4b9fde05d1982c2",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.027974Z",
+      "language": "Bengali",
+      "title": "Rampurhat Chaos: রাস্তা অবরোধ করে বিক্ষোভ! আদিবাসী ছাত্রী খু*নে তপ্ত র...",
+      "content": "News article: Rampurhat Chaos: রাস্তা অবরোধ করে বিক্ষোভ! আদিবাসী ছাত্রী খু*নে তপ্ত র...",
+      "summary": "Rampurhat Chaos: রাস্তা অবরোধ করে বিক্ষোভ! আদিবাসী ছাত্রী খু*নে তপ্ত র...",
+      "url": "https://zeenews.india.com/bengali/videos/road-blockade-and-protest-rampurhat-tense-after-tribal-students-murder_612404.html",
+      "author": null,
+      "ministries": [
+        "finance",
+        "education"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "education": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "rampurhat",
+        "chaos",
+        "অবর",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.027974Z",
+        "website_section": null,
+        "content_hash": "6924f74d0c5d9b0631230c5768e0b36b"
+      }
+    },
+    {
+      "id": "03ee261a8d0697424d6a124a8fdd68d0",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.026974Z",
+      "language": "Bengali",
+      "title": "১২,০০০ নয়, TCS আসলে ৩০,০০০ চাকরি খেয়েছে! আসছে বছর সংখ্যাটা ১ লাখ পেরোব...",
+      "content": "News article: ১২,০০০ নয়, TCS আসলে ৩০,০০০ চাকরি খেয়েছে! আসছে বছর সংখ্যাটা ১ লাখ পেরোব...",
+      "summary": "১২,০০০ নয়, TCS আসলে ৩০,০০০ চাকরি খেয়েছে! আসছে বছর সংখ্যাটা ১ লাখ পেরোব...",
+      "url": "https://zeenews.india.com/bengali/photos/tcs-layoffs-number-could-be-reach-1-lakh-in-2026-612376",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "০০০",
+        "tcs",
+        "আসল",
+        "আসছ",
+        "বছর",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.026974Z",
+        "website_section": null,
+        "content_hash": "f5d7037ed2440572325f4605a4ecafb2"
+      }
+    },
+    {
+      "id": "d1c48cdf916f68c75a86946eb18049e1",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.025975Z",
+      "language": "Bengali",
+      "title": "স্বস্তির খবর, পুজোর মুখে সস্তা হল সোনা! দাম কমে....",
+      "content": "News article: স্বস্তির খবর, পুজোর মুখে সস্তা হল সোনা! দাম কমে....",
+      "summary": "স্বস্তির খবর, পুজোর মুখে সস্তা হল সোনা! দাম কমে....",
+      "url": "https://zeenews.india.com/bengali/photos/gold-silver-price-rally-hits-pause-after-fed-rate-cut-gold-price-falls-100rs-silver-price-also-cut-down-kolkata-612395",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "খবর",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.025975Z",
+        "website_section": null,
+        "content_hash": "4bd20a8e50ae4b9bd0e5c2f6a9cf82da"
+      }
+    },
+    {
+      "id": "c764c69fa9edde61aaf7666d16074441",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.025975Z",
+      "language": "Bengali",
+      "title": "অ্যান্ডি পাইক্রফ্টের ইতিহাস কী? শত্রুদেশের মুখে কীভাবে ঝামা ঘষল আইসিসি? রইল ভারত-পাক ওয়েব সিরিজের সব...",
+      "content": "News article: অ্যান্ডি পাইক্রফ্টের ইতিহাস কী? শত্রুদেশের মুখে কীভাবে ঝামা ঘষল আইসিসি? রইল ভারত-পাক ওয়েব সিরিজের সব...",
+      "summary": "অ্যান্ডি পাইক্রফ্টের ইতিহাস কী? শত্রুদেশের মুখে কীভাবে ঝামা ঘষল আইসিসি? রইল ভারত-পাক ওয়েব সিরিজের সব.... News article: অ্যান্ডি পাইক্রফ্টের ইতিহাস কী. শত্রুদেশের মুখে কীভাবে ঝামা ঘষল আইসিসি.",
+      "url": "https://zeenews.india.com/bengali/sports/what-is-the-history-of-the-andy-pycroft-how-did-the-icc-slap-pakistan-in-the-face-here-are-all-the-episodes-of-the-india-pak-match_612390.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ঘষল",
+        "আইস",
+        "রইল",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.025975Z",
+        "website_section": null,
+        "content_hash": "1229d558cd09a637711bd2365c0cb7d8"
+      }
+    },
+    {
+      "id": "d6cabf490f7edfef4989f59a315c13fc",
+      "source_type": "web_scraper",
+      "source_name": "Zee 24 Ghanta",
+      "timestamp": "2025-09-18T15:42:56.025047Z",
+      "language": "Bengali",
+      "title": "রামপুরহাটে ছাত্রী খুনে অভিযুক্ত শিক্ষক বিকৃতমনস্ক! বাড়ি থেকে উদ্ধার প্রচুর সেক্স টয়!",
+      "content": "News article: রামপুরহাটে ছাত্রী খুনে অভিযুক্ত শিক্ষক বিকৃতমনস্ক! বাড়ি থেকে উদ্ধার প্রচুর সেক্স টয়!",
+      "summary": "রামপুরহাটে ছাত্রী খুনে অভিযুক্ত শিক্ষক বিকৃতমনস্ক! বাড়ি থেকে উদ্ধার প্রচুর সেক্স টয়!",
+      "url": "https://zeenews.india.com/bengali/state/angry-people-thrassed-head-master-of-rampurhat-ramkrishna-sikshapit_612405.html",
+      "author": null,
+      "ministries": [
+        "education"
+      ],
+      "ministry_scores": {
+        "education": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "তমনস",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:56.025047Z",
+        "website_section": null,
+        "content_hash": "767e1b65df899e18256c6255785dd7e1"
+      }
+    },
+    {
+      "id": "3382a247040ee768f72f7ecd0ea2ed9e",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.941720Z",
+      "language": "Bengali",
+      "title": "অপূর্ব স্বাদ', পালস গোলমোলে মজলেন বর্ধমানবাসী",
+      "content": "News article: অপূর্ব স্বাদ', পালস গোলমোলে মজলেন বর্ধমানবাসী",
+      "summary": "অপূর্ব স্বাদ', পালস গোলমোলে মজলেন বর্ধমানবাসী",
+      "url": "https://tv9bangla.com/west-bengal/purba-bardhaman/pujoy-pulse-2025-it-is-very-tasty-people-are-saying-after-eating-pulse-golmol-in-burdwan-1241821.html",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "মজল",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.941720Z",
+        "website_section": null,
+        "content_hash": "26617d2526db467663580274cc57882a"
+      }
+    },
+    {
+      "id": "78de61d44c22c050ecc685602fb2bebb",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.940721Z",
+      "language": "Bengali",
+      "title": "১০ টাকায় ইলিশ! মন জিততে এসে জনতারই রোষে পড়তে হল, কী হল হঠাৎ?",
+      "content": "News article: ১০ টাকায় ইলিশ! মন জিততে এসে জনতারই রোষে পড়তে হল, কী হল হঠাৎ?",
+      "summary": "১০ টাকায় ইলিশ! মন জিততে এসে জনতারই রোষে পড়তে হল, কী হল হঠাৎ?",
+      "url": "https://tv9bangla.com/world/bangladesh-independent-candidate-announce-to-give-hilsa-fish-for-10-rs-faced-backlash-after-it-went-stock-out-1242144.html",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "জনত",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.940721Z",
+        "website_section": null,
+        "content_hash": "89f2cef5dfea815d51c7e010cd04ad4f"
+      }
+    },
+    {
+      "id": "9570667e3bb7b66ade75f7d8e5d4e9c6",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.939724Z",
+      "language": "Bengali",
+      "title": "এবার পুজোয় জমিয়ে খাবেন, মহালয়ার আগেই ঢুকে গেল ট্রাক-ট্রাক ইলিশ",
+      "content": "News article: এবার পুজোয় জমিয়ে খাবেন, মহালয়ার আগেই ঢুকে গেল ট্রাক-ট্রাক ইলিশ",
+      "summary": "এবার পুজোয় জমিয়ে খাবেন, মহালয়ার আগেই ঢুকে গেল ট্রাক-ট্রাক ইলিশ",
+      "url": "https://tv9bangla.com/west-bengal/howrah/good-news-ahead-of-durga-puja-huge-amount-of-hilsa-fish-cam-from-bangladesh-to-west-bengal-1242166.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.939724Z",
+        "website_section": null,
+        "content_hash": "67548e839ccb09314c17f684e70952ab"
+      }
+    },
+    {
+      "id": "895f9fff3170d88ee55256bc57f2ad55",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.938706Z",
+      "language": "Bengali",
+      "title": "বাংলার আগেই দিল্লিতে SIR ঘোষণা, কী কী নথি দেখাতে হবে?",
+      "content": "News article: বাংলার আগেই দিল্লিতে SIR ঘোষণা, কী কী নথি দেখাতে হবে?",
+      "summary": "বাংলার আগেই দিল্লিতে SIR ঘোষণা, কী কী নথি দেখাতে হবে?",
+      "url": "https://tv9bangla.com/india/special-intensive-revision-to-begin-in-delhi-which-documents-required-1242142.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "sir",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.938706Z",
+        "website_section": null,
+        "content_hash": "889ea96a9d0fa5f3d951bea7b85aa115"
+      }
+    },
+    {
+      "id": "dd1dfc4a7058a8c720cfbc656cbf6d9a",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.937731Z",
+      "language": "Bengali",
+      "title": "মেঘভাঙা বৃষ্টিতে এবার চামোলিতে বিপর্যয়, ভেসে গেল বাড়ি, নিখোঁজ ৭",
+      "content": "News article: মেঘভাঙা বৃষ্টিতে এবার চামোলিতে বিপর্যয়, ভেসে গেল বাড়ি, নিখোঁজ ৭",
+      "summary": "মেঘভাঙা বৃষ্টিতে এবার চামোলিতে বিপর্যয়, ভেসে গেল বাড়ি, নিখোঁজ ৭",
+      "url": "https://tv9bangla.com/india/uttarakhand-disaster-cloudburst-flash-flood-in-chamoli-several-house-destroyed-at-least-7-missing-1242154.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.937731Z",
+        "website_section": null,
+        "content_hash": "fb944dd3f5681994746e983c81987c46"
+      }
+    },
+    {
+      "id": "d817578f2df48c59f6bfe8177c1f3910",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.936722Z",
+      "language": "Bengali",
+      "title": "৬৭ কোটির বিরাট বিপ্লব! অসুস্থ হলে কীভাবে থাকবেন রাজার হালে?",
+      "content": "News article: ৬৭ কোটির বিরাট বিপ্লব! অসুস্থ হলে কীভাবে থাকবেন রাজার হালে?",
+      "summary": "৬৭ কোটির বিরাট বিপ্লব! অসুস্থ হলে কীভাবে থাকবেন রাজার হালে?",
+      "url": "https://tv9bangla.com/kolkata/a-huge-revolution-of-rs-67-crore-in-sskm-how-to-get-services-at-new-woodburn-ward-1241910.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.936722Z",
+        "website_section": null,
+        "content_hash": "3f15b3da4a0d789cc9591585daadb385"
+      }
+    },
+    {
+      "id": "b8de06ad5a8d8800becab07bf9391626",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.934801Z",
+      "language": "Bengali",
+      "title": "চিনা মাঞ্জায় গলা কেটে মৃত্যু, রাতারাতি গ্রেফতার ১১ জন",
+      "content": "News article: চিনা মাঞ্জায় গলা কেটে মৃত্যু, রাতারাতি গ্রেফতার ১১ জন",
+      "summary": "চিনা মাঞ্জায় গলা কেটে মৃত্যু, রাতারাতি গ্রেফতার ১১ জন",
+      "url": "https://tv9bangla.com/west-bengal/north-24-parganas/barrackpore-police-commissionerate-arrest-11-people-for-sale-chinese-manga-1242194.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.934801Z",
+        "website_section": null,
+        "content_hash": "add42328ae1d47b2d5db71fad5136621"
+      }
+    },
+    {
+      "id": "143f173a96e252a9ef79647d787065c7",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.933809Z",
+      "language": "Bengali",
+      "title": "সৌদি আরবের সঙ্গে চুক্তি পাকিস্তানের, ভারত কী বলছে?",
+      "content": "News article: সৌদি আরবের সঙ্গে চুক্তি পাকিস্তানের, ভারত কী বলছে?",
+      "summary": "সৌদি আরবের সঙ্গে চুক্তি পাকিস্তানের, ভারত কী বলছে?",
+      "url": "https://tv9bangla.com/world/pakistan-saudi-arabia-sign-defence-pact-says-any-aggression-against-one-country-will-be-considered-as-attack-on-both-1242169.html",
+      "author": null,
+      "ministries": [
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "আরব",
+        "বলছ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.933809Z",
+        "website_section": null,
+        "content_hash": "9dae9f2c088dbe3a150b3916bf126163"
+      }
+    },
+    {
+      "id": "5d240dca68002a390bd5a896759d6bee",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.932700Z",
+      "language": "Bengali",
+      "title": "ফের বিদ্যুৎ বিভ্রাট! গ্রিন লাইনে ফের ব্যাহত মেট্রো পরিষেবা",
+      "content": "News article: ফের বিদ্যুৎ বিভ্রাট! গ্রিন লাইনে ফের ব্যাহত মেট্রো পরিষেবা",
+      "summary": "ফের বিদ্যুৎ বিভ্রাট! গ্রিন লাইনে ফের ব্যাহত মেট্রো পরিষেবা",
+      "url": "https://tv9bangla.com/kolkata/sealdah-sec-v-metro-another-power-outage-metro-services-disrupted-again-on-green-line-1242175.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.932700Z",
+        "website_section": null,
+        "content_hash": "541aaf813707294f53c8a5a748bfb1eb"
+      }
+    },
+    {
+      "id": "349bf4efae84f49bd39d0c52b0a54d70",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.930530Z",
+      "language": "Bengali",
+      "title": "বেঙ্গল ফাইলস দেখতে ১২০ কিলোমিটার পথ উজালেন দিলীপ",
+      "content": "News article: বেঙ্গল ফাইলস দেখতে ১২০ কিলোমিটার পথ উজালেন দিলীপ",
+      "summary": "বেঙ্গল ফাইলস দেখতে ১২০ কিলোমিটার পথ উজালেন দিলীপ",
+      "url": "https://tv9bangla.com/kolkata/dilip-ghosh-there-is-an-attempt-to-suppress-the-truth-dilip-travels-120-km-to-watch-bengal-files-1242201.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ইলস",
+        "১২০",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.930530Z",
+        "website_section": null,
+        "content_hash": "ef7aa086ebd103e845984ee9e60b84ee"
+      }
+    },
+    {
+      "id": "46364366fdbff41aad2a4b41fa9365c4",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.929506Z",
+      "language": "Bengali",
+      "title": "কংগ্রেসের বুথ থেকে ভোটারদের নাম ডিলিট করে দেওয়া হয়েছে, বিস্ফোরক রাহুল",
+      "content": "News article: কংগ্রেসের বুথ থেকে ভোটারদের নাম ডিলিট করে দেওয়া হয়েছে, বিস্ফোরক রাহুল",
+      "summary": "কংগ্রেসের বুথ থেকে ভোটারদের নাম ডিলিট করে দেওয়া হয়েছে, বিস্ফোরক রাহুল",
+      "url": "https://tv9bangla.com/india/congress-mp-rahul-gandhi-alleges-systematic-voter-name-deletation-from-congress-booth-using-fake-log-in-says-gyanesh-kumar-protecting-vote-chors-1242180.html",
+      "author": null,
+      "ministries": [
+        "finance",
+        "politics"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.929506Z",
+        "website_section": null,
+        "content_hash": "59ef3126bb4b5a256e1923e33254da19"
+      }
+    },
+    {
+      "id": "e6b135c114dc2240154eebd13afd0126",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.928506Z",
+      "language": "Bengali",
+      "title": "ছাত্রীকে কুচি-কুচি করে কেটে খুনের অভিযোগ, প্রবল বিক্ষোভ স্কুলের সামনে",
+      "content": "News article: ছাত্রীকে কুচি-কুচি করে কেটে খুনের অভিযোগ, প্রবল বিক্ষোভ স্কুলের সামনে",
+      "summary": "ছাত্রীকে কুচি-কুচি করে কেটে খুনের অভিযোগ, প্রবল বিক্ষোভ স্কুলের সামনে",
+      "url": "https://tv9bangla.com/west-bengal/birbhum/guardian-are-showing-protest-infront-of-school-in-located-rapurhat-1242173.html",
+      "author": null,
+      "ministries": [
+        "finance",
+        "education"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "education": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "রবল",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.928506Z",
+        "website_section": null,
+        "content_hash": "92aaf715c0a7da9ef93bde1c9e71a293"
+      }
+    },
+    {
+      "id": "ebfd41e63e3356c15cee98ed9811272b",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.927505Z",
+      "language": "Bengali",
+      "title": "জীবনকে দেখতে এলেন হুমায়ুন, বললেন, 'জেলে তো কেউ ভাল থাকে না...'",
+      "content": "News article: জীবনকে দেখতে এলেন হুমায়ুন, বললেন, 'জেলে তো কেউ ভাল থাকে না...'",
+      "summary": "জীবনকে দেখতে এলেন হুমায়ুন, বললেন, 'জেলে তো কেউ ভাল থাকে না...'",
+      "url": "https://tv9bangla.com/west-bengal/tmc-mla-humayun-kabir-meet-jiban-krishna-saha-in-jail-custody-1242205.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "বনক",
+        "বলল",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.927505Z",
+        "website_section": null,
+        "content_hash": "01a13c600c149739d6f404bdd24ab257"
+      }
+    },
+    {
+      "id": "2adf013e38e470fdef80da2cef50969a",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.926506Z",
+      "language": "Bengali",
+      "title": "ভিত্তিহীন',রাহুলের হাইড্রোজেন বোমা ফেলার আগেই জল ঢালল কমিশন",
+      "content": "News article: ভিত্তিহীন',রাহুলের হাইড্রোজেন বোমা ফেলার আগেই জল ঢালল কমিশন",
+      "summary": "ভিত্তিহীন',রাহুলের হাইড্রোজেন বোমা ফেলার আগেই জল ঢালল কমিশন",
+      "url": "https://tv9bangla.com/india/election-commission-of-india-rejects-congress-leader-rahul-gandhis-vote-chori-claim-calls-it-baseless-1242204.html",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.926506Z",
+        "website_section": null,
+        "content_hash": "bb995912e290ccb7265380fb9bca84b4"
+      }
+    },
+    {
+      "id": "37e510b3626879ffac0af724e2a0db21",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Bangla",
+      "timestamp": "2025-09-18T15:42:50.925506Z",
+      "language": "Bengali",
+      "title": "কেন সেভেনের ছাত্রীকে টুকরো টুকরো করে কাটলেন শিক্ষক? ভয়ঙ্কর অভিযোগ",
+      "content": "News article: কেন সেভেনের ছাত্রীকে টুকরো টুকরো করে কাটলেন শিক্ষক? ভয়ঙ্কর অভিযোগ",
+      "summary": "কেন সেভেনের ছাত্রীকে টুকরো টুকরো করে কাটলেন শিক্ষক? ভয়ঙ্কর অভিযোগ",
+      "url": "https://tv9bangla.com/west-bengal/birbhum/rampurhat-murder-why-did-the-teacher-cut-a-seventh-grader-into-pieces-horrifying-allegations-1242218.html",
+      "author": null,
+      "ministries": [
+        "finance",
+        "education"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "education": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ভয়ঙ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:50.925506Z",
+        "website_section": null,
+        "content_hash": "41e1e74e4597135f396c2e9be3b44e5f"
+      }
+    },
+    {
+      "id": "e140a3abdfa38cde68b5d621ebc2f4c2",
+      "source_type": "web_scraper",
+      "source_name": "News18 Bangla",
+      "timestamp": "2025-09-18T15:42:46.140639Z",
+      "language": "Bengali",
+      "title": "বিনিয়োগের সঠিক পদক্ষেপ",
+      "content": "News article: বিনিয়োগের সঠিক পদক্ষেপ",
+      "summary": "বিনিয়োগের সঠিক পদক্ষেপ",
+      "url": "https://www.news18features.com/niveshkasahikadam/",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "পদক",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:46.140639Z",
+        "website_section": null,
+        "content_hash": "623d3c09c654d6d62f05403039ba3b2f"
+      }
+    },
+    {
+      "id": "52eff780ab86ee9d0d62adc448acbabd",
+      "source_type": "web_scraper",
+      "source_name": "News18 Bangla",
+      "timestamp": "2025-09-18T15:42:46.140130Z",
+      "language": "Bengali",
+      "title": "এশিয়া কাপ ২০২৫",
+      "content": "News article: এশিয়া কাপ ২০২৫",
+      "summary": "এশিয়া কাপ ২০২৫",
+      "url": "https://bengali.news18.com/tag/asia-cup/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "২০২৫",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:46.140130Z",
+        "website_section": null,
+        "content_hash": "3e29bbaaa50e185ba30ad3c369865527"
+      }
+    },
+    {
+      "id": "64d0430da86c2ad11379936bdb81a707",
+      "source_type": "web_scraper",
+      "source_name": "News18 Bangla",
+      "timestamp": "2025-09-18T15:42:46.140130Z",
+      "language": "Bengali",
+      "title": "দুর্গা পূজা ২০২৫",
+      "content": "News article: দুর্গা পূজা ২০২৫",
+      "summary": "দুর্গা পূজা ২০২৫",
+      "url": "https://bengali.news18.com/tag/durga-puja/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "২০২৫",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:46.140130Z",
+        "website_section": null,
+        "content_hash": "0b0aedb25104dd5cd1140445e44bbd12"
+      }
+    },
+    {
+      "id": "63f052e0dee1ec48402a9ad26025462e",
+      "source_type": "web_scraper",
+      "source_name": "News18 Bangla",
+      "timestamp": "2025-09-18T15:42:46.138614Z",
+      "language": "Bengali",
+      "title": "সর্বশেষ বাংলা খবর",
+      "content": "News article: সর্বশেষ বাংলা খবর",
+      "summary": "সর্বশেষ বাংলা খবর",
+      "url": "https://bengali.news18.com/news/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "খবর",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:46.138614Z",
+        "website_section": null,
+        "content_hash": "f033454ba875b8b1b03eb828f2483987"
+      }
+    },
+    {
+      "id": "069abaf88ae090b8f3dd4a6fb710ad52",
+      "source_type": "web_scraper",
+      "source_name": "News18 Bangla",
+      "timestamp": "2025-09-18T15:42:46.134701Z",
+      "language": "Bengali",
+      "title": "দুর্গাপুজো ২০২৫",
+      "content": "News article: দুর্গাপুজো ২০২৫",
+      "summary": "দুর্গাপুজো ২০২৫",
+      "url": "https://bengali.news18.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "২০২৫",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:46.134701Z",
+        "website_section": null,
+        "content_hash": "2f1938b343f370f46d4fc13995cd5333"
+      }
+    },
+    {
+      "id": "b51313e419b2fa1d5f4402946b33c914",
+      "source_type": "web_scraper",
+      "source_name": "News18 Bangla",
+      "timestamp": "2025-09-18T15:42:46.133708Z",
+      "language": "Bengali",
+      "title": "Latest Bengali News",
+      "content": "ভোটচুরি নিয়ে ‘হাইড্রোজেন বোমা’! ‘অনলাইনে মুছে যাচ্ছে ভোট,’ রাহুলের অভিযোগ, কমিশন বলল...দেশ",
+      "summary": "Latest Bengali News",
+      "url": "https://bengali.news18.com",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "latest",
+        "bengali",
+        "news",
+        "অনল",
+        "বলল"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:46.133708Z",
+        "website_section": null,
+        "content_hash": "dc3d9c297b8e1e45fba46509bc3c4360"
+      }
+    },
+    {
+      "id": "bd7932b151464db3115074e16b5d08d3",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.367457Z",
+      "language": "Kannada",
+      "title": "ಇಂದಿನ ಪ್ರಮುಖ ಸುದ್ದಿ",
+      "content": "News article: ಇಂದಿನ ಪ್ರಮುಖ ಸುದ್ದಿ",
+      "summary": "ಇಂದಿನ ಪ್ರಮುಖ ಸುದ್ದಿ",
+      "url": "https://www.udayavani.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.367457Z",
+        "website_section": null,
+        "content_hash": "8855965c0798e17e86c3bdf12376d0a5"
+      }
+    },
+    {
+      "id": "f5c5df5909f8a460e16608506d76ad39",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.353366Z",
+      "language": "Kannada",
+      "title": "ಪಡಿತರ ಚೀಟಿ ಇಲ್ಲವಾದರೆ ಇ-ಕೆವೈಸಿ ಕಡ್ಡಾಯ: ವಿಧಾನಸಭಾಧ್ಯಕ್ಷ ಯು.ಟಿ. ಖಾದರ್",
+      "content": "News article: ಪಡಿತರ ಚೀಟಿ ಇಲ್ಲವಾದರೆ ಇ-ಕೆವೈಸಿ ಕಡ್ಡಾಯ: ವಿಧಾನಸಭಾಧ್ಯಕ್ಷ ಯು.ಟಿ. ಖಾದರ್",
+      "summary": "ಪಡಿತರ ಚೀಟಿ ಇಲ್ಲವಾದರೆ ಇ-ಕೆವೈಸಿ ಕಡ್ಡಾಯ: ವಿಧಾನಸಭಾಧ್ಯಕ್ಷ ಯು.ಟಿ. ಖಾದರ್",
+      "url": "https://www.udayavani.com/dakshina-kannada-news/social-educational-survey-house-to-house-visits-from-sept-22-764515?lang=kn",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ನಸಭ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.353366Z",
+        "website_section": null,
+        "content_hash": "6c0327b788fa6991b139079a5d9c4711"
+      }
+    },
+    {
+      "id": "6ccad711b5e1372d3106ec9e211d4f7d",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.353366Z",
+      "language": "Kannada",
+      "title": "ನಕಲಿ ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ ಬ್ಯಾಂಕ್‌ಗೆ 2.50 ಕೋ.ರೂ. ವಂಚನೆ",
+      "content": "News article: ನಕಲಿ ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ ಬ್ಯಾಂಕ್‌ಗೆ 2.50 ಕೋ.ರೂ. ವಂಚನೆ",
+      "summary": "ನಕಲಿ ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ ಬ್ಯಾಂಕ್‌ಗೆ 2.50 ಕೋ.ರೂ. ವಂಚನೆ",
+      "url": "https://www.udayavani.com/dakshina-kannada-news/bank-defrauded-of-rs-250-crore-by-creating-fake-documents-844181?lang=kn",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ನಕಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.353366Z",
+        "website_section": null,
+        "content_hash": "4624917adf05db9b99407d1041d24a60"
+      }
+    },
+    {
+      "id": "eb211cfce073b58f99f13919ed154857",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.352366Z",
+      "language": "Kannada",
+      "title": "ಗೃಹಲಕ್ಷ್ಮಿ ಹಣದಿಂದ ಮನೆ ಬಾಗಿಲಿಗೆ ಸಿಎಂ‌ ಸಿದ್ದರಾಮಯ್ಯ ಭಾವಚಿತ್ರ ಕೆತ್ತಿಸಿದ ದಂಪತಿಗಳು",
+      "content": "News article: ಗೃಹಲಕ್ಷ್ಮಿ ಹಣದಿಂದ ಮನೆ ಬಾಗಿಲಿಗೆ ಸಿಎಂ‌ ಸಿದ್ದರಾಮಯ್ಯ ಭಾವಚಿತ್ರ ಕೆತ್ತಿಸಿದ ದಂಪತಿಗಳು",
+      "summary": "ಗೃಹಲಕ್ಷ್ಮಿ ಹಣದಿಂದ ಮನೆ ಬಾಗಿಲಿಗೆ ಸಿಎಂ‌ ಸಿದ್ದರಾಮಯ್ಯ ಭಾವಚಿತ್ರ ಕೆತ್ತಿಸಿದ ದಂಪತಿಗಳು",
+      "url": "https://www.udayavani.com/vijayanagara-vijayanagara/Karnataka-CM-Siddaramiah-photo-in-door-763389?lang=kn",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಹಲಕ",
+        "ಹಣದ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.352366Z",
+        "website_section": null,
+        "content_hash": "ae0e8494b1de06c590cad55f307132e8"
+      }
+    },
+    {
+      "id": "bbe86aea5b70e898305b0d0dabe842a8",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.352366Z",
+      "language": "Kannada",
+      "title": "ಮುಡಾ ಕೇಸ್‌' ಇನ್ನೂ ಹಲವರ ಬಂಧನ ಸಾಧ್ಯತೆ: ಸ್ನೇಹಮಯಿ",
+      "content": "News article: ಮುಡಾ ಕೇಸ್‌' ಇನ್ನೂ ಹಲವರ ಬಂಧನ ಸಾಧ್ಯತೆ: ಸ್ನೇಹಮಯಿ",
+      "summary": "ಮುಡಾ ಕೇಸ್‌' ಇನ್ನೂ ಹಲವರ ಬಂಧನ ಸಾಧ್ಯತೆ: ಸ್ನೇಹಮಯಿ",
+      "url": "https://www.udayavani.com/mysore-news/more-arrests-possible-in-muda-case-snehamayi-347012?lang=kn",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಹಲವರ",
+        "ಹಮಯ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.352366Z",
+        "website_section": null,
+        "content_hash": "af1971afcd10be2bce799c0c5075d1b2"
+      }
+    },
+    {
+      "id": "223dd96830f01b02110e2e9177ba5ee7",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.351366Z",
+      "language": "Kannada",
+      "title": "Uttarakhand: ತಡರಾತ್ರಿ ಚಮೋಲಿಯಲ್ಲಿ ಮೇಘಸ್ಫೋಟ.. ಕೊಚ್ಚಿ ಹೋದ ಮನೆಗಳು, 10 ಮಂದಿ ನಾಪತ್ತೆ",
+      "content": "News article: Uttarakhand: ತಡರಾತ್ರಿ ಚಮೋಲಿಯಲ್ಲಿ ಮೇಘಸ್ಫೋಟ.. ಕೊಚ್ಚಿ ಹೋದ ಮನೆಗಳು, 10 ಮಂದಿ ನಾಪತ್ತೆ",
+      "summary": "Uttarakhand: ತಡರಾತ್ರಿ ಚಮೋಲಿಯಲ್ಲಿ ಮೇಘಸ್ಫೋಟ.. ಕೊಚ್ಚಿ ಹೋದ ಮನೆಗಳು, 10 ಮಂದಿ ನಾಪತ್ತೆ",
+      "url": "https://www.udayavani.com/national-news/cloudburst-in-uttarakhands-chamoli-houses-washed-away-10-missing-514134?lang=kn",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "uttarakhand",
+        "ತಡರ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.351366Z",
+        "website_section": null,
+        "content_hash": "52fbcfd7f97310009aee74fe31bea3f9"
+      }
+    },
+    {
+      "id": "f39ccf6019bc28a456f4591eb4bbba6f",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.351366Z",
+      "language": "Kannada",
+      "title": "ಮರು ಎಣಿಕೆಯಲ್ಲಿ ಮಂಜುನಾಥ ಗೌಡ ಗೆದ್ದರೆ ರಾಜಕೀಯ ಬಿಡುವೆ: ನಂಜೇಗೌಡ",
+      "content": "News article: ಮರು ಎಣಿಕೆಯಲ್ಲಿ ಮಂಜುನಾಥ ಗೌಡ ಗೆದ್ದರೆ ರಾಜಕೀಯ ಬಿಡುವೆ: ನಂಜೇಗೌಡ",
+      "summary": "ಮರು ಎಣಿಕೆಯಲ್ಲಿ ಮಂಜುನಾಥ ಗೌಡ ಗೆದ್ದರೆ ರಾಜಕೀಯ ಬಿಡುವೆ: ನಂಜೇಗೌಡ",
+      "url": "https://www.udayavani.com/kolar-news/if-manjunatha-gowda-wins-in-recount-i-will-quit-politics-nanje-gowda-204097?lang=kn",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.351366Z",
+        "website_section": null,
+        "content_hash": "8a0ea910ddf384771fa47b89af87cb75"
+      }
+    },
+    {
+      "id": "8b120268a881ca6b9e9d3de51b2c2aae",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.350366Z",
+      "language": "Kannada",
+      "title": "ಹೂವಿನ ಬಾಣದಂತೆ..ʼ ಹಾಡು ಹಾಡಿ ತಪ್ಪು ಮಾಡಿದೆ.. ಕಣ್ಣೀರಿಟ್ಟ ವೈರಲ್‌ ಹುಡುಗಿ",
+      "content": "News article: ಹೂವಿನ ಬಾಣದಂತೆ..ʼ ಹಾಡು ಹಾಡಿ ತಪ್ಪು ಮಾಡಿದೆ.. ಕಣ್ಣೀರಿಟ್ಟ ವೈರಲ್‌ ಹುಡುಗಿ",
+      "summary": "ಹೂವಿನ ಬಾಣದಂತೆ..ʼ ಹಾಡು ಹಾಡಿ ತಪ್ಪು ಮಾಡಿದೆ.. ಕಣ್ಣೀರಿಟ್ಟ ವೈರಲ್‌ ಹುಡುಗಿ",
+      "url": "https://www.udayavani.com/viral-news/Hoovina-Baanadanthe-Viral-Girl-Nithyashree-187436?lang=kn",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.350366Z",
+        "website_section": null,
+        "content_hash": "3a0cb9655cd4259d6c122056a1eeeaa9"
+      }
+    },
+    {
+      "id": "aeb8d79338d873a637b4c6d756ad2636",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.350366Z",
+      "language": "Kannada",
+      "title": "Mudigere: ಅಂಗಡಿಗಳಲ್ಲಿ ಅಕ್ರಮ ಮದ್ಯ ಮಾರಾಟ... ದೇವರ ಮೊರೆ ಹೋದ ಗ್ರಾಮಸ್ಥರು",
+      "content": "News article: Mudigere: ಅಂಗಡಿಗಳಲ್ಲಿ ಅಕ್ರಮ ಮದ್ಯ ಮಾರಾಟ... ದೇವರ ಮೊರೆ ಹೋದ ಗ್ರಾಮಸ್ಥರು",
+      "summary": "Mudigere: ಅಂಗಡಿಗಳಲ್ಲಿ ಅಕ್ರಮ ಮದ್ಯ ಮಾರಾಟ... ದೇವರ ಮೊರೆ ಹೋದ ಗ್ರಾಮಸ್ಥರು",
+      "url": "https://www.udayavani.com/chikkamagaluru-news/Illegal-liquor-sale-at-mudigere-180142?lang=kn",
+      "author": null,
+      "ministries": [
+        "international_affairs",
+        "agriculture"
+      ],
+      "ministry_scores": {
+        "international_affairs": 1.0,
+        "agriculture": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "mudigere",
+        "ಗಳಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.350366Z",
+        "website_section": null,
+        "content_hash": "6bf9b8e0f89e0b46fdc579ce37cfffb8"
+      }
+    },
+    {
+      "id": "a1aeba9da1911cd4eb9603038f38861b",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.349366Z",
+      "language": "Kannada",
+      "title": "TDB: ಶಬರಿಮಲೆ ವಿಗ್ರಹದಿಂದ ಚಿನ್ನ ನಾಪತ್ತೆ! ತನಿಖೆಗೆ ಆದೇಶ ನೀಡಿದ ಹೈಕೋರ್ಟ್",
+      "content": "News article: TDB: ಶಬರಿಮಲೆ ವಿಗ್ರಹದಿಂದ ಚಿನ್ನ ನಾಪತ್ತೆ! ತನಿಖೆಗೆ ಆದೇಶ ನೀಡಿದ ಹೈಕೋರ್ಟ್",
+      "summary": "TDB: ಶಬರಿಮಲೆ ವಿಗ್ರಹದಿಂದ ಚಿನ್ನ ನಾಪತ್ತೆ! ತನಿಖೆಗೆ ಆದೇಶ ನೀಡಿದ ಹೈಕೋರ್ಟ್",
+      "url": "https://www.udayavani.com/national-news/High-Court-orders-probe-into-gold-missing-from-Sabarimala-idol-030518?lang=kn",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "tdb",
+        "ಶಬರ",
+        "ರಹದ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.349366Z",
+        "website_section": null,
+        "content_hash": "88ad2c69d2763d7c06a00818c2105df9"
+      }
+    },
+    {
+      "id": "46a32a0bf083647ec354b8860b731c78",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.348369Z",
+      "language": "Kannada",
+      "title": "Deepika Padukone:'ಸ್ಪಿರಿಟ್' ಬಳಿಕ 'ಕಲ್ಕಿ' ಸೀಕ್ವೆಲ್ ನಿಂದಲೂ ಹೊರಬಿದ್ದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ",
+      "content": "News article: Deepika Padukone:'ಸ್ಪಿರಿಟ್' ಬಳಿಕ 'ಕಲ್ಕಿ' ಸೀಕ್ವೆಲ್ ನಿಂದಲೂ ಹೊರಬಿದ್ದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ",
+      "summary": "Deepika Padukone:'ಸ್ಪಿರಿಟ್' ಬಳಿಕ 'ಕಲ್ಕಿ' ಸೀಕ್ವೆಲ್ ನಿಂದಲೂ ಹೊರಬಿದ್ದ ದೀಪಿಕಾ ಪಡುಕೋಣೆ",
+      "url": "https://www.udayavani.com/south-cinema/deepika-padukone-ruled-out-of-sequel-to-kalki-after-spirit-793502?lang=kn",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "deepika",
+        "padukone",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.348369Z",
+        "website_section": null,
+        "content_hash": "72a270dd0b5b5ee40332cd263d7b7e2a"
+      }
+    },
+    {
+      "id": "1e38a65ef532c3606d08f45de7aeb0ab",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.348369Z",
+      "language": "Kannada",
+      "title": "Vote: ಆಳಂದ ಕ್ಷೇತ್ರದ ಮತಪಟ್ಟಿಯಿಂದ 6 ಸಾವಿರಕ್ಕೂ ಹೆಚ್ಚು ಹೆಸರು ಡಿಲೀಟ್:‌ ರಾಹುಲ್‌ ಆರೋಪ",
+      "content": "News article: Vote: ಆಳಂದ ಕ್ಷೇತ್ರದ ಮತಪಟ್ಟಿಯಿಂದ 6 ಸಾವಿರಕ್ಕೂ ಹೆಚ್ಚು ಹೆಸರು ಡಿಲೀಟ್:‌ ರಾಹುಲ್‌ ಆರೋಪ",
+      "summary": "Vote: ಆಳಂದ ಕ್ಷೇತ್ರದ ಮತಪಟ್ಟಿಯಿಂದ 6 ಸಾವಿರಕ್ಕೂ ಹೆಚ್ಚು ಹೆಸರು ಡಿಲೀಟ್:‌ ರಾಹುಲ್‌ ಆರೋಪ",
+      "url": "https://www.udayavani.com/national-news/Votes-were-deleted-in-aland-says-rahul-gandhi-899619?lang=kn",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "vote",
+        "ಮತಪಟ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.348369Z",
+        "website_section": null,
+        "content_hash": "84a1ab44e12a6f5622a70d09357e196d"
+      }
+    },
+    {
+      "id": "0ba0f6526014ba966715b87d6432076e",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.347459Z",
+      "language": "Kannada",
+      "title": "Bengaluru Road: ಸರ್ಕಾರವನ್ನು ಬ್ಲ್ಯಾಕ್‌ಮೇಲ್‌ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ: ಕಂಪನಿಗಳಿಗೆ ಡಿಕೆಶಿ",
+      "content": "News article: Bengaluru Road: ಸರ್ಕಾರವನ್ನು ಬ್ಲ್ಯಾಕ್‌ಮೇಲ್‌ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ: ಕಂಪನಿಗಳಿಗೆ ಡಿಕೆಶಿ",
+      "summary": "Bengaluru Road: ಸರ್ಕಾರವನ್ನು ಬ್ಲ್ಯಾಕ್‌ಮೇಲ್‌ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ: ಕಂಪನಿಗಳಿಗೆ ಡಿಕೆಶಿ",
+      "url": "https://www.udayavani.com/state-news/you-cant-blackmail-Govt-says-d-k-shivakumar-908246?lang=kn",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "bengaluru",
+        "road",
+        "ರವನ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.347459Z",
+        "website_section": null,
+        "content_hash": "61bbb23108a1bbd147a5749bed889828"
+      }
+    },
+    {
+      "id": "c83a64aa27dcf4d1db10ad838263b63d",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.347459Z",
+      "language": "Kannada",
+      "title": "Matheran trek: ಚಾರಣಕ್ಕೆ ತೆರಳಿ ನಾಪತ್ತೆಯಾಗಿದ್ದ ನೌಕಾಪಡೆ ಅಧಿಕಾರಿಯ ಮೃ*ತದೇಹ ಪತ್ತೆ",
+      "content": "News article: Matheran trek: ಚಾರಣಕ್ಕೆ ತೆರಳಿ ನಾಪತ್ತೆಯಾಗಿದ್ದ ನೌಕಾಪಡೆ ಅಧಿಕಾರಿಯ ಮೃ*ತದೇಹ ಪತ್ತೆ",
+      "summary": "Matheran trek: ಚಾರಣಕ್ಕೆ ತೆರಳಿ ನಾಪತ್ತೆಯಾಗಿದ್ದ ನೌಕಾಪಡೆ ಅಧಿಕಾರಿಯ ಮೃ*ತದೇಹ ಪತ್ತೆ",
+      "url": "https://www.udayavani.com/national-news/missing-navy-official-body-found-near-mumbai-419019?lang=kn",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "matheran",
+        "trek",
+        "ರಣಕ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.347459Z",
+        "website_section": null,
+        "content_hash": "09f82a0bf052afb29edfc9fcbbc7a35a"
+      }
+    },
+    {
+      "id": "910593e741133ebcc0ee49c7c8dbcf50",
+      "source_type": "web_scraper",
+      "source_name": "Udayavani",
+      "timestamp": "2025-09-18T15:42:42.346465Z",
+      "language": "Kannada",
+      "title": "ಪೊಲೀಸ್‌ ಠಾಣಾ ಮೆಟ್ಟಿಲೇರಿದ ʼಬಿಗ್‌ ಬಾಸ್‌ʼ ರಂಜಿತ್‌ ಮನೆ ಜಗಳ – ಆಗಿದ್ದೇನು?",
+      "content": "News article: ಪೊಲೀಸ್‌ ಠಾಣಾ ಮೆಟ್ಟಿಲೇರಿದ ʼಬಿಗ್‌ ಬಾಸ್‌ʼ ರಂಜಿತ್‌ ಮನೆ ಜಗಳ – ಆಗಿದ್ದೇನು?",
+      "summary": "ಪೊಲೀಸ್‌ ಠಾಣಾ ಮೆಟ್ಟಿಲೇರಿದ ʼಬಿಗ್‌ ಬಾಸ್‌ʼ ರಂಜಿತ್‌ ಮನೆ ಜಗಳ – ಆಗಿದ್ದೇನು?",
+      "url": "https://www.udayavani.com/small-screen/Bigg-Boss-Kannada-Fame-Ranjith-File-Case-Against-His-Sister-802728?lang=kn",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಜಗಳ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:42.346465Z",
+        "website_section": null,
+        "content_hash": "ecf7b5fc5b6f2cc7fd939684be314209"
+      }
+    },
+    {
+      "id": "0fa55eee32949b5110e47b0dd83a4551",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.448052Z",
+      "language": "Kannada",
+      "title": "ಜಾತಿ ಜನಗಣತಿ: ಧಾರ್ಮಿಕ ಗುರುತಿನ ವಿಚಾರದಲ್ಲಿ ಒಡೆದ ಮನೆಯಾದ ಲಿಂಗಾಯತ ಸಮುದಾಯ!",
+      "content": "News article: ಜಾತಿ ಜನಗಣತಿ: ಧಾರ್ಮಿಕ ಗುರುತಿನ ವಿಚಾರದಲ್ಲಿ ಒಡೆದ ಮನೆಯಾದ ಲಿಂಗಾಯತ ಸಮುದಾಯ!",
+      "summary": "ಜಾತಿ ಜನಗಣತಿ: ಧಾರ್ಮಿಕ ಗುರುತಿನ ವಿಚಾರದಲ್ಲಿ ಒಡೆದ ಮನೆಯಾದ ಲಿಂಗಾಯತ ಸಮುದಾಯ!",
+      "url": "https://www.kannadaprabha.com/karnataka/2025/Sep/18/caste-census-lingayat-camps-clash-over-religious-identity",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಜನಗಣತ",
+        "ರದಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.448052Z",
+        "website_section": null,
+        "content_hash": "a3c67651a97df73c9788309926ed7734"
+      }
+    },
+    {
+      "id": "d15d9b10d35b081bc7ea62891fec77a2",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.446144Z",
+      "language": "Kannada",
+      "title": "ಬಂಗ್ಲೆಗುಡ್ಡದೊಳಗಿನ 10 ಎಕರೆಗೂ ಹೆಚ್ಚು ವಿಶಾಲವಾದ ಪ್ರದೇಶದಲ್ಲಿ, ನಮ್ಮ ತಂಡಗಳು ಸುಮಾರು 5 ಎಕರೆ ಪ್ರದೇಶದಲ್ಲಿ ಶೋಧ ನಡೆಸಿವೆ. ಇಂದು ಉಳಿದ 5 ಎಕರೆ ಪ್ರದೇಶದಲ್ಲಿ ಶೋಧ ಮುಂದುವರಿಸುತ್ತೇವೆ' ಎಂದು ಎಸ್‌ಐಟಿ ಮೂಲಗಳು ತಿಳಿಸಿವೆ.",
+      "content": "News article: ಬಂಗ್ಲೆಗುಡ್ಡದೊಳಗಿನ 10 ಎಕರೆಗೂ ಹೆಚ್ಚು ವಿಶಾಲವಾದ ಪ್ರದೇಶದಲ್ಲಿ, ನಮ್ಮ ತಂಡಗಳು ಸುಮಾರು 5 ಎಕರೆ ಪ್ರದೇಶದಲ್ಲಿ ಶೋಧ ನಡೆಸಿವೆ. ಇಂದು ಉಳಿದ 5 ಎಕರೆ ಪ್ರದೇಶದಲ್ಲಿ ಶೋಧ ಮುಂದುವರಿಸುತ್ತೇವೆ' ಎಂದು ಎಸ್‌ಐಟಿ ಮೂಲಗಳು ತಿಳಿಸಿವೆ.",
+      "summary": "ಬಂಗ್ಲೆಗುಡ್ಡದೊಳಗಿನ 10 ಎಕರೆಗೂ ಹೆಚ್ಚು ವಿಶಾಲವಾದ ಪ್ರದೇಶದಲ್ಲಿ, ನಮ್ಮ ತಂಡಗಳು ಸುಮಾರು 5 ಎಕರೆ ಪ್ರದೇಶದಲ್ಲಿ ಶೋಧ ನಡೆಸಿವೆ. ಇಂದು ಉಳಿದ 5 ಎಕರೆ ಪ್ರದೇಶದಲ್ಲಿ ಶೋಧ ಮುಂದುವರಿಸುತ್ತೇವೆ' ಎಂದು ಎಸ್‌ಐಟಿ ಮೂಲಗಳು ತಿಳಿಸಿವೆ..",
+      "url": "https://www.kannadaprabha.com",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಎಕರ",
+        "ಶದಲ",
+        "ಡಗಳ",
+        "ಲಗಳ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.446144Z",
+        "website_section": null,
+        "content_hash": "caa8f2608a856f92df28561a0f0e2feb"
+      }
+    },
+    {
+      "id": "db5cf3f2d54f12a1825d383f4e7aafd2",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.445138Z",
+      "language": "Kannada",
+      "title": "ರಾಹುಲ್ ಗಾಂಧಿ ಮಾಡಿದ ಆರೋಪಗಳು ತಪ್ಪಾಗಿದ್ದು ಮತ್ತು ಆಧಾರರಹಿತವಾಗಿವೆ. ಯಾವುದೇ ವ್ಯಕ್ತಿ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಯಾವುದೇ ಮತವನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+      "content": "News article: ರಾಹುಲ್ ಗಾಂಧಿ ಮಾಡಿದ ಆರೋಪಗಳು ತಪ್ಪಾಗಿದ್ದು ಮತ್ತು ಆಧಾರರಹಿತವಾಗಿವೆ. ಯಾವುದೇ ವ್ಯಕ್ತಿ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಯಾವುದೇ ಮತವನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.",
+      "summary": "ರಾಹುಲ್ ಗಾಂಧಿ ಮಾಡಿದ ಆರೋಪಗಳು ತಪ್ಪಾಗಿದ್ದು ಮತ್ತು ಆಧಾರರಹಿತವಾಗಿವೆ. ಯಾವುದೇ ವ್ಯಕ್ತಿ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಯಾವುದೇ ಮತವನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.. News article: ರಾಹುಲ್ ಗಾಂಧಿ ಮಾಡಿದ ಆರೋಪಗಳು ತಪ್ಪಾಗಿದ್ದು ಮತ್ತು ಆಧಾರರಹಿತವಾಗಿವೆ.",
+      "url": "https://www.kannadaprabha.com",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಪಗಳ",
+        "ರರಹ",
+        "ಮತವನ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.445138Z",
+        "website_section": null,
+        "content_hash": "0882ba9dc3ab64c18f7b08f928411090"
+      }
+    },
+    {
+      "id": "6502ca9cb2dca5dcded132820bfaddd8",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.444137Z",
+      "language": "Kannada",
+      "title": "ಭಾರತದ ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಭಾರತೀಯ ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ನಾಶಪಡಿಸಿದವರನ್ನು ರಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ ಎಂಬುದಕ್ಕೆ ನನ್ನಲ್ಲಿ ಸ್ಪಷ್ಟ ಪುರಾವೆಗಳಿವೆ. ಅದನ್ನು ಹೇಗೆ ಮಾಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾನು ನಿಮಗೆ ತೋರಿಸಲಿದ್ದೇನೆ ಎಂದರು.",
+      "content": "News article: ಭಾರತದ ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಭಾರತೀಯ ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ನಾಶಪಡಿಸಿದವರನ್ನು ರಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ ಎಂಬುದಕ್ಕೆ ನನ್ನಲ್ಲಿ ಸ್ಪಷ್ಟ ಪುರಾವೆಗಳಿವೆ. ಅದನ್ನು ಹೇಗೆ ಮಾಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾನು ನಿಮಗೆ ತೋರಿಸಲಿದ್ದೇನೆ ಎಂದರು.",
+      "summary": "ಭಾರತದ ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಭಾರತೀಯ ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ನಾಶಪಡಿಸಿದವರನ್ನು ರಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ ಎಂಬುದಕ್ಕೆ ನನ್ನಲ್ಲಿ ಸ್ಪಷ್ಟ ಪುರಾವೆಗಳಿವೆ. ಅದನ್ನು ಹೇಗೆ ಮಾಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾನು ನಿಮಗೆ ತೋರಿಸಲಿದ್ದೇನೆ ಎಂದರು..",
+      "url": "https://www.kannadaprabha.com",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ರತದ",
+        "ವವನ",
+        "ಶಪಡ",
+        "ದವರನ",
+        "ಅದನ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.444137Z",
+        "website_section": null,
+        "content_hash": "190203d79c7eeff82114f7b628c2f8d2"
+      }
+    },
+    {
+      "id": "fc9e7131367ce55089eab37b69bb075b",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.443037Z",
+      "language": "Kannada",
+      "title": "ಉತ್ತರಾಖಂಡ ಮೇಘಸ್ಫೋಟ: ಚಮೋಲಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಹತ್ತು ಮಂದಿ ನಾಪತ್ತೆ; ಸಂಪರ್ಕ ಕಳೆದುಕೊಂಡ ಗ್ರಾಮಗಳು; Video",
+      "content": "News article: ಉತ್ತರಾಖಂಡ ಮೇಘಸ್ಫೋಟ: ಚಮೋಲಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಹತ್ತು ಮಂದಿ ನಾಪತ್ತೆ; ಸಂಪರ್ಕ ಕಳೆದುಕೊಂಡ ಗ್ರಾಮಗಳು; Video",
+      "summary": "ಉತ್ತರಾಖಂಡ ಮೇಘಸ್ಫೋಟ: ಚಮೋಲಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಹತ್ತು ಮಂದಿ ನಾಪತ್ತೆ; ಸಂಪರ್ಕ ಕಳೆದುಕೊಂಡ ಗ್ರಾಮಗಳು; Video. News article: ಉತ್ತರಾಖಂಡ ಮೇಘಸ್ಫೋಟ: ಚಮೋಲಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಹತ್ತು ಮಂದಿ ನಾಪತ್ತೆ; ಸಂಪರ್ಕ ಕಳೆದುಕೊಂಡ ಗ್ರಾಮಗಳು; Video.",
+      "url": "https://www.kannadaprabha.com/nation/2025/Sep/18/cloudbursts-in-uttarakhands-chamoli-leave-10-missing-and-villages-isolated",
+      "author": null,
+      "ministries": [
+        "agriculture"
+      ],
+      "ministry_scores": {
+        "agriculture": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಮಗಳ",
+        "video",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.443037Z",
+        "website_section": null,
+        "content_hash": "c931449123f2a2238f8bcf210bbf23bc"
+      }
+    },
+    {
+      "id": "6bc6f96ccf7feeed9a33d1635c610945",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.443037Z",
+      "language": "Kannada",
+      "title": "ಉಕ್ರೇನ್ ಯುದ್ಧ ಪರಿಹರಿಸಲು ಸಹಾಯಕ್ಕೆ ಭಾರತ ಸಿದ್ಧವಿದೆ: ಪುಟಿನ್ ಗೆ ಪ್ರಧಾನಿ ಮೋದಿ ಭರವಸೆ",
+      "content": "News article: ಉಕ್ರೇನ್ ಯುದ್ಧ ಪರಿಹರಿಸಲು ಸಹಾಯಕ್ಕೆ ಭಾರತ ಸಿದ್ಧವಿದೆ: ಪುಟಿನ್ ಗೆ ಪ್ರಧಾನಿ ಮೋದಿ ಭರವಸೆ",
+      "summary": "ಉಕ್ರೇನ್ ಯುದ್ಧ ಪರಿಹರಿಸಲು ಸಹಾಯಕ್ಕೆ ಭಾರತ ಸಿದ್ಧವಿದೆ: ಪುಟಿನ್ ಗೆ ಪ್ರಧಾನಿ ಮೋದಿ ಭರವಸೆ",
+      "url": "https://www.kannadaprabha.com/nation/2025/Sep/18/india-ready-to-help-resolve-ukraine-war-modi-tells-putin",
+      "author": null,
+      "ministries": [
+        "politics",
+        "defence"
+      ],
+      "ministry_scores": {
+        "politics": 1.0,
+        "defence": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಭರವಸ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.443037Z",
+        "website_section": null,
+        "content_hash": "f2ae232d077ca519ef669e0680203c96"
+      }
+    },
+    {
+      "id": "773ef8d52a6d36cea7d67b82068738c7",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.419002Z",
+      "language": "Kannada",
+      "title": "ಧರ್ಮಸ್ಥಳ ಪ್ರಕರಣ: ಬಂಗ್ಲೆಗುಡ್ಡದಲ್ಲಿ ಪತ್ತೆಯಾದ ಬಹುತೇಕ ಮಾನವ ಅವಶೇಷಗಳು ಪುರುಷರದ್ದು, ಇತ್ತೀಚಿನವುಗಳು! Video",
+      "content": "ಧರ್ಮಸ್ಥಳ ಪ್ರಕರಣ: ಬಂಗ್ಲೆಗುಡ್ಡದಲ್ಲಿ ಪತ್ತೆಯಾದ ಬಹುತೇಕ ಮಾನವ ಅವಶೇಷಗಳು ಪುರುಷರದ್ದು, ಇತ್ತೀಚಿನವುಗಳು! Videoಬಂಗ್ಲೆಗುಡ್ಡದೊಳಗಿನ 10 ಎಕರೆಗೂ ಹೆಚ್ಚು ವಿಶಾಲವಾದ ಪ್ರದೇಶದಲ್ಲಿ, ನಮ್ಮ ತಂಡಗಳು ಸುಮಾರು 5 ಎಕರೆ ಪ್ರದೇಶದಲ್ಲಿ ಶೋಧ ನಡೆಸಿವೆ. ಇಂದು ಉಳಿದ 5 ಎಕರೆ ಪ್ರದೇಶದಲ್ಲಿ ಶೋಧ ಮುಂದುವರಿಸುತ್ತೇವೆ' ಎಂದು ಎಸ್‌ಐಟಿ ಮೂಲಗಳು ತಿಳಿಸಿವೆ.",
+      "summary": "ಧರ್ಮಸ್ಥಳ ಪ್ರಕರಣ: ಬಂಗ್ಲೆಗುಡ್ಡದಲ್ಲಿ ಪತ್ತೆಯಾದ ಬಹುತೇಕ ಮಾನವ ಅವಶೇಷಗಳು ಪುರುಷರದ್ದು, ಇತ್ತೀಚಿನವುಗಳು! Video. ಧರ್ಮಸ್ಥಳ ಪ್ರಕರಣ: ಬಂಗ್ಲೆಗುಡ್ಡದಲ್ಲಿ ಪತ್ತೆಯಾದ ಬಹುತೇಕ ಮಾನವ ಅವಶೇಷಗಳು ಪುರುಷರದ್ದು, ಇತ್ತೀಚಿನವುಗಳು.",
+      "url": "https://www.kannadaprabha.com/karnataka/2025/Sep/18/human-remains-found-at-banglegudda-forest-most-likely-of-males-recent-ones",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಎಕರ",
+        "ಶದಲ",
+        "ರಕರಣ",
+        "ಡದಲ",
+        "ಅವಶ",
+        "ಷಗಳ",
+        "ಷರದ",
+        "video",
+        "videoಬ",
+        "ಡಗಳ"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.419002Z",
+        "website_section": null,
+        "content_hash": "0a4452a8a20ada92601a5931baa3418f"
+      }
+    },
+    {
+      "id": "417013238f28d2e46fc4b548dcf6118c",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.416994Z",
+      "language": "Kannada",
+      "title": "Onlineನಲ್ಲಿ ಮತ ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ರಾಹುಲ್ ಗಾಂಧಿ ಮತಗಳ್ಳತನ ಆರೋಪ ಆಧಾರರಹಿತ: ಚುನಾವಣಾ ಆಯೋಗ",
+      "content": "ದೇಶCEC 'ಮತ ಕಳ್ಳರ ರಕ್ಷಕ'; ಕರ್ನಾಟಕದ ಆಳಂದ ಕ್ಷೇತ್ರದಲ್ಲಿ 6,000 ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್: ರಾಹುಲ್ ಗಾಂಧಿ ಆರೋಪ; Videoಭಾರತದ ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಭಾರತೀಯ ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ನಾಶಪಡಿಸಿದವರನ್ನು ರಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ ಎಂಬುದಕ್ಕೆ ನನ್ನಲ್ಲಿ ಸ್ಪಷ್ಟ ಪುರಾವೆಗಳಿವೆ. ಅದನ್ನು ಹೇಗೆ ಮಾಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾನು ನಿಮಗೆ ತೋರಿಸಲಿದ್ದೇನೆ ಎಂದರು.",
+      "summary": "Onlineನಲ್ಲಿ ಮತ ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ, ರಾಹುಲ್ ಗಾಂಧಿ ಮತಗಳ್ಳತನ ಆರೋಪ ಆಧಾರರಹಿತ: ಚುನಾವಣಾ ಆಯೋಗ.",
+      "url": "https://www.kannadaprabha.com/nation/2025/Sep/18/rahuls-allegations-on-vote-theft-baseless-incorrect-ec",
+      "author": null,
+      "ministries": [
+        "sports",
+        "politics"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "onlineನಲ",
+        "ಮತಗಳ",
+        "ಳತನ",
+        "ರರಹ",
+        "ಶcec",
+        "ಟಕದ",
+        "ರದಲ",
+        "000",
+        "ಮತದ",
+        "videoಭ"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.416994Z",
+        "website_section": null,
+        "content_hash": "5ca1f4cafda86b2511ee51892296f61d"
+      }
+    },
+    {
+      "id": "2756391d9e84108b7c6e147b7844843c",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.415899Z",
+      "language": "Kannada",
+      "title": "CEC 'ಮತ ಕಳ್ಳರ ರಕ್ಷಕ'; ಕರ್ನಾಟಕದ ಆಳಂದ ಕ್ಷೇತ್ರದಲ್ಲಿ 6,000 ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್: ರಾಹುಲ್ ಗಾಂಧಿ ಆರೋಪ; Video",
+      "content": "ದೇಶCEC 'ಮತ ಕಳ್ಳರ ರಕ್ಷಕ'; ಕರ್ನಾಟಕದ ಆಳಂದ ಕ್ಷೇತ್ರದಲ್ಲಿ 6,000 ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್: ರಾಹುಲ್ ಗಾಂಧಿ ಆರೋಪ; Videoಭಾರತದ ಮುಖ್ಯ ಚುನಾವಣಾ ಆಯುಕ್ತರು ಭಾರತೀಯ ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ನಾಶಪಡಿಸಿದವರನ್ನು ರಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ ಎಂಬುದಕ್ಕೆ ನನ್ನಲ್ಲಿ ಸ್ಪಷ್ಟ ಪುರಾವೆಗಳಿವೆ. ಅದನ್ನು ಹೇಗೆ ಮಾಡಲಾಗುತ್ತದೆ ಎಂಬುದನ್ನು ನಾನು ನಿಮಗೆ ತೋರಿಸಲಿದ್ದೇನೆ ಎಂದರು.",
+      "summary": "CEC 'ಮತ ಕಳ್ಳರ ರಕ್ಷಕ'; ಕರ್ನಾಟಕದ ಆಳಂದ ಕ್ಷೇತ್ರದಲ್ಲಿ 6,000 ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್: ರಾಹುಲ್ ಗಾಂಧಿ ಆರೋಪ; Video.",
+      "url": "https://www.kannadaprabha.com/nation/2025/Sep/18/rahul-gandhi-calls-cec-protector-of-vote-thieves-presents-proof-for-massive-vote-deletion-in-karnataka",
+      "author": null,
+      "ministries": [
+        "sports",
+        "politics"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಟಕದ",
+        "ರದಲ",
+        "000",
+        "ಮತದ",
+        "cec",
+        "video",
+        "ಶcec",
+        "videoಭ",
+        "ರತದ",
+        "ವವನ"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.415899Z",
+        "website_section": null,
+        "content_hash": "1d3f9802b9ff5c94afcfdfd09da17da6"
+      }
+    },
+    {
+      "id": "27892dadf972ae25f5f12b1b42498195",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.413899Z",
+      "language": "Kannada",
+      "title": "ದೇಶಉಕ್ರೇನ್ ಯುದ್ಧ ಪರಿಹರಿಸಲು ಸಹಾಯಕ್ಕೆ ಭಾರತ ಸಿದ್ಧವಿದೆ: ಪುಟಿನ್ ಗೆ ಪ್ರಧಾನಿ ಮೋದಿ ಭರವಸೆ",
+      "content": "ದೇಶಮತದಾರರನ್ನು 'ಸಾಮೂಹಿಕವಾಗಿ' ಡಿಲೀಟ್ ಮಾಡಲು ಬಿಜೆಪಿಯಿಂದ ಫಾರ್ಮ್ 7 'ದುರುಪಯೋಗ': ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ\"ಈ ಡಿಲೀಟ್ ಮಾಡುವ ದಾಖಲೆಗಳನ್ನು ಯಾರು ಅನುಮೋದಿಸಿದರು? ಒಟಿಪಿ ಆಡಿಟ್ ಟ್ರಯಲ್ ಎಲ್ಲಿದೆ? ಅಳಿಸಲಾದ ಮತದಾರರನ್ನು ಯಾವಾಗ ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ? ಇಸಿಐ ಸಿಐಡಿಯೊಂದಿಗೆ ಸಹಕರಿಸಲು ಏಕೆ ನಿರಾಕರಿಸುತ್ತಿದೆ? ಇಸಿಐ ಯಾರನ್ನು ರಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸ ...",
+      "summary": "ದೇಶಉಕ್ರೇನ್ ಯುದ್ಧ ಪರಿಹರಿಸಲು ಸಹಾಯಕ್ಕೆ ಭಾರತ ಸಿದ್ಧವಿದೆ: ಪುಟಿನ್ ಗೆ ಪ್ರಧಾನಿ ಮೋದಿ ಭರವಸೆ.",
+      "url": "https://www.kannadaprabha.com/nation",
+      "author": null,
+      "ministries": [
+        "sports",
+        "politics",
+        "defence"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "politics": 1.0,
+        "defence": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ರರನ",
+        "ಶಉಕ",
+        "ಭರವಸ",
+        "ಶಮತದ",
+        "ಗಳನ",
+        "ರಯಲ",
+        "ಮತದ",
+        "ಸಹಕರ",
+        "ರಯತ"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.413899Z",
+        "website_section": null,
+        "content_hash": "df3c979c7ba6dcb3fca9100878d37121"
+      }
+    },
+    {
+      "id": "95163eac9474a70caa48d5e8f146fd27",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.411991Z",
+      "language": "Kannada",
+      "title": "ದೇಶಉತ್ತರಾಖಂಡ ಮೇಘಸ್ಫೋಟ: ಚಮೋಲಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಹತ್ತು ಮಂದಿ ನಾಪತ್ತೆ; ಸಂಪರ್ಕ ಕಳೆದುಕೊಂಡ ಗ್ರಾಮಗಳು; Video",
+      "content": "ದೇಶಮತದಾರರನ್ನು 'ಸಾಮೂಹಿಕವಾಗಿ' ಡಿಲೀಟ್ ಮಾಡಲು ಬಿಜೆಪಿಯಿಂದ ಫಾರ್ಮ್ 7 'ದುರುಪಯೋಗ': ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ\"ಈ ಡಿಲೀಟ್ ಮಾಡುವ ದಾಖಲೆಗಳನ್ನು ಯಾರು ಅನುಮೋದಿಸಿದರು? ಒಟಿಪಿ ಆಡಿಟ್ ಟ್ರಯಲ್ ಎಲ್ಲಿದೆ? ಅಳಿಸಲಾದ ಮತದಾರರನ್ನು ಯಾವಾಗ ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ? ಇಸಿಐ ಸಿಐಡಿಯೊಂದಿಗೆ ಸಹಕರಿಸಲು ಏಕೆ ನಿರಾಕರಿಸುತ್ತಿದೆ? ಇಸಿಐ ಯಾರನ್ನು ರಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸ ...",
+      "summary": "ದೇಶಉತ್ತರಾಖಂಡ ಮೇಘಸ್ಫೋಟ: ಚಮೋಲಿ ಜಿಲ್ಲೆಯಲ್ಲಿ ಹತ್ತು ಮಂದಿ ನಾಪತ್ತೆ; ಸಂಪರ್ಕ ಕಳೆದುಕೊಂಡ ಗ್ರಾಮಗಳು; Video.",
+      "url": "https://www.kannadaprabha.com/nation",
+      "author": null,
+      "ministries": [
+        "sports",
+        "agriculture",
+        "politics"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "agriculture": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ರರನ",
+        "ಶಉತ",
+        "ಮಗಳ",
+        "video",
+        "ಶಮತದ",
+        "ಗಳನ",
+        "ರಯಲ",
+        "ಮತದ",
+        "ಸಹಕರ",
+        "ರಯತ"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.411991Z",
+        "website_section": null,
+        "content_hash": "f731d1cc46e19c64af4e75a5a8e8bb25"
+      }
+    },
+    {
+      "id": "14db0257e214e1db370c6cdbd8d86f2a",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.410995Z",
+      "language": "Kannada",
+      "title": "ರಾಜ್ಯಧರ್ಮಸ್ಥಳ ಪ್ರಕರಣ: ಬಂಗ್ಲೆಗುಡ್ಡದಲ್ಲಿ ಪತ್ತೆಯಾದ ಬಹುತೇಕ ಮಾನವ ಅವಶೇಷಗಳು ಪುರುಷರದ್ದು, ಇತ್ತೀಚಿನವುಗಳು! Video",
+      "content": "ದೇಶಮತದಾರರನ್ನು 'ಸಾಮೂಹಿಕವಾಗಿ' ಡಿಲೀಟ್ ಮಾಡಲು ಬಿಜೆಪಿಯಿಂದ ಫಾರ್ಮ್ 7 'ದುರುಪಯೋಗ': ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ\"ಈ ಡಿಲೀಟ್ ಮಾಡುವ ದಾಖಲೆಗಳನ್ನು ಯಾರು ಅನುಮೋದಿಸಿದರು? ಒಟಿಪಿ ಆಡಿಟ್ ಟ್ರಯಲ್ ಎಲ್ಲಿದೆ? ಅಳಿಸಲಾದ ಮತದಾರರನ್ನು ಯಾವಾಗ ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ? ಇಸಿಐ ಸಿಐಡಿಯೊಂದಿಗೆ ಸಹಕರಿಸಲು ಏಕೆ ನಿರಾಕರಿಸುತ್ತಿದೆ? ಇಸಿಐ ಯಾರನ್ನು ರಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸ ...",
+      "summary": "ರಾಜ್ಯಧರ್ಮಸ್ಥಳ ಪ್ರಕರಣ: ಬಂಗ್ಲೆಗುಡ್ಡದಲ್ಲಿ ಪತ್ತೆಯಾದ ಬಹುತೇಕ ಮಾನವ ಅವಶೇಷಗಳು ಪುರುಷರದ್ದು, ಇತ್ತೀಚಿನವುಗಳು! Video.",
+      "url": "https://www.kannadaprabha.com/karnataka",
+      "author": null,
+      "ministries": [
+        "sports",
+        "politics"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ರರನ",
+        "ಯಧರ",
+        "ರಕರಣ",
+        "ಡದಲ",
+        "ಅವಶ",
+        "ಷಗಳ",
+        "ಷರದ",
+        "video",
+        "ಶಮತದ",
+        "ಗಳನ"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.410995Z",
+        "website_section": null,
+        "content_hash": "d711665770beb4617e9bf4ed2c115736"
+      }
+    },
+    {
+      "id": "e30b32ce74636b5b5267f83f727aaa86",
+      "source_type": "web_scraper",
+      "source_name": "Kannada Prabha",
+      "timestamp": "2025-09-18T15:42:37.409989Z",
+      "language": "Kannada",
+      "title": "ಮತದಾರರನ್ನು 'ಸಾಮೂಹಿಕವಾಗಿ' ಡಿಲೀಟ್ ಮಾಡಲು ಬಿಜೆಪಿಯಿಂದ ಫಾರ್ಮ್ 7 'ದುರುಪಯೋಗ': ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ",
+      "content": "ದೇಶಮತದಾರರನ್ನು 'ಸಾಮೂಹಿಕವಾಗಿ' ಡಿಲೀಟ್ ಮಾಡಲು ಬಿಜೆಪಿಯಿಂದ ಫಾರ್ಮ್ 7 'ದುರುಪಯೋಗ': ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ\"ಈ ಡಿಲೀಟ್ ಮಾಡುವ ದಾಖಲೆಗಳನ್ನು ಯಾರು ಅನುಮೋದಿಸಿದರು? ಒಟಿಪಿ ಆಡಿಟ್ ಟ್ರಯಲ್ ಎಲ್ಲಿದೆ? ಅಳಿಸಲಾದ ಮತದಾರರನ್ನು ಯಾವಾಗ ಮರುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ? ಇಸಿಐ ಸಿಐಡಿಯೊಂದಿಗೆ ಸಹಕರಿಸಲು ಏಕೆ ನಿರಾಕರಿಸುತ್ತಿದೆ? ಇಸಿಐ ಯಾರನ್ನು ರಕ್ಷಿಸಲು ಪ್ರಯತ್ನಿಸ ...",
+      "summary": "ಮತದಾರರನ್ನು 'ಸಾಮೂಹಿಕವಾಗಿ' ಡಿಲೀಟ್ ಮಾಡಲು ಬಿಜೆಪಿಯಿಂದ ಫಾರ್ಮ್ 7 'ದುರುಪಯೋಗ': ಪ್ರಿಯಾಂಕ್ ಖರ್ಗೆ.",
+      "url": "https://www.kannadaprabha.com/nation/2025/Sep/18/form-7-was-misused-by-bjp-to-delete-voters-en-masse-ahead-of-2023-polls-minister-priyank-kharge-2",
+      "author": null,
+      "ministries": [
+        "sports",
+        "politics"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ರರನ",
+        "ಮತದ",
+        "ಶಮತದ",
+        "ಗಳನ",
+        "ರಯಲ",
+        "ಸಹಕರ",
+        "ರಯತ"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:37.409989Z",
+        "website_section": null,
+        "content_hash": "5bfdda863648fa584bef4e13d321c044"
+      }
+    },
+    {
+      "id": "a8ab3facc6ec6143fc0f952745aa01ab",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.952289Z",
+      "language": "Kannada",
+      "title": "ಕಿಚ್ಚ ಸುದೀಪ್ ವಿರುದ್ಧ ವೈಯಕ್ತಿಕ ನಿಂದನೆ -ಪೊಲೀಸ್ ಆಯುಕ್ತರಿಗೆ ದೂರು",
+      "content": "News article: ಕಿಚ್ಚ ಸುದೀಪ್ ವಿರುದ್ಧ ವೈಯಕ್ತಿಕ ನಿಂದನೆ -ಪೊಲೀಸ್ ಆಯುಕ್ತರಿಗೆ ದೂರು",
+      "summary": "ಕಿಚ್ಚ ಸುದೀಪ್ ವಿರುದ್ಧ ವೈಯಕ್ತಿಕ ನಿಂದನೆ -ಪೊಲೀಸ್ ಆಯುಕ್ತರಿಗೆ ದೂರು",
+      "url": "https://newsfirstlive.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.952289Z",
+        "website_section": null,
+        "content_hash": "1e1a477e2347f0f0176879dece5a0ffc"
+      }
+    },
+    {
+      "id": "93ef7cc335fb5587286839402b30caeb",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.951214Z",
+      "language": "Kannada",
+      "title": "ಸಿನಿಮಾಕಿಚ್ಚ ಸುದೀಪ್ ವಿರುದ್ಧ ವೈಯಕ್ತಿಕ ನಿಂದನೆ -ಪೊಲೀಸ್ ಆಯುಕ್ತರಿಗೆ ದೂರುByGanesh KerekuliSep 18, 2025 09:57 IST1 Min read",
+      "content": "News article: ಸಿನಿಮಾಕಿಚ್ಚ ಸುದೀಪ್ ವಿರುದ್ಧ ವೈಯಕ್ತಿಕ ನಿಂದನೆ -ಪೊಲೀಸ್ ಆಯುಕ್ತರಿಗೆ ದೂರುByGanesh KerekuliSep 18, 2025 09:57 IST1 Min read",
+      "summary": "ಸಿನಿಮಾಕಿಚ್ಚ ಸುದೀಪ್ ವಿರುದ್ಧ ವೈಯಕ್ತಿಕ ನಿಂದನೆ -ಪೊಲೀಸ್ ಆಯುಕ್ತರಿಗೆ ದೂರುByGanesh KerekuliSep 18, 2025 09:57 IST1 Min read.",
+      "url": "https://newsfirstlive.com/cinema/complaint-filed-against-those-abusing-kichcha-sudeep-10475004",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "byganesh",
+        "kerekulisep",
+        "2025",
+        "ist1",
+        "min",
+        "read",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.951214Z",
+        "website_section": null,
+        "content_hash": "9d14fea0617cd41905f17ed882e165e4"
+      }
+    },
+    {
+      "id": "09eefe88dc183384cba5c2a3cc51563e",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.947184Z",
+      "language": "Kannada",
+      "title": "Sep 18, 2025 11:46 IST2 Min read",
+      "content": "News article: Sep 18, 2025 11:46 IST2 Min read",
+      "summary": "Sep 18, 2025 11:46 IST2 Min read",
+      "url": "https://newsfirstlive.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "sep",
+        "2025",
+        "ist2",
+        "min",
+        "read",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.947184Z",
+        "website_section": null,
+        "content_hash": "820094a6f60fe4f0da1f07ea04f216a4"
+      }
+    },
+    {
+      "id": "5f91a29b32f1564c33ebe299cd379456",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.946184Z",
+      "language": "Kannada",
+      "title": "ByGanesh Kerekuli",
+      "content": "News article: ByGanesh Kerekuli",
+      "summary": "ByGanesh Kerekuli",
+      "url": "https://newsfirstlive.com/author/ganesh-k",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "byganesh",
+        "kerekuli",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.946184Z",
+        "website_section": null,
+        "content_hash": "68e926d166de2ea322e2fbcc080ee705"
+      }
+    },
+    {
+      "id": "0f66bc0fcd205a56db0fa4aecaae1d77",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.946184Z",
+      "language": "Kannada",
+      "title": "Sep 18, 2025 11:25 IST2 Min read",
+      "content": "News article: Sep 18, 2025 11:25 IST2 Min read",
+      "summary": "Sep 18, 2025 11:25 IST2 Min read",
+      "url": "https://newsfirstlive.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "sep",
+        "2025",
+        "ist2",
+        "min",
+        "read",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.946184Z",
+        "website_section": null,
+        "content_hash": "506ad8ed6d55baad98d7ef4cf180052a"
+      }
+    },
+    {
+      "id": "8bebe0a4f7de7eea9bb292d57af660b4",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.932082Z",
+      "language": "Kannada",
+      "title": "ಕತ್ರಿನಾ ಕೈಫ್‌ ಗರ್ಭಿಣಿ, ನಟಿಗೆ ಸಿಕ್ತಾ 'ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯನ' ಆಶೀರ್ವಾದ? ಕುಕ್ಕೆಗೆ ಬಂದು ಪೂಜೆ ಮಾಡಿಸಿಕೊಂಡು ಹೋದ ಬೆನ್ನಲ್ಲಿಯೇ ಗರ್ಭಿಣಿ!",
+      "content": "ಕತ್ರಿನಾ ಕೈಫ್‌ ಗರ್ಭಿಣಿ, ನಟಿಗೆ ಸಿಕ್ತಾ 'ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯನ' ಆಶೀರ್ವಾದ? ಕುಕ್ಕೆಗೆ ಬಂದು ಪೂಜೆ ಮಾಡಿಸಿಕೊಂಡು ಹೋದ ಬೆನ್ನಲ್ಲಿಯೇ ಗರ್ಭಿಣಿ!ByChandramohanSep 17, 2025 14:00 IST2 Min read",
+      "summary": "ಕತ್ರಿನಾ ಕೈಫ್‌ ಗರ್ಭಿಣಿ, ನಟಿಗೆ ಸಿಕ್ತಾ 'ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯನ' ಆಶೀರ್ವಾದ? ಕುಕ್ಕೆಗೆ ಬಂದು ಪೂಜೆ ಮಾಡಿಸಿಕೊಂಡು ಹೋದ ಬೆನ್ನಲ್ಲಿಯೇ ಗರ್ಭಿಣಿ!. ಕತ್ರಿನಾ ಕೈಫ್‌ ಗರ್ಭಿಣಿ, ನಟಿಗೆ ಸಿಕ್ತಾ 'ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯನ' ಆಶೀರ್ವಾದ.",
+      "url": "https://newsfirstlive.com/top-news/katrina-kaif-is-pregnant-did-the-actress-get-the-blessings-of-kukke-subrahmanya-she-got-pregnant-right-after-she-went-to-kukke-and-performed-puja-10472656",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "bychandramohansep",
+        "2025",
+        "ist2",
+        "min",
+        "read"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.932082Z",
+        "website_section": null,
+        "content_hash": "7f63622cbf806d5350b3f851338af33f"
+      }
+    },
+    {
+      "id": "f9ad081997a0222628e3f520d92bb20e",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.931128Z",
+      "language": "Kannada",
+      "title": "WCPL ಟ್ರೋಫಿಗೆ ಮುತ್ತಿಟ್ಟ ಶ್ರೇಯಂಕ ಪಾಟೀಲ್ ಟೀಂ -ಹ್ಯಾಟ್ರಿಕ್ ಕಪ್ ಹೊಡೆದ ರಾಯಲ್ಸ್..!",
+      "content": "WCPL ಟ್ರೋಫಿಗೆ ಮುತ್ತಿಟ್ಟ ಶ್ರೇಯಂಕ ಪಾಟೀಲ್ ಟೀಂ -ಹ್ಯಾಟ್ರಿಕ್ ಕಪ್ ಹೊಡೆದ ರಾಯಲ್ಸ್..!ByGanesh KerekuliSep 18, 2025 13:15 IST1 Min read",
+      "summary": "WCPL ಟ್ರೋಫಿಗೆ ಮುತ್ತಿಟ್ಟ ಶ್ರೇಯಂಕ ಪಾಟೀಲ್ ಟೀಂ -ಹ್ಯಾಟ್ರಿಕ್ ಕಪ್ ಹೊಡೆದ ರಾಯಲ್ಸ್..!. WCPL ಟ್ರೋಫಿಗೆ ಮುತ್ತಿಟ್ಟ ಶ್ರೇಯಂಕ ಪಾಟೀಲ್ ಟೀಂ -ಹ್ಯಾಟ್ರಿಕ್ ಕಪ್ ಹೊಡೆದ ರಾಯಲ್ಸ್.",
+      "url": "https://newsfirstlive.com/sports/wcpl-final-barbados-royals-hatrick-title-10475723",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "wcpl",
+        "byganesh",
+        "kerekulisep",
+        "2025",
+        "ist1",
+        "min",
+        "read"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.931128Z",
+        "website_section": null,
+        "content_hash": "7a52ec43d47a79defa72f689571d0fc6"
+      }
+    },
+    {
+      "id": "4c055778a6bd25bdda9f3f8b015379cd",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.927973Z",
+      "language": "Kannada",
+      "title": "ಕರ್ನಾಟಕದ ಅಳಂದ ಕ್ಷೇತ್ರದಲ್ಲಿ 6000 ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್ -ರಾಹುಲ್ ಗಾಂಧಿ ಮತ್ತೊಂದು ಆರೋಪ",
+      "content": "ಕರ್ನಾಟಕದ ಅಳಂದ ಕ್ಷೇತ್ರದಲ್ಲಿ 6000 ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್ -ರಾಹುಲ್ ಗಾಂಧಿ ಮತ್ತೊಂದು ಆರೋಪByGanesh KerekuliSep 18, 2025 12:39 IST1 Min read",
+      "summary": "ಕರ್ನಾಟಕದ ಅಳಂದ ಕ್ಷೇತ್ರದಲ್ಲಿ 6000 ಮತದಾರರ ಹೆಸರು ಡಿಲೀಟ್ -ರಾಹುಲ್ ಗಾಂಧಿ ಮತ್ತೊಂದು ಆರೋಪ.",
+      "url": "https://newsfirstlive.com/politics/6000-voter-names-deleted-in-karnatakas-aland-says-rahul-gandhi-10475571",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಟಕದ",
+        "ರದಲ",
+        "6000",
+        "ಮತದ",
+        "ಪbyganesh",
+        "kerekulisep",
+        "2025",
+        "ist1",
+        "min",
+        "read"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.927973Z",
+        "website_section": null,
+        "content_hash": "d2c2a204b82a4831203d074ec696ba55"
+      }
+    },
+    {
+      "id": "832596c0bcdc92c58d3ffbe0e3053543",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.926979Z",
+      "language": "Kannada",
+      "title": "ಅಕ್ಕ-ತಮ್ಮನ ಜಗಳ! ಠಾಣೆ ಮೆಟ್ಟಿಲೇರಿದ ಬಿಗ್​​ಬಾಸ್ ಖ್ಯಾತಿಯ​ ರಂಜಿತ್​",
+      "content": "ಅಕ್ಕ-ತಮ್ಮನ ಜಗಳ! ಠಾಣೆ ಮೆಟ್ಟಿಲೇರಿದ ಬಿಗ್​​ಬಾಸ್ ಖ್ಯಾತಿಯ​ ರಂಜಿತ್​ByGanesh KerekuliSep 18, 2025 13:36 IST1 Min read",
+      "summary": "ಅಕ್ಕ-ತಮ್ಮನ ಜಗಳ! ಠಾಣೆ ಮೆಟ್ಟಿಲೇರಿದ ಬಿಗ್​​ಬಾಸ್ ಖ್ಯಾತಿಯ​ ರಂಜಿತ್​. ಠಾಣೆ ಮೆಟ್ಟಿಲೇರಿದ ಬಿಗ್​​ಬಾಸ್ ಖ್ಯಾತಿಯ​ ರಂಜಿತ್​ByGanesh KerekuliSep 18, 2025 13:36 IST1 Min read.",
+      "url": "https://newsfirstlive.com/state/bengaluru/bigg-boss-fame-ranjith-kumar-approaches-police-station-over-property-dispute-10475809",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಜಗಳ",
+        "byganesh",
+        "kerekulisep",
+        "2025",
+        "ist1",
+        "min",
+        "read"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.926979Z",
+        "website_section": null,
+        "content_hash": "4f95e9b10001a5e531818e69b8ca9a7b"
+      }
+    },
+    {
+      "id": "efa7edf60d82783b247d904fd08be36a",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.925982Z",
+      "language": "Kannada",
+      "title": "ಅಕ್ಕ-ತಮ್ಮನ ಜಗಳ.. ರಂಜಿತ್ ವಿರುದ್ಧ ಬಾಮೈದ ನೀಡಿದ ದೂರಿನಲ್ಲಿ ಏನಿದೆ?",
+      "content": "ಅಕ್ಕ-ತಮ್ಮನ ಜಗಳ.. ರಂಜಿತ್ ವಿರುದ್ಧ ಬಾಮೈದ ನೀಡಿದ ದೂರಿನಲ್ಲಿ ಏನಿದೆ?ByGanesh KerekuliSep 18, 2025 14:34 IST1 Min read",
+      "summary": "ಅಕ್ಕ-ತಮ್ಮನ ಜಗಳ.. ರಂಜಿತ್ ವಿರುದ್ಧ ಬಾಮೈದ ನೀಡಿದ ದೂರಿನಲ್ಲಿ ಏನಿದೆ?. ರಂಜಿತ್ ವಿರುದ್ಧ ಬಾಮೈದ ನೀಡಿದ ದೂರಿನಲ್ಲಿ ಏನಿದೆ. ByGanesh KerekuliSep 18, 2025 14:34 IST1 Min read.",
+      "url": "https://newsfirstlive.com/state/bengaluru/what-is-in-the-complaint-filed-against-bigg-boss-famous-ranjith-10475981",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಜಗಳ",
+        "byganesh",
+        "kerekulisep",
+        "2025",
+        "ist1",
+        "min",
+        "read"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.925982Z",
+        "website_section": null,
+        "content_hash": "38e81fff5fd4e813314e5563d841dc3a"
+      }
+    },
+    {
+      "id": "fc7e677cda2f9769e3d9a933b4b8ad7f",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.924980Z",
+      "language": "Kannada",
+      "title": "ರೇರಾ ಕಾಯ್ದೆ ಇದ್ರೂ ಆಟಕ್ಕುಂಟು, ಲೆಕ್ಕಕ್ಕೆ ಇಲ್ಲ.. ಜಮೀರ್ ಇಲಾಖೆಯಲ್ಲಿ ಬೆಚ್ಚಿ ಬೀಳಿಸಿದ ಅಕ್ರಮಗಳ ಸದ್ದು..!",
+      "content": "ರೇರಾ ಕಾಯ್ದೆ ಇದ್ರೂ ಆಟಕ್ಕುಂಟು, ಲೆಕ್ಕಕ್ಕೆ ಇಲ್ಲ.. ಜಮೀರ್ ಇಲಾಖೆಯಲ್ಲಿ ಬೆಚ್ಚಿ ಬೀಳಿಸಿದ ಅಕ್ರಮಗಳ ಸದ್ದು..!ByGanesh KerekuliSep 18, 2025 11:25 IST2 Min read",
+      "summary": "ರೇರಾ ಕಾಯ್ದೆ ಇದ್ರೂ ಆಟಕ್ಕುಂಟು, ಲೆಕ್ಕಕ್ಕೆ ಇಲ್ಲ.. ಜಮೀರ್ ಇಲಾಖೆಯಲ್ಲಿ ಬೆಚ್ಚಿ ಬೀಳಿಸಿದ ಅಕ್ರಮಗಳ ಸದ್ದು..!. ರೇರಾ ಕಾಯ್ದೆ ಇದ್ರೂ ಆಟಕ್ಕುಂಟು, ಲೆಕ್ಕಕ್ಕೆ ಇಲ್ಲ. ಜಮೀರ್ ಇಲಾಖೆಯಲ್ಲಿ ಬೆಚ್ಚಿ ಬೀಳಿಸಿದ ಅಕ್ರಮಗಳ ಸದ್ದು.",
+      "url": "https://newsfirstlive.com/politics/housing-minister-zameer-ahmed-khan-faces-allegations-of-irregularities-under-his-department-10475189",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಆಟಕ",
+        "ರಮಗಳ",
+        "byganesh",
+        "kerekulisep",
+        "2025",
+        "ist2",
+        "min",
+        "read"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.924980Z",
+        "website_section": null,
+        "content_hash": "841f98f9a6436dbabd0748d255d40e79"
+      }
+    },
+    {
+      "id": "475e4bd6f474b8e0a51a0e59d897c0d6",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.914218Z",
+      "language": "Kannada",
+      "title": "ಕ್ಯಾಮೆರಾಗೆ ಬಗೆ ಬಗೆಯ ಪೋಸ್​ ಕೊಟ್ಟ ತನಿಷಾ ಕುಪ್ಪಂಡ.. ಬಿಗ್​ಬಾಸ್​ ಬೆಡಗಿಯ ಬ್ಯೂಟಿ ಫೋಟೋಸ್!​",
+      "content": "News article: ಕ್ಯಾಮೆರಾಗೆ ಬಗೆ ಬಗೆಯ ಪೋಸ್​ ಕೊಟ್ಟ ತನಿಷಾ ಕುಪ್ಪಂಡ.. ಬಿಗ್​ಬಾಸ್​ ಬೆಡಗಿಯ ಬ್ಯೂಟಿ ಫೋಟೋಸ್!​",
+      "summary": "ಕ್ಯಾಮೆರಾಗೆ ಬಗೆ ಬಗೆಯ ಪೋಸ್​ ಕೊಟ್ಟ ತನಿಷಾ ಕುಪ್ಪಂಡ.. ಬಿಗ್​ಬಾಸ್​ ಬೆಡಗಿಯ ಬ್ಯೂಟಿ ಫೋಟೋಸ್!​",
+      "url": "https://newsfirstlive.com/top-news/kannada-actress-tanisha-kuppanda-beautiful-photos-9615622",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.914218Z",
+        "website_section": null,
+        "content_hash": "389ad952eb3b3e6e931d01cb0b769fc7"
+      }
+    },
+    {
+      "id": "0bba899e384e3e19404ee6435bdbe58e",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.913218Z",
+      "language": "Kannada",
+      "title": "ಟಾಪ್ ನ್ಯೂಸ್ಕ್ಯಾಮೆರಾಗೆ ಬಗೆ ಬಗೆಯ ಪೋಸ್​ ಕೊಟ್ಟ ತನಿಷಾ ಕುಪ್ಪಂಡ.. ಬಿಗ್​ಬಾಸ್​ ಬೆಡಗಿಯ ಬ್ಯೂಟಿ ಫೋಟೋಸ್!​",
+      "content": "News article: ಟಾಪ್ ನ್ಯೂಸ್ಕ್ಯಾಮೆರಾಗೆ ಬಗೆ ಬಗೆಯ ಪೋಸ್​ ಕೊಟ್ಟ ತನಿಷಾ ಕುಪ್ಪಂಡ.. ಬಿಗ್​ಬಾಸ್​ ಬೆಡಗಿಯ ಬ್ಯೂಟಿ ಫೋಟೋಸ್!​",
+      "summary": "ಟಾಪ್ ನ್ಯೂಸ್ಕ್ಯಾಮೆರಾಗೆ ಬಗೆ ಬಗೆಯ ಪೋಸ್​ ಕೊಟ್ಟ ತನಿಷಾ ಕುಪ್ಪಂಡ.. ಬಿಗ್​ಬಾಸ್​ ಬೆಡಗಿಯ ಬ್ಯೂಟಿ ಫೋಟೋಸ್!​. News article: ಟಾಪ್ ನ್ಯೂಸ್ಕ್ಯಾಮೆರಾಗೆ ಬಗೆ ಬಗೆಯ ಪೋಸ್​ ಕೊಟ್ಟ ತನಿಷಾ ಕುಪ್ಪಂಡ. ಬಿಗ್​ಬಾಸ್​ ಬೆಡಗಿಯ ಬ್ಯೂಟಿ ಫೋಟೋಸ್.",
+      "url": "https://newsfirstlive.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.913218Z",
+        "website_section": null,
+        "content_hash": "59b65d22ff28547ea093b302ca398c5c"
+      }
+    },
+    {
+      "id": "576a9a48539b72bbe5e864f9f0215e1a",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.911218Z",
+      "language": "Kannada",
+      "title": "ಭರ್ಜರಿ ಬ್ಯಾಚುಲರ್ಸ್ ಬೆನ್ನಲ್ಲೇ ಪಬ್​ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡ ಪವಿ ಪೂವಪ್ಪ.. PHOTO",
+      "content": "News article: ಭರ್ಜರಿ ಬ್ಯಾಚುಲರ್ಸ್ ಬೆನ್ನಲ್ಲೇ ಪಬ್​ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡ ಪವಿ ಪೂವಪ್ಪ.. PHOTO",
+      "summary": "ಭರ್ಜರಿ ಬ್ಯಾಚುಲರ್ಸ್ ಬೆನ್ನಲ್ಲೇ ಪಬ್​ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡ ಪವಿ ಪೂವಪ್ಪ.. PHOTO",
+      "url": "https://newsfirstlive.com/top-news/pavi-poovappa-spotted-at-the-pub-after-a-huge-bachelors-9617809",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "photo",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.911218Z",
+        "website_section": null,
+        "content_hash": "05a46a5bdc15cd5e9a05744dd27f707f"
+      }
+    },
+    {
+      "id": "d99cce43562f8c9ab8ae6659fdf7907e",
+      "source_type": "web_scraper",
+      "source_name": "NewsFirst Kannada",
+      "timestamp": "2025-09-18T15:42:33.910218Z",
+      "language": "Kannada",
+      "title": "ಸೀರಿಯಲ್ಭರ್ಜರಿ ಬ್ಯಾಚುಲರ್ಸ್ ಬೆನ್ನಲ್ಲೇ ಪಬ್​ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡ ಪವಿ ಪೂವಪ್ಪ.. PHOTO",
+      "content": "News article: ಸೀರಿಯಲ್ಭರ್ಜರಿ ಬ್ಯಾಚುಲರ್ಸ್ ಬೆನ್ನಲ್ಲೇ ಪಬ್​ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡ ಪವಿ ಪೂವಪ್ಪ.. PHOTO",
+      "summary": "ಸೀರಿಯಲ್ಭರ್ಜರಿ ಬ್ಯಾಚುಲರ್ಸ್ ಬೆನ್ನಲ್ಲೇ ಪಬ್​ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡ ಪವಿ ಪೂವಪ್ಪ.. PHOTO",
+      "url": "https://newsfirstlive.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "photo",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:33.910218Z",
+        "website_section": null,
+        "content_hash": "50375bb45f6e92471032707c117c9b97"
+      }
+    },
+    {
+      "id": "91ba9ed4cef2f493ddcc2ac0957e51b7",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.803181Z",
+      "language": "Kannada",
+      "title": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 16 September 2025 ಭಾಗ-1",
+      "content": "News article: ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 16 September 2025 ಭಾಗ-1",
+      "summary": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 16 September 2025 ಭಾಗ-1",
+      "url": "https://publictv.in/big-bulletin-16-september-2025-part-1/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "september",
+        "2025",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.803181Z",
+        "website_section": null,
+        "content_hash": "3f2e706256e9b4ca14f518e8c738253b"
+      }
+    },
+    {
+      "id": "af5b0f33ac014b460b5036d3d5403c62",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.803181Z",
+      "language": "Kannada",
+      "title": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 16 September 2025 ಭಾಗ-2",
+      "content": "News article: ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 16 September 2025 ಭಾಗ-2",
+      "summary": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 16 September 2025 ಭಾಗ-2",
+      "url": "https://publictv.in/big-bulletin-16-september-2025-part-2/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "september",
+        "2025",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.803181Z",
+        "website_section": null,
+        "content_hash": "67fa18ffe38285638b6b20c6b6083e03"
+      }
+    },
+    {
+      "id": "e6b61af802d01e3b3666b26e0758b076",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.802180Z",
+      "language": "Kannada",
+      "title": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-2",
+      "content": "News article: ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-2",
+      "summary": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-2",
+      "url": "https://publictv.in/big-bulletin-17-september-2025-part-2/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "september",
+        "2025",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.802180Z",
+        "website_section": null,
+        "content_hash": "64113b12515988f5a3de90b987db3b7d"
+      }
+    },
+    {
+      "id": "198d84447a9a3c35a85f29e0a38cf1bd",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.802180Z",
+      "language": "Kannada",
+      "title": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-3",
+      "content": "News article: ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-3",
+      "summary": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-3",
+      "url": "https://publictv.in/big-bulletin-17-september-2025-part-3/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "september",
+        "2025",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.802180Z",
+        "website_section": null,
+        "content_hash": "10c3193e0627ef67d816936174f4439c"
+      }
+    },
+    {
+      "id": "f0b5e3bc48077c9b32b8313671ebe1bb",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.801181Z",
+      "language": "Kannada",
+      "title": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-1",
+      "content": "News article: ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-1",
+      "summary": "ಬಿಗ್‌ ಬುಲೆಟಿನ್‌ 17 September 2025 ಭಾಗ-1",
+      "url": "https://publictv.in/big-bulletin-17-september-2025-part-1/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "september",
+        "2025",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.801181Z",
+        "website_section": null,
+        "content_hash": "cdbe2939383f3f12dff72bcacd8723ac"
+      }
+    },
+    {
+      "id": "d1278093383cfd22212e5ad58a9f7715",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.800168Z",
+      "language": "Kannada",
+      "title": "ನಟ ದರ್ಶನ್‌ಗೆ ಹಾಸಿಗೆ, ದಿಂಬು – ಸೆ.19ಕ್ಕೆ ಆದೇಶ ಕಾಯ್ದಿರಿಸಿದ ಕೋರ್ಟ್",
+      "content": "News article: ನಟ ದರ್ಶನ್‌ಗೆ ಹಾಸಿಗೆ, ದಿಂಬು – ಸೆ.19ಕ್ಕೆ ಆದೇಶ ಕಾಯ್ದಿರಿಸಿದ ಕೋರ್ಟ್",
+      "summary": "ನಟ ದರ್ಶನ್‌ಗೆ ಹಾಸಿಗೆ, ದಿಂಬು – ಸೆ.19ಕ್ಕೆ ಆದೇಶ ಕಾಯ್ದಿರಿಸಿದ ಕೋರ್ಟ್",
+      "url": "https://publictv.in/court-reserves-virdict-of-actor-darshans-bed-pillow-case-on-september-19/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "19ಕ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.800168Z",
+        "website_section": null,
+        "content_hash": "19340be478b6158d17538f60bab4172b"
+      }
+    },
+    {
+      "id": "d894c9712540f39d16a46d0fc647e404",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.800168Z",
+      "language": "Kannada",
+      "title": "ಕೊತ್ತಲವಾಡಿʼ ಕಿರಿಕ್‌ – ಸಹನಟಿ ಸ್ವರ್ಣ ವಿರುದ್ಧ ದೂರು ದಾಖಲು",
+      "content": "News article: ಕೊತ್ತಲವಾಡಿʼ ಕಿರಿಕ್‌ – ಸಹನಟಿ ಸ್ವರ್ಣ ವಿರುದ್ಧ ದೂರು ದಾಖಲು",
+      "summary": "ಕೊತ್ತಲವಾಡಿʼ ಕಿರಿಕ್‌ – ಸಹನಟಿ ಸ್ವರ್ಣ ವಿರುದ್ಧ ದೂರು ದಾಖಲು",
+      "url": "https://publictv.in/kothalavadi-clash-complaint-filed-against-co-star-swarna/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ತಲವ",
+        "ಸಹನಟ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.800168Z",
+        "website_section": null,
+        "content_hash": "0dcdae33d7aaaadfdf72b0fa80416e34"
+      }
+    },
+    {
+      "id": "fe337cd9ff1c359098cd4c0b2b17c583",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.799162Z",
+      "language": "Kannada",
+      "title": "ವಿಷ್ಣುವರ್ಧನ್ ಅಭಿಮಾನಿಗಳಿಗೆ ಗೆಲುವು – ಸಮಾಧಿ ಸಮೀಪ ಬರ್ತ್‌ಡೇಗೆ ಸಿಕ್ತು ಅನುಮತಿ",
+      "content": "News article: ವಿಷ್ಣುವರ್ಧನ್ ಅಭಿಮಾನಿಗಳಿಗೆ ಗೆಲುವು – ಸಮಾಧಿ ಸಮೀಪ ಬರ್ತ್‌ಡೇಗೆ ಸಿಕ್ತು ಅನುಮತಿ",
+      "summary": "ವಿಷ್ಣುವರ್ಧನ್ ಅಭಿಮಾನಿಗಳಿಗೆ ಗೆಲುವು – ಸಮಾಧಿ ಸಮೀಪ ಬರ್ತ್‌ಡೇಗೆ ಸಿಕ್ತು ಅನುಮತಿ",
+      "url": "https://publictv.in/victory-for-vishnuvardhan-fans-permission-granted-for-birthday-party-near-the-tomb/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.799162Z",
+        "website_section": null,
+        "content_hash": "ac9746203871fd9b1629ab18ba99d6c5"
+      }
+    },
+    {
+      "id": "49f8c695f601a938c2cdadd3a116cd8c",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.798162Z",
+      "language": "Kannada",
+      "title": "ಬಿಕಿನಿಯಲ್ಲಿ ಶಿವಲಿಂಗ ನಟಿ ಚಿಲ್‌ – ಪಡ್ಡೆ ಹೈಕ್ಳ ಮೈಬಿಸಿ ಹೆಚ್ಚಿಸಿದ ವೇದಿಕಾ",
+      "content": "News article: ಬಿಕಿನಿಯಲ್ಲಿ ಶಿವಲಿಂಗ ನಟಿ ಚಿಲ್‌ – ಪಡ್ಡೆ ಹೈಕ್ಳ ಮೈಬಿಸಿ ಹೆಚ್ಚಿಸಿದ ವೇದಿಕಾ",
+      "summary": "ಬಿಕಿನಿಯಲ್ಲಿ ಶಿವಲಿಂಗ ನಟಿ ಚಿಲ್‌ – ಪಡ್ಡೆ ಹೈಕ್ಳ ಮೈಬಿಸಿ ಹೆಚ್ಚಿಸಿದ ವೇದಿಕಾ",
+      "url": "https://publictv.in/actress-vedhika-new-bikini-photos/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.798162Z",
+        "website_section": null,
+        "content_hash": "14360cef80d8abbebd5b7391feb574aa"
+      }
+    },
+    {
+      "id": "146f6ddea367b3267badfb89153134a9",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.796162Z",
+      "language": "Kannada",
+      "title": "ಡಾ.ವಿಷ್ಣುವರ್ಧನ್ 75ನೇ ಜನ್ಮದಿನ ಇಂದು – ಅಭಿಮಾನ್‌ ಸ್ಟುಡಿಯೋ ಬಳಿ 2 ಎಕರೆ ಜಾಗದಲ್ಲಿ ಬರ್ತ್‌ಡೇಗೆ ಸಿದ್ಧತೆ",
+      "content": "News article: ಡಾ.ವಿಷ್ಣುವರ್ಧನ್ 75ನೇ ಜನ್ಮದಿನ ಇಂದು – ಅಭಿಮಾನ್‌ ಸ್ಟುಡಿಯೋ ಬಳಿ 2 ಎಕರೆ ಜಾಗದಲ್ಲಿ ಬರ್ತ್‌ಡೇಗೆ ಸಿದ್ಧತೆ",
+      "summary": "ಡಾ.ವಿಷ್ಣುವರ್ಧನ್ 75ನೇ ಜನ್ಮದಿನ ಇಂದು – ಅಭಿಮಾನ್‌ ಸ್ಟುಡಿಯೋ ಬಳಿ 2 ಎಕರೆ ಜಾಗದಲ್ಲಿ ಬರ್ತ್‌ಡೇಗೆ ಸಿದ್ಧತೆ. ವಿಷ್ಣುವರ್ಧನ್ 75ನೇ ಜನ್ಮದಿನ ಇಂದು – ಅಭಿಮಾನ್‌ ಸ್ಟುಡಿಯೋ ಬಳಿ 2 ಎಕರೆ ಜಾಗದಲ್ಲಿ ಬರ್ತ್‌ಡೇಗೆ ಸಿದ್ಧತೆ.",
+      "url": "https://publictv.in/vishnuvardhan-75th-birth-anniversary/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "75ನ",
+        "ಎಕರ",
+        "ಗದಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.796162Z",
+        "website_section": null,
+        "content_hash": "860395e04257ccf20c80516099f2c8b0"
+      }
+    },
+    {
+      "id": "bc11809d71c45d8691859692cb3a2ea5",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.795161Z",
+      "language": "Kannada",
+      "title": "PublicTV Explainer: ನೆರೆಯ ಕೇರಳದಲ್ಲಿ ಭೀತಿ ಹುಟ್ಟಿಸಿದ ಮೆದುಳು ತಿನ್ನುವ ಅಮೀಬಾ – ಒಮ್ಮೆ ಬಂದ ವೈರಸ್ ಸಾಯುವುದಿಲ್ಲ ಏಕೆ?",
+      "content": "News article: PublicTV Explainer: ನೆರೆಯ ಕೇರಳದಲ್ಲಿ ಭೀತಿ ಹುಟ್ಟಿಸಿದ ಮೆದುಳು ತಿನ್ನುವ ಅಮೀಬಾ – ಒಮ್ಮೆ ಬಂದ ವೈರಸ್ ಸಾಯುವುದಿಲ್ಲ ಏಕೆ?",
+      "summary": "PublicTV Explainer: ನೆರೆಯ ಕೇರಳದಲ್ಲಿ ಭೀತಿ ಹುಟ್ಟಿಸಿದ ಮೆದುಳು ತಿನ್ನುವ ಅಮೀಬಾ – ಒಮ್ಮೆ ಬಂದ ವೈರಸ್ ಸಾಯುವುದಿಲ್ಲ ಏಕೆ?.",
+      "url": "https://publictv.in/brain-eating-amoeba-kills-19-in-kerala-how-it-spreads-how-to-stay-safe-2/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "publictv",
+        "explainer",
+        "ರಳದಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.795161Z",
+        "website_section": null,
+        "content_hash": "4ebd20da13265a1e00a352648b15c207"
+      }
+    },
+    {
+      "id": "34c8ae8166d8b9d84b87cd6af4727642",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.794161Z",
+      "language": "Kannada",
+      "title": "Public TV - Latest Kannada News, Public TV Kannada Live, Public TV News",
+      "content": "Public Tv Covers The Latest Bengaluru News, Mysuru News, Hubballi News, Dharwad News, Belagavi News & National News in Kannada. We Provide Latest Kannada News",
+      "summary": "Public TV - Latest Kannada News, Public TV Kannada Live, Public TV News. Public Tv Covers The Latest Bengaluru News, Mysuru News, Hubballi News, Dharwad News, Belagavi News & National News in Kannada.",
+      "url": "https://publictv.in",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "public",
+        "kannada",
+        "latest",
+        "live",
+        "covers",
+        "bengaluru",
+        "mysuru",
+        "hubballi",
+        "dharwad"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.794161Z",
+        "website_section": null,
+        "content_hash": "52d3b5427b32fb068fdb90c364e64cb1"
+      }
+    },
+    {
+      "id": "1760295d201d8a62c8285eb9d5acf218",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.779658Z",
+      "language": "Kannada",
+      "title": "Terms and Conditions",
+      "content": "News article: Terms and Conditions",
+      "summary": "Terms and Conditions",
+      "url": "https://publictv.in/terms-and-conditions/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "terms",
+        "conditions",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.779658Z",
+        "website_section": null,
+        "content_hash": "f74d66acd37053622b8665e275274e2d"
+      }
+    },
+    {
+      "id": "3c39fe806d464c1da59017b03b7299bd",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.778656Z",
+      "language": "Kannada",
+      "title": "Complaints Redressal",
+      "content": "News article: Complaints Redressal",
+      "summary": "Complaints Redressal",
+      "url": "https://publictv.in/complaints-redressal/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "complaints",
+        "redressal",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.778656Z",
+        "website_section": null,
+        "content_hash": "4860646961c5669daac1e1fc433eb2c9"
+      }
+    },
+    {
+      "id": "9bb58b1c29a0f469113341801ff11e33",
+      "source_type": "web_scraper",
+      "source_name": "Public TV",
+      "timestamp": "2025-09-18T15:42:29.778098Z",
+      "language": "Kannada",
+      "title": "Terms of Service",
+      "content": "News article: Terms of Service",
+      "summary": "Terms of Service",
+      "url": "https://publictv.in/terms-of-service/",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "terms",
+        "service",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:29.778098Z",
+        "website_section": null,
+        "content_hash": "fc79525934b7ef5edbe5387d5cd57fe4"
+      }
+    },
+    {
+      "id": "d7382a269c056a513718e3c660817106",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.130125Z",
+      "language": "Kannada",
+      "title": "ಪಿತೃ ಪಕ್ಷದಲ್ಲಿ ಗಂಡ ಹೆಂಡತಿ ದೈಹಿಕ ಸಂಬಂಧ ಬೆಳೆಸಬಾರದು ಯಾಕೆ?",
+      "content": "News article: ಪಿತೃ ಪಕ್ಷದಲ್ಲಿ ಗಂಡ ಹೆಂಡತಿ ದೈಹಿಕ ಸಂಬಂಧ ಬೆಳೆಸಬಾರದು ಯಾಕೆ?",
+      "summary": "ಪಿತೃ ಪಕ್ಷದಲ್ಲಿ ಗಂಡ ಹೆಂಡತಿ ದೈಹಿಕ ಸಂಬಂಧ ಬೆಳೆಸಬಾರದು ಯಾಕೆ?",
+      "url": "https://tv9kannada.com/spiritual/know-the-mistakes-you-should-avoid-during-pitru-paksha-1082168.html",
+      "author": null,
+      "ministries": [
+        "agriculture",
+        "politics"
+      ],
+      "ministry_scores": {
+        "agriculture": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಷದಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.130125Z",
+        "website_section": null,
+        "content_hash": "07ab883638cd67a696956b96ab88988d"
+      }
+    },
+    {
+      "id": "8489226cbea7d46cd483a3d5e59620ff",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.127125Z",
+      "language": "Kannada",
+      "title": "ಗುರುವಾರದಂದು ಅರಿಶಿನ ಬಳಸಿ ಈ ಪರಿಹಾರಗಳನ್ನು ಮಾಡಿ; ಅದೃಷ್ಟವೇ ಬದಲಾಗಲಿದೆ!",
+      "content": "News article: ಗುರುವಾರದಂದು ಅರಿಶಿನ ಬಳಸಿ ಈ ಪರಿಹಾರಗಳನ್ನು ಮಾಡಿ; ಅದೃಷ್ಟವೇ ಬದಲಾಗಲಿದೆ!",
+      "summary": "ಗುರುವಾರದಂದು ಅರಿಶಿನ ಬಳಸಿ ಈ ಪರಿಹಾರಗಳನ್ನು ಮಾಡಿ; ಅದೃಷ್ಟವೇ ಬದಲಾಗಲಿದೆ!",
+      "url": "https://tv9kannada.com/spiritual/turmeric-rituals-for-thursday-prosperity-and-positive-energy-1082210.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಬಳಸ",
+        "ರಗಳನ",
+        "ಬದಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.127125Z",
+        "website_section": null,
+        "content_hash": "4461833ad251cecc13c61452b305c524"
+      }
+    },
+    {
+      "id": "94c336ee550a3df86d849da03975762a",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.125126Z",
+      "language": "Kannada",
+      "title": "ರಸ್ತೆ ಗುಂಡಿ, ಟಿವಿ9 ರಿಯಾಲಿಟಿ ಚೆಕ್​ನಲ್ಲಿ ಮತ್ತಷ್ಟು ಅವ್ಯವಸ್ಥೆ ಬಯಲು",
+      "content": "News article: ರಸ್ತೆ ಗುಂಡಿ, ಟಿವಿ9 ರಿಯಾಲಿಟಿ ಚೆಕ್​ನಲ್ಲಿ ಮತ್ತಷ್ಟು ಅವ್ಯವಸ್ಥೆ ಬಯಲು",
+      "summary": "ರಸ್ತೆ ಗುಂಡಿ, ಟಿವಿ9 ರಿಯಾಲಿಟಿ ಚೆಕ್​ನಲ್ಲಿ ಮತ್ತಷ್ಟು ಅವ್ಯವಸ್ಥೆ ಬಯಲು",
+      "url": "https://tv9kannada.com/videos/bengaluru-bad-roads-and-potholes-tv9s-reality-check-on-panathur-main-road-1082225.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಯವಸ",
+        "ಬಯಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.125126Z",
+        "website_section": null,
+        "content_hash": "ae93d543f14ad3a8b008e1cf40dad705"
+      }
+    },
+    {
+      "id": "274d2fc751ddd660dd55d3c024011377",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.124127Z",
+      "language": "Kannada",
+      "title": "ಮಂಡ್ಯ: ನೈವೇದ್ಯ ಅರ್ಪಿಸಿ ಗಣಪನಿಗೆ ಪೂಜೆ ಸಲ್ಲಿಸಿದ ಮುಸ್ಲಿಮರು!",
+      "content": "News article: ಮಂಡ್ಯ: ನೈವೇದ್ಯ ಅರ್ಪಿಸಿ ಗಣಪನಿಗೆ ಪೂಜೆ ಸಲ್ಲಿಸಿದ ಮುಸ್ಲಿಮರು!",
+      "summary": "ಮಂಡ್ಯ: ನೈವೇದ್ಯ ಅರ್ಪಿಸಿ ಗಣಪನಿಗೆ ಪೂಜೆ ಸಲ್ಲಿಸಿದ ಮುಸ್ಲಿಮರು!",
+      "url": "https://tv9kannada.com/videos/mandya-hariharapura-ganeshotsava-muslim-community-offers-naivedya-and-performs-puja-to-lord-ganesha-1082179.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಗಣಪನ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.124127Z",
+        "website_section": null,
+        "content_hash": "e5cac5c6a868b8c5af8f20b0c250831d"
+      }
+    },
+    {
+      "id": "76eca161125e97bacb77155055170b3d",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.123121Z",
+      "language": "Kannada",
+      "title": "ಈ ವ್ಯಕ್ತಿಯ ವಿಚಿತ್ರ ಹವ್ಯಾಸ ನೋಡಿ",
+      "content": "News article: ಈ ವ್ಯಕ್ತಿಯ ವಿಚಿತ್ರ ಹವ್ಯಾಸ ನೋಡಿ",
+      "summary": "ಈ ವ್ಯಕ್ತಿಯ ವಿಚಿತ್ರ ಹವ್ಯಾಸ ನೋಡಿ",
+      "url": "https://tv9kannada.com/trending/a-man-to-kill-mosquitoes-and-record-their-names-and-time-video-goes-viral-1082269.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.123121Z",
+        "website_section": null,
+        "content_hash": "a483e327179f648963218e88b2ee29e9"
+      }
+    },
+    {
+      "id": "cbbf436730169cc910c2f57989612055",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.121487Z",
+      "language": "Kannada",
+      "title": "ಹೆಂಡ್ತಿ ಜತೆ ಚಕ್ಕಂದ ಆಡಿದವನಿಗೆ ಚಟ್ಟ ಕಟ್ಟಿದ ಗಂಡ, ಸಂಬಂಧಿಕರು ಹೇಳೋದೇನು?",
+      "content": "News article: ಹೆಂಡ್ತಿ ಜತೆ ಚಕ್ಕಂದ ಆಡಿದವನಿಗೆ ಚಟ್ಟ ಕಟ್ಟಿದ ಗಂಡ, ಸಂಬಂಧಿಕರು ಹೇಳೋದೇನು?",
+      "summary": "ಹೆಂಡ್ತಿ ಜತೆ ಚಕ್ಕಂದ ಆಡಿದವನಿಗೆ ಚಟ್ಟ ಕಟ್ಟಿದ ಗಂಡ, ಸಂಬಂಧಿಕರು ಹೇಳೋದೇನು?",
+      "url": "https://tv9kannada.com/videos/belagavi-murder-case-man-killed-for-alleged-affair-with-wife-victims-relatives-reveal-shocking-details-1082226.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ದವನ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.121487Z",
+        "website_section": null,
+        "content_hash": "accdb3ba5e323dcb52d71534d0559c83"
+      }
+    },
+    {
+      "id": "cb4b6b7824b6834905733e13715d2adb",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.120461Z",
+      "language": "Kannada",
+      "title": "ಬೆಂಗಳೂರು: ನಡು ರಸ್ತೆಯಲ್ಲಿ ಹಾಸಿಗೆ ಹಾಕಿ ಮಲಗಿದ ವ್ಯಕ್ತಿ",
+      "content": "News article: ಬೆಂಗಳೂರು: ನಡು ರಸ್ತೆಯಲ್ಲಿ ಹಾಸಿಗೆ ಹಾಕಿ ಮಲಗಿದ ವ್ಯಕ್ತಿ",
+      "summary": "ಬೆಂಗಳೂರು: ನಡು ರಸ್ತೆಯಲ್ಲಿ ಹಾಸಿಗೆ ಹಾಕಿ ಮಲಗಿದ ವ್ಯಕ್ತಿ",
+      "url": "https://tv9kannada.com/karnataka/traffic-halted-as-man-found-sleeping-on-bengaluru-road-video-goes-viral-1082215.html",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಮಲಗ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.120461Z",
+        "website_section": null,
+        "content_hash": "be85041f4042ee1b9ddf9c3122187c22"
+      }
+    },
+    {
+      "id": "07c7341cfd68a7780b70466a932a6af2",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.119540Z",
+      "language": "Kannada",
+      "title": "ಬೆಂಗಳೂರು ಗುಂಡಿ ಅಪಮಾನಕ್ಕೆ ಸಿಎಂ, ಡಿಸಿಎಂ ಹೊಣೆ ಎಂದ ಕುಮಾರಸ್ವಾಮಿ",
+      "content": "News article: ಬೆಂಗಳೂರು ಗುಂಡಿ ಅಪಮಾನಕ್ಕೆ ಸಿಎಂ, ಡಿಸಿಎಂ ಹೊಣೆ ಎಂದ ಕುಮಾರಸ್ವಾಮಿ",
+      "summary": "ಬೆಂಗಳೂರು ಗುಂಡಿ ಅಪಮಾನಕ್ಕೆ ಸಿಎಂ, ಡಿಸಿಎಂ ಹೊಣೆ ಎಂದ ಕುಮಾರಸ್ವಾಮಿ",
+      "url": "https://tv9kannada.com/karnataka/bengaluru/bengaluru-pothole-problem-cm-and-dcm-responsible-hd-kumaraswamy-urges-companies-not-to-leave-the-city-1082186.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಅಪಮ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.119540Z",
+        "website_section": null,
+        "content_hash": "4f21a46ab17334bb8abe0746dd472c48"
+      }
+    },
+    {
+      "id": "b4a950f7a599a55f63f1fd0eff8bf3a5",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.117448Z",
+      "language": "Kannada",
+      "title": "ನಾ ನಿನ್ನ ಬಿಡಲಾರೆ’ ಧಾರಾವಾಹಿಗೆ ಶಾಕ್; ಟಿಆರ್​ಪಿಯಲ್ಲಿ ಯಾರು ಟಾಪ್?",
+      "content": "News article: ನಾ ನಿನ್ನ ಬಿಡಲಾರೆ’ ಧಾರಾವಾಹಿಗೆ ಶಾಕ್; ಟಿಆರ್​ಪಿಯಲ್ಲಿ ಯಾರು ಟಾಪ್?",
+      "summary": "ನಾ ನಿನ್ನ ಬಿಡಲಾರೆ’ ಧಾರಾವಾಹಿಗೆ ಶಾಕ್; ಟಿಆರ್​ಪಿಯಲ್ಲಿ ಯಾರು ಟಾಪ್?",
+      "url": "https://tv9kannada.com/entertainment/television/karnataka-tv-show-trp-chart-karna-leads-na-ninna-bidalaare-slumps-1082282.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.117448Z",
+        "website_section": null,
+        "content_hash": "1b54afc6f1506c02cef04f40dde974f9"
+      }
+    },
+    {
+      "id": "2bb78aa14cc7963f14b63662f015b95b",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.115465Z",
+      "language": "Kannada",
+      "title": "ಮಗಳನ್ನು ಮಲಗಿಸಿ, ನಿದ್ರೆ ಬಂದ ಬಳಿಕ ಸರೋವರಕ್ಕೆ ಎಸೆದ ತಾಯಿ",
+      "content": "News article: ಮಗಳನ್ನು ಮಲಗಿಸಿ, ನಿದ್ರೆ ಬಂದ ಬಳಿಕ ಸರೋವರಕ್ಕೆ ಎಸೆದ ತಾಯಿ",
+      "summary": "ಮಗಳನ್ನು ಮಲಗಿಸಿ, ನಿದ್ರೆ ಬಂದ ಬಳಿಕ ಸರೋವರಕ್ಕೆ ಎಸೆದ ತಾಯಿ",
+      "url": "https://tv9kannada.com/national/rajasthan-tragedy-woman-allegedly-throws-sleeping-toddler-into-lake-1082267.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಮಗಳನ",
+        "ಮಲಗ",
+        "ವರಕ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.115465Z",
+        "website_section": null,
+        "content_hash": "364e5e2e01d82857a9c06eb7b7ea8f11"
+      }
+    },
+    {
+      "id": "abd43b98fc53e1b3fccd651f807349e2",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.114490Z",
+      "language": "Kannada",
+      "title": "ಜಗದೀಶ್ ಜೊತೆ ಕಿರಿಕ್; ಪೊಲೀಸ್ ಠಾಣೆ ಮೆಟ್ಟಿಲೇರಿದ ಬಿಗ್ ಬಾಸ್ ರಂಜಿತ್",
+      "content": "News article: ಜಗದೀಶ್ ಜೊತೆ ಕಿರಿಕ್; ಪೊಲೀಸ್ ಠಾಣೆ ಮೆಟ್ಟಿಲೇರಿದ ಬಿಗ್ ಬಾಸ್ ರಂಜಿತ್",
+      "summary": "ಜಗದೀಶ್ ಜೊತೆ ಕಿರಿಕ್; ಪೊಲೀಸ್ ಠಾಣೆ ಮೆಟ್ಟಿಲೇರಿದ ಬಿಗ್ ಬಾಸ್ ರಂಜಿತ್",
+      "url": "https://tv9kannada.com/entertainment/sandalwood/ranjiths-property-dispute-bigg-boss-fame-actor-faces-legal-trouble-1082223.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಜಗದ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.114490Z",
+        "website_section": null,
+        "content_hash": "5bdb6b97490c97f0c1ce4cb64a5fe225"
+      }
+    },
+    {
+      "id": "51979ace006a23d9d2300fdc617c0a5d",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.113469Z",
+      "language": "Kannada",
+      "title": "ಗೆಲ್ಲುವ ಪಂದ್ಯವನ್ನು ಕೈಚೆಲ್ಲಿದ ಯುಎಇ; ಸೂಪರ್ 4 ಸುತ್ತಿಗೆ ಪಾಕಿಸ್ತಾನ",
+      "content": "News article: ಗೆಲ್ಲುವ ಪಂದ್ಯವನ್ನು ಕೈಚೆಲ್ಲಿದ ಯುಎಇ; ಸೂಪರ್ 4 ಸುತ್ತಿಗೆ ಪಾಕಿಸ್ತಾನ",
+      "summary": "ಗೆಲ್ಲುವ ಪಂದ್ಯವನ್ನು ಕೈಚೆಲ್ಲಿದ ಯುಎಇ; ಸೂಪರ್ 4 ಸುತ್ತಿಗೆ ಪಾಕಿಸ್ತಾನ",
+      "url": "https://tv9kannada.com/sports/cricket-news/asia-cup-2025-pakistan-super-4-qualification-1082276.html",
+      "author": null,
+      "ministries": [
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಯವನ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.113469Z",
+        "website_section": null,
+        "content_hash": "5a882594008ddfa79c18a004a828fa32"
+      }
+    },
+    {
+      "id": "c9ba2689885b8abe1716569a82798b29",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.112547Z",
+      "language": "Kannada",
+      "title": "ಸರ್ಕಾರದ ಜಾತಿ ಜನಗಣತಿ ರದ್ದುಪಡಿಸುವಂತೆ ಹೈಕೋರ್ಟ್​ಗೆ ಪಿಐಎಲ್ ಸಲ್ಲಿಕೆ",
+      "content": "News article: ಸರ್ಕಾರದ ಜಾತಿ ಜನಗಣತಿ ರದ್ದುಪಡಿಸುವಂತೆ ಹೈಕೋರ್ಟ್​ಗೆ ಪಿಐಎಲ್ ಸಲ್ಲಿಕೆ",
+      "summary": "ಸರ್ಕಾರದ ಜಾತಿ ಜನಗಣತಿ ರದ್ದುಪಡಿಸುವಂತೆ ಹೈಕೋರ್ಟ್​ಗೆ ಪಿಐಎಲ್ ಸಲ್ಲಿಕೆ",
+      "url": "https://tv9kannada.com/karnataka/pil-filed-in-high-court-against-governments-caste-census-over-creation-of-new-sub-castes-1082235.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಜನಗಣತ",
+        "ಐಎಲ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.112547Z",
+        "website_section": null,
+        "content_hash": "e816aff0d7ec653ccd39fa4ebcf1d153"
+      }
+    },
+    {
+      "id": "352562eac0ef31cf0a0b51eee88ae54c",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.111547Z",
+      "language": "Kannada",
+      "title": "ಸುಮ್ಮನೆ ನಿಂತಿದ್ದ ಅಂಪೈರ್​ ತಲೆಗೆ ಗಾಯ ಮಾಡಿದ ಪಾಕ್ ಆಟಗಾರ; ವಿಡಿಯೋ",
+      "content": "News article: ಸುಮ್ಮನೆ ನಿಂತಿದ್ದ ಅಂಪೈರ್​ ತಲೆಗೆ ಗಾಯ ಮಾಡಿದ ಪಾಕ್ ಆಟಗಾರ; ವಿಡಿಯೋ",
+      "summary": "ಸುಮ್ಮನೆ ನಿಂತಿದ್ದ ಅಂಪೈರ್​ ತಲೆಗೆ ಗಾಯ ಮಾಡಿದ ಪಾಕ್ ಆಟಗಾರ; ವಿಡಿಯೋ",
+      "url": "https://tv9kannada.com/videos/asia-cup-2025-umpire-injured-pakistan-uae-match-1082306.html",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "ಆಟಗ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.111547Z",
+        "website_section": null,
+        "content_hash": "353a1a63a99ec31f288a751765471fdd"
+      }
+    },
+    {
+      "id": "71552bcfe230c145f02aacfc34592bf5",
+      "source_type": "web_scraper",
+      "source_name": "TV9 Kannada",
+      "timestamp": "2025-09-18T15:42:25.110488Z",
+      "language": "Kannada",
+      "title": "ಬಾನು ಮುಷ್ತಾಕ್ ಮೈಸೂರು ದಸರಾ ಉದ್ಘಾಟನೆ ವಿರೋಧಿಸಿ ಸುಪ್ರೀಂಗೆ ಅರ್ಜಿ",
+      "content": "News article: ಬಾನು ಮುಷ್ತಾಕ್ ಮೈಸೂರು ದಸರಾ ಉದ್ಘಾಟನೆ ವಿರೋಧಿಸಿ ಸುಪ್ರೀಂಗೆ ಅರ್ಜಿ",
+      "summary": "ಬಾನು ಮುಷ್ತಾಕ್ ಮೈಸೂರು ದಸರಾ ಉದ್ಘಾಟನೆ ವಿರೋಧಿಸಿ ಸುಪ್ರೀಂಗೆ ಅರ್ಜಿ",
+      "url": "https://tv9kannada.com/videos/supreme-court-to-examine-plea-against-invite-to-banu-mushtaq-to-inaugurate-mysuru-dasara-2025-1082259.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": -1.0,
+      "sentiment_label": "negative",
+      "keywords": [
+        "ದಸರ",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:25.110488Z",
+        "website_section": null,
+        "content_hash": "daa264e395389288fe1c64c37f78f25e"
+      }
+    },
+    {
+      "id": "bcf0fac83433b0e36a0161d224185b7a",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.012146Z",
+      "language": "Hindi",
+      "title": "Interesting Newsयूपी के किस जिले में हैं सबसे ज्यादा तहसील? GK के महारथी भी नहीं बता पाएंगे",
+      "content": "Interesting Newsयूपी के किस जिले में हैं सबसे ज्यादा तहसील? GK के महारथी भी नहीं बता पाएंगे",
+      "summary": "Interesting Newsयूपी के किस जिले में हैं सबसे ज्यादा तहसील? GK के महारथी भी नहीं बता पाएंगे",
+      "url": "https://zeenews.india.com/hindi/india/up-uttarakhand/interesting-news/photo-gallery-do-you-know-which-district-in-uttar-pradesh-has-most-tehsils-kis-jile-mein-sabe-jyada-hain/2927181",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "interesting",
+        "newsय",
+        "सबस",
+        "तहस"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.012146Z",
+        "website_section": null,
+        "content_hash": "89163dc43be661eb53b58fb81fad47e9"
+      }
+    },
+    {
+      "id": "9bd49f4b4c76a2edc5036f9149d7b02e",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.011125Z",
+      "language": "Hindi",
+      "title": "Murshidabadममता के मुर्शिदाबाद जाने तक... हिंदू बचेंगे?",
+      "content": "Murshidabadममता के मुर्शिदाबाद जाने तक... हिंदू बचेंगे?",
+      "summary": "Murshidabadममता के मुर्शिदाबाद जाने तक... हिंदू बचेंगे?",
+      "url": "https://zeenews.india.com/hindi/national/video/will-hindus-get-justice-in-bengals-murshidabad/2727947",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "murshidabadममत"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.011125Z",
+        "website_section": null,
+        "content_hash": "dbe6bab6dd26440633e6933deb7a543c"
+      }
+    },
+    {
+      "id": "03b3bedb11e6e226ca5324b6b64a2e0e",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.011125Z",
+      "language": "Hindi",
+      "title": "Bihar News'नहीं देंगे वोट, झाड़ू से मारेंगे', बिहार में 20 हजार से अधिक वोटर्स का ऐलान",
+      "content": "Bihar News'नहीं देंगे वोट, झाड़ू से मारेंगे', बिहार में 20 हजार से अधिक वोटर्स का ऐलान",
+      "summary": "Bihar News'नहीं देंगे वोट, झाड़ू से मारेंगे', बिहार में 20 हजार से अधिक वोटर्स का ऐलान",
+      "url": "https://zeenews.india.com/hindi/india/bihar-jharkhand/bhagalpur/photo-gallery-more-than-20000-voters-have-announced-boycott-of-elections-in-bhagalpur/2927104",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "bihar",
+        "news"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.011125Z",
+        "website_section": null,
+        "content_hash": "1329ce090a50adc9811b209a95b5e89d"
+      }
+    },
+    {
+      "id": "597213442c7001989c49597809361ccc",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.010141Z",
+      "language": "Hindi",
+      "title": "Sai Sudharsanखत्म माना जा रहा था टेस्ट करियर? एक पारी ने पलटा पासा, भारतीय बल्लेबाज ने ठोका दावा",
+      "content": "Sai Sudharsanखत्म माना जा रहा था टेस्ट करियर? एक पारी ने पलटा पासा, भारतीय बल्लेबाज ने ठोका दावा",
+      "summary": "Sai Sudharsanखत्म माना जा रहा था टेस्ट करियर? एक पारी ने पलटा पासा, भारतीय बल्लेबाज ने ठोका दावा",
+      "url": "https://zeenews.india.com/hindi",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "sai",
+        "sudharsanखत",
+        "पलट"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.010141Z",
+        "website_section": null,
+        "content_hash": "48569b70a76e380d28f03cada3443d47"
+      }
+    },
+    {
+      "id": "204ad7c4008ec28d7f305c76338599a2",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.009144Z",
+      "language": "Hindi",
+      "title": "gold jewellery gift karva chauthकरवा चौथ पर लाइफ पार्टनर को दें बजट फ्रेंडली गोल्ड ज्वेलरी, 1 से 2 ग्राम सोने में जीत लें पत्नी का दिलदिल",
+      "content": "gold jewellery gift karva chauthकरवा चौथ पर लाइफ पार्टनर को दें बजट फ्रेंडली गोल्ड ज्वेलरी, 1 से 2 ग्राम सोने में जीत लें पत्नी का दिलदिल",
+      "summary": "gold jewellery gift karva chauthकरवा चौथ पर लाइफ पार्टनर को दें बजट फ्रेंडली गोल्ड ज्वेलरी, 1 से 2 ग्राम सोने में जीत लें पत्नी का दिलदिल.",
+      "url": "https://zeenews.india.com/hindi/tags/gold-jewellery-gift-karva-chauth.html",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "gold",
+        "jewellery",
+        "gift",
+        "karva",
+        "chauthकरव",
+        "टनर",
+        "बजट"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.009144Z",
+        "website_section": null,
+        "content_hash": "dfcbc06e2d32001d0a6e0dfb0bc95bab"
+      }
+    },
+    {
+      "id": "509414791d6e673de59b51671df3025c",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.009144Z",
+      "language": "Hindi",
+      "title": "dandiya night look tipsडांडिया नाइट जाने का है प्लान तो जरूर फॉलो करें ये 4 टिप्स, कंफर्ट के साथ मिलेगा फैशन का डबल डोज",
+      "content": "dandiya night look tipsडांडिया नाइट जाने का है प्लान तो जरूर फॉलो करें ये 4 टिप्स, कंफर्ट के साथ मिलेगा फैशन का डबल डोज",
+      "summary": "dandiya night look tipsडांडिया नाइट जाने का है प्लान तो जरूर फॉलो करें ये 4 टिप्स, कंफर्ट के साथ मिलेगा फैशन का डबल डोज.",
+      "url": "https://zeenews.india.com/hindi/tags/dandiya-night-look-tips.html",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "dandiya",
+        "night",
+        "look",
+        "tipsड",
+        "डबल"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.009144Z",
+        "website_section": null,
+        "content_hash": "cc0bed201f131a32e8de82657ddb2ae1"
+      }
+    },
+    {
+      "id": "dc0b9e7b21e9249fc2b632b1637cd073",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.008141Z",
+      "language": "Hindi",
+      "title": "lifestyleनवरात्रि के मौके पर घर पर बनाएं ये रंगोली डिजाइन, देवी दुर्गा होंगी प्रसन्न!",
+      "content": "lifestyleनवरात्रि के मौके पर घर पर बनाएं ये रंगोली डिजाइन, देवी दुर्गा होंगी प्रसन्न!",
+      "summary": "lifestyleनवरात्रि के मौके पर घर पर बनाएं ये रंगोली डिजाइन, देवी दुर्गा होंगी प्रसन्न!",
+      "url": "https://zeenews.india.com/hindi/tags/lifestyle.html",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "lifestyleनवर",
+        "रसन"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.008141Z",
+        "website_section": null,
+        "content_hash": "83d15299452492809f874d792a179600"
+      }
+    },
+    {
+      "id": "de4a0df056f1018d7397574c237bcb63",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.008141Z",
+      "language": "Hindi",
+      "title": "Maa Lakshmi Favorite numberमां लक्ष्‍मी की कृपा लेकर पैदा होते है इस मूलांक के लोग, करोड़पति बनने की होती है फुल गारंटी",
+      "content": "Maa Lakshmi Favorite numberमां लक्ष्‍मी की कृपा लेकर पैदा होते है इस मूलांक के लोग, करोड़पति बनने की होती है फुल गारंटी",
+      "summary": "Maa Lakshmi Favorite numberमां लक्ष्‍मी की कृपा लेकर पैदा होते है इस मूलांक के लोग, करोड़पति बनने की होती है फुल गारंटी.",
+      "url": "https://zeenews.india.com/hindi/tags/maa-lakshmi-favorite-number.html",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "maa",
+        "lakshmi",
+        "favorite",
+        "numberम",
+        "बनन"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.008141Z",
+        "website_section": null,
+        "content_hash": "6e93bc2666dd7bd0d50831832ec74cce"
+      }
+    },
+    {
+      "id": "8b8d1215a1b3f165766a7448a66aed05",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.007142Z",
+      "language": "Hindi",
+      "title": "दिनों की मेहनत में मिले 8 हीरे, पन्ना की मजदूर महिला बनी हीरा मालकिन !",
+      "content": "7 दिनों की मेहनत में मिले 8 हीरे, पन्ना की मजदूर महिला बनी हीरा मालकिन !",
+      "summary": "दिनों की मेहनत में मिले 8 हीरे, पन्ना की मजदूर महिला बनी हीरा मालकिन !",
+      "url": "https://zeenews.india.com/hindi/india/madhya-pradesh-chhattisgarh/panna/panna-diamond-mine-female-labourer-rachna-goldar-found-eight-gem-quality-diamonds-in-a-week/2927147",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "हनत",
+        "मजद"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.007142Z",
+        "website_section": null,
+        "content_hash": "e5abf5f03a237ed0e6e9792397171f4f"
+      }
+    },
+    {
+      "id": "e6dfac3c9ed1871f77db69bc59c4c850",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.007142Z",
+      "language": "Hindi",
+      "title": "iPhone 17 खरीदने के लिए कितने हफ्ते करना होगा काम? अमेरिका में 21 घंटे और भारत में..",
+      "content": "iPhone 17 खरीदने के लिए कितने हफ्ते करना होगा काम? अमेरिका में 21 घंटे और भारत में..",
+      "summary": "iPhone 17 खरीदने के लिए कितने हफ्ते करना होगा काम? अमेरिका में 21 घंटे और भारत में..",
+      "url": "https://zeenews.india.com/hindi/technology/how-many-hours-does-an-indian-need-to-work-to-buy-an-iphone-17/2927085",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0,
+        "international_affairs": 1.0,
+        "agriculture": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "iphone",
+        "करन"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.007142Z",
+        "website_section": null,
+        "content_hash": "78f6d4011fc7fa281143ce7eb3b1b1ef"
+      }
+    },
+    {
+      "id": "690def920b05020d592e56c14a99b7ce",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.006145Z",
+      "language": "Hindi",
+      "title": "बढ़ रही भारत की रफ्तार, ग्लोबल GDP में होगी 9% की हिस्सेदारी, बस थोड़ा इंतजार",
+      "content": "बढ़ रही भारत की रफ्तार, ग्लोबल GDP में होगी 9% की हिस्सेदारी, बस थोड़ा इंतजार",
+      "summary": "बढ़ रही भारत की रफ्तार, ग्लोबल GDP में होगी 9% की हिस्सेदारी, बस थोड़ा इंतजार",
+      "url": "https://zeenews.india.com/hindi/business/india-contribution-to-global-gdp-growth-to-reach-9-pc-by-2035-govt-data/2927180",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "gdp"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.006145Z",
+        "website_section": null,
+        "content_hash": "601e24a555d46e0a540c3ad13a44e07e"
+      }
+    },
+    {
+      "id": "e0b21f770f86678a95286ddfb1dae34e",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.006145Z",
+      "language": "Hindi",
+      "title": "वोट चोरी को लेकर राहुल गांधी का नया दावा, खड़गे ने चुनाव आयोग से पूछे तीखे सवाल",
+      "content": "वोट चोरी को लेकर राहुल गांधी का नया दावा, खड़गे ने चुनाव आयोग से पूछे तीखे सवाल",
+      "summary": "वोट चोरी को लेकर राहुल गांधी का नया दावा, खड़गे ने चुनाव आयोग से पूछे तीखे सवाल",
+      "url": "https://zeenews.india.com/hindi/india/rahul-gandhi-vote-chori-charge-congress-president-mallikarjun-kharge-asked-3-question-to-eci/2927080",
+      "author": null,
+      "ministries": [
+        "finance",
+        "politics"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.006145Z",
+        "website_section": null,
+        "content_hash": "ed21266810b518df5ae881c456b18f2e"
+      }
+    },
+    {
+      "id": "4bad4de8f6ba37e32e60bb7f2a99e6b6",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.005143Z",
+      "language": "Hindi",
+      "title": "भगवान विष्णु से पूछो..', बयान पर घिरे CJI तो दी सफाई- सभी धर्मों का सम्मान करता हूं",
+      "content": "News article: भगवान विष्णु से पूछो..', बयान पर घिरे CJI तो दी सफाई- सभी धर्मों का सम्मान करता हूं",
+      "summary": "भगवान विष्णु से पूछो..', बयान पर घिरे CJI तो दी सफाई- सभी धर्मों का सम्मान करता हूं",
+      "url": "https://zeenews.india.com/hindi/india/chief-justice-br-gavai-said-i-respect-all-religions-khajuraho-lord-vishnu-idol-case/2927179",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "भगव",
+        "cji",
+        "करत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.005143Z",
+        "website_section": null,
+        "content_hash": "1d4616ed01661314d15a0b0f2c972b85"
+      }
+    },
+    {
+      "id": "c0b0b4cd858eee08798029c7ea4da1cd",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.005143Z",
+      "language": "Hindi",
+      "title": "खत्म माना जा रहा था टेस्ट करियर? एक पारी ने पलटा पासा, भारतीय बल्लेबाज ने ठोका दावा",
+      "content": "खत्म माना जा रहा था टेस्ट करियर? एक पारी ने पलटा पासा, भारतीय बल्लेबाज ने ठोका दावा",
+      "summary": "खत्म माना जा रहा था टेस्ट करियर? एक पारी ने पलटा पासा, भारतीय बल्लेबाज ने ठोका दावा",
+      "url": "https://zeenews.india.com/hindi/sports/cricket/sai-sudharsan-73-runs-in-1st-unofficial-test-against-australia-a-big-boost-before-westindies-test-series/2927167",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "पलट"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.005143Z",
+        "website_section": null,
+        "content_hash": "7043c14c9f911d9fb06bef58e73bb650"
+      }
+    },
+    {
+      "id": "70efb07c78f691c448338a04cb567e88",
+      "source_type": "web_scraper",
+      "source_name": "Zee News",
+      "timestamp": "2025-09-18T15:42:11.004120Z",
+      "language": "Hindi",
+      "title": "प्रमुख खबर'भगवान विष्णु से पूछो..', बयान पर घिरे CJI तो दी सफाई- सभी धर्मों का सम्मान करता हूं",
+      "content": "News article: प्रमुख खबर'भगवान विष्णु से पूछो..', बयान पर घिरे CJI तो दी सफाई- सभी धर्मों का सम्मान करता हूं",
+      "summary": "प्रमुख खबर'भगवान विष्णु से पूछो..', बयान पर घिरे CJI तो दी सफाई- सभी धर्मों का सम्मान करता हूं. News article: प्रमुख खबर'भगवान विष्णु से पूछो.",
+      "url": "https://zeenews.india.com/hindi/india/chief-justice-br-gavai-said-i-respect-all-religions-khajuraho-lord-vishnu-idol-case/2927179",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "खबर",
+        "भगव",
+        "cji",
+        "करत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:11.004120Z",
+        "website_section": null,
+        "content_hash": "a26d311812e0bfa3a61276acb13fbc62"
+      }
+    },
+    {
+      "id": "457104e43c5679515057e2a40355f56c",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.439811Z",
+      "language": "Hindi",
+      "title": "एक तरफ रूस दिखा रहा ताकत, तब NATO ग्रीनलैंड में कर रहा युद्ध की तैयारी, देखें",
+      "content": "News article: एक तरफ रूस दिखा रहा ताकत, तब NATO ग्रीनलैंड में कर रहा युद्ध की तैयारी, देखें",
+      "summary": "एक तरफ रूस दिखा रहा ताकत, तब NATO ग्रीनलैंड में कर रहा युद्ध की तैयारी, देखें",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "finance",
+        "international_affairs",
+        "defence"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "international_affairs": 1.0,
+        "defence": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "तरफ",
+        "nato",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.439811Z",
+        "website_section": null,
+        "content_hash": "595da71c8fbff4628537fc5dbe7b1d5b"
+      }
+    },
+    {
+      "id": "fc8f76d2715f4ce050a869267a8841be",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.438808Z",
+      "language": "Hindi",
+      "title": "हाइड्रोजन बम कहते-कहते डिलीट बम पर क्यों आ गए राहुल? पर्दे के पीछे की कहानी",
+      "content": "News article: हाइड्रोजन बम कहते-कहते डिलीट बम पर क्यों आ गए राहुल? पर्दे के पीछे की कहानी",
+      "summary": "हाइड्रोजन बम कहते-कहते डिलीट बम पर क्यों आ गए राहुल? पर्दे के पीछे की कहानी",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "कहत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.438808Z",
+        "website_section": null,
+        "content_hash": "0b9bfaefa9992699d4d2f9ce805b052a"
+      }
+    },
+    {
+      "id": "755e5fb8309f1f60311ae90572821c48",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.437819Z",
+      "language": "Hindi",
+      "title": "बोकारो में मिलेगा सिक्किम-दार्जलिंग वाला वाइब! पहाड़, नदी, झरना और काशी के फूल",
+      "content": "News article: बोकारो में मिलेगा सिक्किम-दार्जलिंग वाला वाइब! पहाड़, नदी, झरना और काशी के फूल",
+      "summary": "बोकारो में मिलेगा सिक्किम-दार्जलिंग वाला वाइब! पहाड़, नदी, झरना और काशी के फूल",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "झरन",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.437819Z",
+        "website_section": null,
+        "content_hash": "3ebd99b13058072820b47ce275718867"
+      }
+    },
+    {
+      "id": "abff68f93c88a5a5faf02c2a9cef8129",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.437819Z",
+      "language": "Hindi",
+      "title": "आजम खान को इलाहाबाद HC से जमानत, अब आएंगे जेल से बाहर, दिखेगी नई सियासी हलचल?",
+      "content": "News article: आजम खान को इलाहाबाद HC से जमानत, अब आएंगे जेल से बाहर, दिखेगी नई सियासी हलचल?",
+      "summary": "आजम खान को इलाहाबाद HC से जमानत, अब आएंगे जेल से बाहर, दिखेगी नई सियासी हलचल?",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "आजम",
+        "हलचल",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.437819Z",
+        "website_section": null,
+        "content_hash": "8c2089d39334551f8c892cb716070c01"
+      }
+    },
+    {
+      "id": "fa3ea76d84fe0d29861baf50b186e3bf",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.436902Z",
+      "language": "Hindi",
+      "title": "सवाल करें, चढ़ाई न करें ', कंगना रनौत ने महिला को उल्‍टा सुना द‍िया",
+      "content": "News article: सवाल करें, चढ़ाई न करें ', कंगना रनौत ने महिला को उल्‍टा सुना द‍िया",
+      "summary": "सवाल करें, चढ़ाई न करें ', कंगना रनौत ने महिला को उल्‍टा सुना द‍िया",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.436902Z",
+        "website_section": null,
+        "content_hash": "4b13ea626835f241937d9e1ac01dac60"
+      }
+    },
+    {
+      "id": "6b2a6cb5d62ab0069a95b89f8843b36d",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.436902Z",
+      "language": "Hindi",
+      "title": "मैं सभी धर्मों का सम्मान करता हूं... विष्णु की मूर्ति विवाद पर बोले सीजेआई गवई",
+      "content": "News article: मैं सभी धर्मों का सम्मान करता हूं... विष्णु की मूर्ति विवाद पर बोले सीजेआई गवई",
+      "summary": "मैं सभी धर्मों का सम्मान करता हूं... विष्णु की मूर्ति विवाद पर बोले सीजेआई गवई",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "करत",
+        "गवई",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.436902Z",
+        "website_section": null,
+        "content_hash": "efc3e5e582f7478a9719424855fedc51"
+      }
+    },
+    {
+      "id": "13178ea9f99d5f4bd4f6ce7fa5e43d87",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.422379Z",
+      "language": "Hindi",
+      "title": "चीन-पाक बनाया प्लान, खतरे में बलोचिस्तान, UN में BLA को घेरने की तैयारी",
+      "content": "News article: चीन-पाक बनाया प्लान, खतरे में बलोचिस्तान, UN में BLA को घेरने की तैयारी",
+      "summary": "चीन-पाक बनाया प्लान, खतरे में बलोचिस्तान, UN में BLA को घेरने की तैयारी",
+      "url": "https://hindi.news18.com/news/knowledge/why-donald-trump-call-ndia-an-illegal-drug-hub-how-true-is-their-claim-ws-kl-9637716.html",
+      "author": null,
+      "ministries": [
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "खतर",
+        "bla",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.422379Z",
+        "website_section": null,
+        "content_hash": "c67e0746b21cf99c8b879877db95e577"
+      }
+    },
+    {
+      "id": "cfddc8fd07e1fe0979827cca9192af4b",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.422379Z",
+      "language": "Hindi",
+      "title": "डोनाल्ड ट्रंप ने क्यों भारत को बताया अवैध ड्रग हब, उनके दावे में कितना दम",
+      "content": "News article: डोनाल्ड ट्रंप ने क्यों भारत को बताया अवैध ड्रग हब, उनके दावे में कितना दम",
+      "summary": "डोनाल्ड ट्रंप ने क्यों भारत को बताया अवैध ड्रग हब, उनके दावे में कितना दम",
+      "url": "https://hindi.news18.com/news/knowledge/why-donald-trump-call-ndia-an-illegal-drug-hub-how-true-is-their-claim-ws-kl-9637716.html",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "उनक",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.422379Z",
+        "website_section": null,
+        "content_hash": "369253ff03a766a158cf9302d23a8452"
+      }
+    },
+    {
+      "id": "7fb2f9d43ba005e4f946d3aef89363a7",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.421367Z",
+      "language": "Hindi",
+      "title": "और पढ़ेंक्रिकेटसमाचार",
+      "content": "News article: और पढ़ेंक्रिकेटसमाचार",
+      "summary": "और पढ़ेंक्रिकेटसमाचार",
+      "url": "https://hindi.news18.com/cricket/",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "टसम",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.421367Z",
+        "website_section": null,
+        "content_hash": "5addaa76522ddccf8fda1227f9e172c0"
+      }
+    },
+    {
+      "id": "a823144825a4949f54e5ecb9d4149472",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.420274Z",
+      "language": "Hindi",
+      "title": "पाकिस्तान को पाइक्रॉफ्ट के पैर छूने चाहिए, दुनिया के सामने नंगा होने से बचाया",
+      "content": "News article: पाकिस्तान को पाइक्रॉफ्ट के पैर छूने चाहिए, दुनिया के सामने नंगा होने से बचाया",
+      "summary": "पाकिस्तान को पाइक्रॉफ्ट के पैर छूने चाहिए, दुनिया के सामने नंगा होने से बचाया",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.420274Z",
+        "website_section": null,
+        "content_hash": "316f65df4e16873962f29a6488f4f2fa"
+      }
+    },
+    {
+      "id": "684f58184eb8532a6a811adc2bc761a6",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.419274Z",
+      "language": "Hindi",
+      "title": "दुबई स्टेडियम का सबसे बड़ा 'राज', वो अदृश्य 'शक्ति', जिससे छूट जाते हैं कैच",
+      "content": "News article: दुबई स्टेडियम का सबसे बड़ा 'राज', वो अदृश्य 'शक्ति', जिससे छूट जाते हैं कैच",
+      "summary": "दुबई स्टेडियम का सबसे बड़ा 'राज', वो अदृश्य 'शक्ति', जिससे छूट जाते हैं कैच",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "सबस",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.419274Z",
+        "website_section": null,
+        "content_hash": "b24f1c8e8f5a2dfa40968a74fa2a288f"
+      }
+    },
+    {
+      "id": "4a16457ac43855122c5eacde08e47ac0",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.418274Z",
+      "language": "Hindi",
+      "title": "पूर्व पाकिस्तानी कप्तान ने क्यों कहा अपने खिलाड़ी को 'कुत्ता'? लगातार 3 बार 0",
+      "content": "News article: पूर्व पाकिस्तानी कप्तान ने क्यों कहा अपने खिलाड़ी को 'कुत्ता'? लगातार 3 बार 0",
+      "summary": "पूर्व पाकिस्तानी कप्तान ने क्यों कहा अपने खिलाड़ी को 'कुत्ता'? लगातार 3 बार 0",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "अपन",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.418274Z",
+        "website_section": null,
+        "content_hash": "73f5086a0669d4c2b0049db1c4b99459"
+      }
+    },
+    {
+      "id": "8451fa90d9934b6acedd1a10d2fbe7c4",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.417282Z",
+      "language": "Hindi",
+      "title": "यूएई की टीम ने दिखाया पाकिस्तान को तेवर, वॉकओवर नहीं खेलकर जीतना था",
+      "content": "News article: यूएई की टीम ने दिखाया पाकिस्तान को तेवर, वॉकओवर नहीं खेलकर जीतना था",
+      "summary": "यूएई की टीम ने दिखाया पाकिस्तान को तेवर, वॉकओवर नहीं खेलकर जीतना था",
+      "url": "https://hindi.news18.com/cricket/uae-cricket-team-unity-remains-despite-india-pakistan-tension-ws-l-9638255.html",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "कओवर",
+        "लकर",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.417282Z",
+        "website_section": null,
+        "content_hash": "3e2273cb5d84004dc0ed4b0046aede8c"
+      }
+    },
+    {
+      "id": "8954728844c8500bbae05b8cf120dacb",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.416286Z",
+      "language": "Hindi",
+      "title": "साई सुदर्शन निकले फिर रेस में आगे, ईश्वरन और श्रेयस अय्यर से बनाए ज्यादा रन",
+      "content": "News article: साई सुदर्शन निकले फिर रेस में आगे, ईश्वरन और श्रेयस अय्यर से बनाए ज्यादा रन",
+      "summary": "साई सुदर्शन निकले फिर रेस में आगे, ईश्वरन और श्रेयस अय्यर से बनाए ज्यादा रन",
+      "url": "https://hindi.news18.com/cricket/uae-cricket-team-unity-remains-despite-india-pakistan-tension-ws-l-9638255.html",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "वरन",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.416286Z",
+        "website_section": null,
+        "content_hash": "40743136c69969248ad57218534953af"
+      }
+    },
+    {
+      "id": "d6d6c7c5ab933389efe838752b8bcb7c",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-09-18T15:42:06.411378Z",
+      "language": "Hindi",
+      "title": "करोड़ कैश, बैंक अकाउंट...', जानिए बांके बिहारी जी कितने अमीर हैं?",
+      "content": "News article: करोड़ कैश, बैंक अकाउंट...', जानिए बांके बिहारी जी कितने अमीर हैं?",
+      "summary": "करोड़ कैश, बैंक अकाउंट...', जानिए बांके बिहारी जी कितने अमीर हैं?",
+      "url": "https://hindi.news18.com/news/uttar-pradesh/mathura/",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:06.411378Z",
+        "website_section": null,
+        "content_hash": "b97b829bacdb946baf47de5a257b593c"
+      }
+    },
+    {
+      "id": "6147f29b87c41bcc00f5271fa5b8598f",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.646736Z",
+      "language": "Hindi",
+      "title": "PAK एक्सपर्ट ने की पाकिस्तानी क्रिकेटर मोहम्मद यूसुफ को बैन करने की मांग, बोले- ये तो ईसाई थे और लोग इन्हें गलत शब्द....",
+      "content": "News article: PAK एक्सपर्ट ने की पाकिस्तानी क्रिकेटर मोहम्मद यूसुफ को बैन करने की मांग, बोले- ये तो ईसाई थे और लोग इन्हें गलत शब्द....",
+      "summary": "PAK एक्सपर्ट ने की पाकिस्तानी क्रिकेटर मोहम्मद यूसुफ को बैन करने की मांग, बोले- ये तो ईसाई थे और लोग इन्हें गलत शब्द.....",
+      "url": "https://www.abplive.com",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "pak",
+        "सपर",
+        "करन",
+        "गलत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.646736Z",
+        "website_section": null,
+        "content_hash": "183874f782cb1a77016eb42a0ec6c7d2"
+      }
+    },
+    {
+      "id": "74ac4ad620ce5a53dafdfb1fbece0562",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.644736Z",
+      "language": "Hindi",
+      "title": "विश्वPAK एक्सपर्ट ने की पाकिस्तानी क्रिकेटर मोहम्मद यूसुफ को बैन करने की मांग, बोले- ये तो ईसाई थे और लोग इन्हें गलत शब्द....",
+      "content": "News article: विश्वPAK एक्सपर्ट ने की पाकिस्तानी क्रिकेटर मोहम्मद यूसुफ को बैन करने की मांग, बोले- ये तो ईसाई थे और लोग इन्हें गलत शब्द....",
+      "summary": "विश्वPAK एक्सपर्ट ने की पाकिस्तानी क्रिकेटर मोहम्मद यूसुफ को बैन करने की मांग, बोले- ये तो ईसाई थे और लोग इन्हें गलत शब्द.....",
+      "url": "https://www.abplive.com/news/world/suryakumar-yadav-name-controversy-pakistani-expert-shakil-chaudhary-appeals-ban-mohammad-yusuf-for-using-abusive-language-3014549",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "वpak",
+        "सपर",
+        "करन",
+        "गलत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.644736Z",
+        "website_section": null,
+        "content_hash": "175242996325111eece8f4552a5550a0"
+      }
+    },
+    {
+      "id": "7452fe252982f962d5528fd1f687623c",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.643738Z",
+      "language": "Hindi",
+      "title": "महाराष्ट्र: अधिकारियों के लिए सरकारी गाड़ियों की कीमत की सीमा बढ़ी, गवर्नर-CM के लिए कोई लिमिट नहीं",
+      "content": "News article: महाराष्ट्र: अधिकारियों के लिए सरकारी गाड़ियों की कीमत की सीमा बढ़ी, गवर्नर-CM के लिए कोई लिमिट नहीं",
+      "summary": "महाराष्ट्र: अधिकारियों के लिए सरकारी गाड़ियों की कीमत की सीमा बढ़ी, गवर्नर-CM के लिए कोई लिमिट नहीं.",
+      "url": "https://www.abplive.com",
+      "author": null,
+      "ministries": [
+        "international_affairs",
+        "politics",
+        "defence"
+      ],
+      "ministry_scores": {
+        "international_affairs": 1.0,
+        "politics": 1.0,
+        "defence": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "सरक",
+        "गवर",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.643738Z",
+        "website_section": null,
+        "content_hash": "a34b84f9d966581058570afd48f768e2"
+      }
+    },
+    {
+      "id": "ed00c63309a62ce4826015c2279840f1",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.641737Z",
+      "language": "Hindi",
+      "title": "महाराष्ट्रमहाराष्ट्र: अधिकारियों के लिए सरकारी गाड़ियों की कीमत की सीमा बढ़ी, गवर्नर-CM के लिए कोई लिमिट नहीं",
+      "content": "News article: महाराष्ट्रमहाराष्ट्र: अधिकारियों के लिए सरकारी गाड़ियों की कीमत की सीमा बढ़ी, गवर्नर-CM के लिए कोई लिमिट नहीं",
+      "summary": "महाराष्ट्रमहाराष्ट्र: अधिकारियों के लिए सरकारी गाड़ियों की कीमत की सीमा बढ़ी, गवर्नर-CM के लिए कोई लिमिट नहीं.",
+      "url": "https://www.abplive.com/states/maharashtra/price-limit-on-government-vehicles-for-officials-increased-no-limit-for-governor-and-cm-ann-3014779",
+      "author": null,
+      "ministries": [
+        "international_affairs",
+        "politics",
+        "defence"
+      ],
+      "ministry_scores": {
+        "international_affairs": 1.0,
+        "politics": 1.0,
+        "defence": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "रमह",
+        "सरक",
+        "गवर",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.641737Z",
+        "website_section": null,
+        "content_hash": "cc42f18e84f9c267823a0c193749883d"
+      }
+    },
+    {
+      "id": "e9112197b0ffc002c61ad4775eed21e6",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.639737Z",
+      "language": "Hindi",
+      "title": "हमला किया तो...', तुर्की, चीन के बाद पाकिस्तान के साथ खड़ा हुआ सऊदी अरब! डिफेंस डील ने भारत का कैसे खेल बिगाड़ा?",
+      "content": "News article: हमला किया तो...', तुर्की, चीन के बाद पाकिस्तान के साथ खड़ा हुआ सऊदी अरब! डिफेंस डील ने भारत का कैसे खेल बिगाड़ा?",
+      "summary": "हमला किया तो...', तुर्की, चीन के बाद पाकिस्तान के साथ खड़ा हुआ सऊदी अरब! डिफेंस डील ने भारत का कैसे खेल बिगाड़ा?. News article: हमला किया तो. ', तुर्की, चीन के बाद पाकिस्तान के साथ खड़ा हुआ सऊदी अरब.",
+      "url": "https://www.abplive.com",
+      "author": null,
+      "ministries": [
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "हमल",
+        "सऊद",
+        "अरब",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.639737Z",
+        "website_section": null,
+        "content_hash": "40124e7beb27b2fe60e819b549b6e4ea"
+      }
+    },
+    {
+      "id": "94d0c35618f2075787cd1b12ec381c81",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.637725Z",
+      "language": "Hindi",
+      "title": "विश्व'हमला किया तो...', तुर्की, चीन के बाद पाकिस्तान के साथ खड़ा हुआ सऊदी अरब! डिफेंस डील ने भारत का कैसे खेल बिगाड़ा?",
+      "content": "News article: विश्व'हमला किया तो...', तुर्की, चीन के बाद पाकिस्तान के साथ खड़ा हुआ सऊदी अरब! डिफेंस डील ने भारत का कैसे खेल बिगाड़ा?",
+      "summary": "विश्व'हमला किया तो...', तुर्की, चीन के बाद पाकिस्तान के साथ खड़ा हुआ सऊदी अरब! डिफेंस डील ने भारत का कैसे खेल बिगाड़ा?. News article: विश्व'हमला किया तो.",
+      "url": "https://www.abplive.com/news/world/saudi-arabia-and-pakistan-signed-strategic-mutual-defense-agreement-impact-defense-pact-on-india-saudi-relations-3014648",
+      "author": null,
+      "ministries": [
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "हमल",
+        "सऊद",
+        "अरब",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.637725Z",
+        "website_section": null,
+        "content_hash": "d9f88c87beba0843075e26e419f2bfcb"
+      }
+    },
+    {
+      "id": "2da5546ac133e6feed04686f4bdc1744",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.536174Z",
+      "language": "Hindi",
+      "title": "Kal Ka Rashifal: 19 सितंबर का भाग्यफल क्या कहता है? पढ़ें मेष से मीन का राशिफल",
+      "content": "News article: Kal Ka Rashifal: 19 सितंबर का भाग्यफल क्या कहता है? पढ़ें मेष से मीन का राशिफल",
+      "summary": "Kal Ka Rashifal: 19 सितंबर का भाग्यफल क्या कहता है? पढ़ें मेष से मीन का राशिफल",
+      "url": "https://www.abplive.com/astro/horoscope/kal-ka-rashifal-tomorrow-19-september-2025-horoscope-zodiac-career-business-love-life-3014674",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "kal",
+        "rashifal",
+        "यफल",
+        "कहत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.536174Z",
+        "website_section": null,
+        "content_hash": "ea8411ef46cf70ad21caec544d185926"
+      }
+    },
+    {
+      "id": "46217b8e5d500d0f101dcd80d9aee8ed",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.533752Z",
+      "language": "Hindi",
+      "title": "GST 2.0: जीएसटी सुधार से ऑटो सेक्टर को होगा बड़ा फायदा, जानें कैसे बदल रहा है मार्केट",
+      "content": "News article: GST 2.0: जीएसटी सुधार से ऑटो सेक्टर को होगा बड़ा फायदा, जानें कैसे बदल रहा है मार्केट",
+      "summary": "GST 2.0: जीएसटी सुधार से ऑटो सेक्टर को होगा बड़ा फायदा, जानें कैसे बदल रहा है मार्केट",
+      "url": "https://www.abplive.com/auto/gst-reforms-2025-bring-significant-benefits-to-auto-sector-know-reason-and-more-details-3014643",
+      "author": null,
+      "ministries": [
+        "finance",
+        "politics"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "gst",
+        "एसट",
+        "बदल",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.533752Z",
+        "website_section": null,
+        "content_hash": "d9dac43f69e6a3a2ae58cb13e8f2b20b"
+      }
+    },
+    {
+      "id": "d4b3da614920e6de072fd00fc0af3f27",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.531752Z",
+      "language": "Hindi",
+      "title": "मुहूर्त ट्रेडिंग 2025: मिस नहीं करें दीवाली पर 22 अक्तूबर को सिर्फ 1 घंटे की ट्रेडिंग, आपको कर सकता है मालामाल",
+      "content": "News article: मुहूर्त ट्रेडिंग 2025: मिस नहीं करें दीवाली पर 22 अक्तूबर को सिर्फ 1 घंटे की ट्रेडिंग, आपको कर सकता है मालामाल",
+      "summary": "मुहूर्त ट्रेडिंग 2025: मिस नहीं करें दीवाली पर 22 अक्तूबर को सिर्फ 1 घंटे की ट्रेडिंग, आपको कर सकता है मालामाल.",
+      "url": "https://www.abplive.com/business/diwali-muhurat-trading-2025-time-date-share-market-bse-nse-stock-buy-muhurat-3014704",
+      "author": null,
+      "ministries": [
+        "finance",
+        "politics"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "2025",
+        "आपक",
+        "सकत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.531752Z",
+        "website_section": null,
+        "content_hash": "e0f33a1a6d245abc90de823ddb0791c0"
+      }
+    },
+    {
+      "id": "223d8f4eb1931e5f4344b7c00bbee7ed",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.529740Z",
+      "language": "Hindi",
+      "title": "दाढ़ी रखते हैं, प्रोफेशनल नहीं हैं, इंजमाम तो ब्रायन लारा को कंवर्ट....', मोहम्मद यूसुफ कोंट्रोवर्सी के बाद पाकिस्तानी टीम पर निकला PAK एक्सपर्ट का गुस्सा",
+      "content": "News article: दाढ़ी रखते हैं, प्रोफेशनल नहीं हैं, इंजमाम तो ब्रायन लारा को कंवर्ट....', मोहम्मद यूसुफ कोंट्रोवर्सी के बाद पाकिस्तानी टीम पर निकला PAK एक्सपर्ट का गुस्सा",
+      "summary": "दाढ़ी रखते हैं, प्रोफेशनल नहीं हैं, इंजमाम तो ब्रायन लारा को कंवर्ट....', मोहम्मद यूसुफ कोंट्रोवर्सी के बाद पाकिस्तानी टीम पर निकला PAK एक्सपर्ट का गुस्सा.",
+      "url": "https://www.abplive.com/news/india/pak-expert-qamar-cheema-on-mohammad-yousuf-contrrversy-says-pakistani-cricketers-not-professional-try-to-convert-other-cricketers-into-islam-3014587",
+      "author": null,
+      "ministries": [
+        "sports",
+        "international_affairs"
+      ],
+      "ministry_scores": {
+        "sports": 1.0,
+        "international_affairs": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "रखत",
+        "शनल",
+        "pak",
+        "सपर",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.529740Z",
+        "website_section": null,
+        "content_hash": "17a2a399eba07809043cf6e00aaa9ac6"
+      }
+    },
+    {
+      "id": "1537232fb1b84fecb2da7e74d8a2b0de",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.527218Z",
+      "language": "Hindi",
+      "title": "दुनिया के किस देश में पहली बार EVM से हुए थे चुनाव, जानें अब क्या है वहां का हाल",
+      "content": "News article: दुनिया के किस देश में पहली बार EVM से हुए थे चुनाव, जानें अब क्या है वहां का हाल",
+      "summary": "दुनिया के किस देश में पहली बार EVM से हुए थे चुनाव, जानें अब क्या है वहां का हाल",
+      "url": "https://www.abplive.com/gk/elections-from-evm-for-the-first-time-in-which-country-know-what-is-the-situation-in-that-country-3014735",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "पहल",
+        "evm",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.527218Z",
+        "website_section": null,
+        "content_hash": "6d47fa5e2e9bc3b047f8ac6d6fd82d59"
+      }
+    },
+    {
+      "id": "a49b3bf83a55dc97b724e458dce163f0",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.526129Z",
+      "language": "Hindi",
+      "title": "स्टारकिड्स में सबसे अमीर हैं आर्यन खान, डेब्यू से पहले ही जाह्नवी कपूर के बराबर है बैंक बैलेंस, नेटवर्थ जानें",
+      "content": "News article: स्टारकिड्स में सबसे अमीर हैं आर्यन खान, डेब्यू से पहले ही जाह्नवी कपूर के बराबर है बैंक बैलेंस, नेटवर्थ जानें",
+      "summary": "स्टारकिड्स में सबसे अमीर हैं आर्यन खान, डेब्यू से पहले ही जाह्नवी कपूर के बराबर है बैंक बैलेंस, नेटवर्थ जानें.",
+      "url": "https://www.abplive.com/entertainment/bollywood/aryan-khan-tops-the-richest-star-kids-list-matches-janhvi-kapoor-net-worth-even-before-his-debut-3014702",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "सबस",
+        "पहल",
+        "टवर",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.526129Z",
+        "website_section": null,
+        "content_hash": "824dbf0c0d7cc3aa176932a0dcaef97e"
+      }
+    },
+    {
+      "id": "44cb2868fff1c3136e952f13b80194f7",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.525131Z",
+      "language": "Hindi",
+      "title": "फाइनल में आज नीरज चोपड़ा और अरशद नदीम के बीच जंग, कितने बजे और कहां देखें लाइव, जानिए",
+      "content": "News article: फाइनल में आज नीरज चोपड़ा और अरशद नदीम के बीच जंग, कितने बजे और कहां देखें लाइव, जानिए",
+      "summary": "फाइनल में आज नीरज चोपड़ा और अरशद नदीम के बीच जंग, कितने बजे और कहां देखें लाइव, जानिए",
+      "url": "https://www.abplive.com/sports/world-athletics-championships-2025-javelin-throw-final-live-streaming-neeraj-chopra-vs-arshad-nadeem-where-to-watch-online-3014688",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "इनल",
+        "अरशद",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.525131Z",
+        "website_section": null,
+        "content_hash": "a0b44e386ee79633f485c8c55a6ca8ac"
+      }
+    },
+    {
+      "id": "728ee186f482e526eb75fdfd949ed7e4",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.523126Z",
+      "language": "Hindi",
+      "title": "सपा नेता आजम खान के बुरे दिन खत्म! अब जेल से आ सकते हैं बाहर, हाईकोर्ट से मिली जमानत",
+      "content": "News article: सपा नेता आजम खान के बुरे दिन खत्म! अब जेल से आ सकते हैं बाहर, हाईकोर्ट से मिली जमानत",
+      "summary": "सपा नेता आजम खान के बुरे दिन खत्म! अब जेल से आ सकते हैं बाहर, हाईकोर्ट से मिली जमानत",
+      "url": "https://www.abplive.com/states/up-uk/up-politics-samajwadi-party-leader-azam-khan-may-be-released-from-jail-3014755",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "आजम",
+        "सकत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.523126Z",
+        "website_section": null,
+        "content_hash": "5584d92c2e115236055b82b325e97b64"
+      }
+    },
+    {
+      "id": "c21c957b498a1f17bfd0837e86b1e362",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-09-18T15:42:01.521112Z",
+      "language": "Hindi",
+      "title": "झूठे और निराधार आरोप...', इलेक्शन कमीशन ने वोट चोरी के मामले पर राहुल गांधी को दिया दो टूक जवाब",
+      "content": "News article: झूठे और निराधार आरोप...', इलेक्शन कमीशन ने वोट चोरी के मामले पर राहुल गांधी को दिया दो टूक जवाब",
+      "summary": "झूठे और निराधार आरोप...', इलेक्शन कमीशन ने वोट चोरी के मामले पर राहुल गांधी को दिया दो टूक जवाब. News article: झूठे और निराधार आरोप.",
+      "url": "https://www.abplive.com/news/india/election-commission-of-india-said-rahul-gandhi-allegations-incorrect-baseless-vote-chori-gyanesh-kumar-3014657",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:42:01.521112Z",
+        "website_section": null,
+        "content_hash": "78eca3356e00faa5c636aee0385f9d82"
+      }
+    },
+    {
+      "id": "cbdbcd80cbba64ae769e2e030305f2aa",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.635281Z",
+      "language": "Hindi",
+      "title": "MP कैमरे वाले Galaxy S24 Ultra पर 63 हजार रुपये का डिस्काउंट",
+      "content": "News article: MP कैमरे वाले Galaxy S24 Ultra पर 63 हजार रुपये का डिस्काउंट",
+      "summary": "MP कैमरे वाले Galaxy S24 Ultra पर 63 हजार रुपये का डिस्काउंट",
+      "url": "https://www.aajtak.in",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "galaxy",
+        "s24",
+        "ultra",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.635281Z",
+        "website_section": null,
+        "content_hash": "fe13278ebcf8ea3a13cc1a75b96ffb4f"
+      }
+    },
+    {
+      "id": "9b969ad8f1b38451ad593d068bc25048",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.532118Z",
+      "language": "Hindi",
+      "title": "आर्यन को बधाई देने नहीं पुराने जख्म कुरेदने आए थे समय रैना? शाहरुख फैंस नाराज",
+      "content": "News article: आर्यन को बधाई देने नहीं पुराने जख्म कुरेदने आए थे समय रैना? शाहरुख फैंस नाराज",
+      "summary": "आर्यन को बधाई देने नहीं पुराने जख्म कुरेदने आए थे समय रैना? शाहरुख फैंस नाराज",
+      "url": "https://www.aajtak.in/entertainment/bollywood-news/story/samay-raina-tshirt-aryan-khan-drug-case-bads-of-bollywood-premiere-tmovp-dskc-2336147-2025-09-18",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "समय",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.532118Z",
+        "website_section": null,
+        "content_hash": "d1b0edc661e8bc189c59dcc15c081f0f"
+      }
+    },
+    {
+      "id": "8d4086f5e13257682e25b569ad76d5b2",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.529123Z",
+      "language": "Hindi",
+      "title": "आपके शहर में आज क्या है सोने का रेट? यहां देखें नई लिस्ट",
+      "content": "News article: आपके शहर में आज क्या है सोने का रेट? यहां देखें नई लिस्ट",
+      "summary": "आपके शहर में आज क्या है सोने का रेट? यहां देखें नई लिस्ट",
+      "url": "https://www.aajtak.in/visualstories/business/gold-price-today-aaj-18th-september-2025-ka-10-gm-22-24-carat-sone-ka-bhav-lbs-aigp-261170-18-09-2025",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "आपक",
+        "शहर",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.529123Z",
+        "website_section": null,
+        "content_hash": "446b67d2251e4912e1a06d644849b3c4"
+      }
+    },
+    {
+      "id": "0d5c33c3d73cadd4b02b2fd93e8d0bf4",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.525121Z",
+      "language": "Hindi",
+      "title": "कौन हैं कैथरीन, जिन्हें ब्रिटेन जाकर ट्रंप ने कहा, 'आप बहुत खूबसूरत हैं', वीडियो वायरल!",
+      "content": "News article: कौन हैं कैथरीन, जिन्हें ब्रिटेन जाकर ट्रंप ने कहा, 'आप बहुत खूबसूरत हैं', वीडियो वायरल!",
+      "summary": "कौन हैं कैथरीन, जिन्हें ब्रिटेन जाकर ट्रंप ने कहा, 'आप बहुत खूबसूरत हैं', वीडियो वायरल!. News article: कौन हैं कैथरीन, जिन्हें ब्रिटेन जाकर ट्रंप ने कहा, 'आप बहुत खूबसूरत हैं', वीडियो वायरल.",
+      "url": "https://www.aajtak.in/visualstories/trending/trump-with-princess-of-wales-kate-praises-video-katherine-husband-prince-william-pvpw-261166-18-09-2025",
+      "author": null,
+      "ministries": [
+        "finance",
+        "politics"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "यरल",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.525121Z",
+        "website_section": null,
+        "content_hash": "419cb22b069ff90aedc296c2848036f0"
+      }
+    },
+    {
+      "id": "1731548d699cd13354fcb2b83e2aace7",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.522128Z",
+      "language": "Hindi",
+      "title": "शादी के 5 महीने बाद दी गुडन्यूज, पापा बनेगा करोड़पति यूट्यूबर, प्रेग्नेंट है पत्नी",
+      "content": "News article: शादी के 5 महीने बाद दी गुडन्यूज, पापा बनेगा करोड़पति यूट्यूबर, प्रेग्नेंट है पत्नी",
+      "summary": "शादी के 5 महीने बाद दी गुडन्यूज, पापा बनेगा करोड़पति यूट्यूबर, प्रेग्नेंट है पत्नी",
+      "url": "https://www.aajtak.in/visualstories/entertainment/youtuber-anurag-dobhal-announce-wife-ritika-chauhan-pregnancy-video-viral-tmovk-261143-18-09-2025",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.522128Z",
+        "website_section": null,
+        "content_hash": "7f17c072d844cc171b25ef6d0fa9be33"
+      }
+    },
+    {
+      "id": "af191ec319ce5acb747c1e0c758899b2",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.520118Z",
+      "language": "Hindi",
+      "title": "चांदी की कीमतों में मामूली गिरावट, चेक करें आज का रेट",
+      "content": "News article: चांदी की कीमतों में मामूली गिरावट, चेक करें आज का रेट",
+      "summary": "चांदी की कीमतों में मामूली गिरावट, चेक करें आज का रेट",
+      "url": "https://www.aajtak.in/visualstories/business/silver-price-today-aaj-18th-september-2025-ka-1-kg-kilo-chandi-ka-rate-lbs-aisp-261171-18-09-2025",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.520118Z",
+        "website_section": null,
+        "content_hash": "ff8bc6c66053eb688831a8da8ba88243"
+      }
+    },
+    {
+      "id": "8d7434150190940e97b3db7821fba55e",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.516117Z",
+      "language": "Hindi",
+      "title": "WHO की कड़ी चेतावनी! कम मात्रा में शराब भी दिमाग के लिए 'जहर', हो सकती हैं ये 4 दिक्कतें",
+      "content": "News article: WHO की कड़ी चेतावनी! कम मात्रा में शराब भी दिमाग के लिए 'जहर', हो सकती हैं ये 4 दिक्कतें",
+      "summary": "WHO की कड़ी चेतावनी! कम मात्रा में शराब भी दिमाग के लिए 'जहर', हो सकती हैं ये 4 दिक्कतें. News article: WHO की कड़ी चेतावनी. कम मात्रा में शराब भी दिमाग के लिए 'जहर', हो सकती हैं ये 4 दिक्कतें.",
+      "url": "https://www.aajtak.in/visualstories/health/alcohol-effects-on-brain-damage-memory-mood-who-warning-tvist-260919-18-09-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "who",
+        "जहर",
+        "सकत",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.516117Z",
+        "website_section": null,
+        "content_hash": "b1e455dd23ee6ab00cd7c4339d6e4561"
+      }
+    },
+    {
+      "id": "742efaa5e637fb1a9c1c5ca71179874b",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.514117Z",
+      "language": "Hindi",
+      "title": "इस प्लेयर ने तोड़ा 136 साल पुराना रिकॉर्ड, बना इंग्लैंड का सबसे कम उम्र का कप्तान",
+      "content": "News article: इस प्लेयर ने तोड़ा 136 साल पुराना रिकॉर्ड, बना इंग्लैंड का सबसे कम उम्र का कप्तान",
+      "summary": "इस प्लेयर ने तोड़ा 136 साल पुराना रिकॉर्ड, बना इंग्लैंड का सबसे कम उम्र का कप्तान",
+      "url": "https://www.aajtak.in/visualstories/sports/jacob-bethell-youngest-england-captain-creates-history-ireland-vs-england-t20i-tspok-261173-18-09-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "136",
+        "सबस",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.514117Z",
+        "website_section": null,
+        "content_hash": "e5f98dcadd17d03f6741ae0b4e532a8c"
+      }
+    },
+    {
+      "id": "297c8bfb305980983cea04e64ec29a44",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.511122Z",
+      "language": "Hindi",
+      "title": "धनश्री संग नहीं रुक रही पवन सिंह की फ्लर्टिंग, फ‍िगर के बाद हंसी पर हुए फ‍िदा",
+      "content": "News article: धनश्री संग नहीं रुक रही पवन सिंह की फ्लर्टिंग, फ‍िगर के बाद हंसी पर हुए फ‍िदा",
+      "summary": "धनश्री संग नहीं रुक रही पवन सिंह की फ्लर्टिंग, फ‍िगर के बाद हंसी पर हुए फ‍िदा",
+      "url": "https://www.aajtak.in/visualstories/entertainment/pawan-singh-praised-dhanashree-smile-flirting-rise-and-fall-tmovh-261137-18-09-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "धनश",
+        "पवन",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.511122Z",
+        "website_section": null,
+        "content_hash": "3f5e91d9d6a7ce7a248ee54340d495f6"
+      }
+    },
+    {
+      "id": "0accbc5dbc737d76688dca21b2c62d87",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.509119Z",
+      "language": "Hindi",
+      "title": "GST रेट कट... अब इतने रुपये में बन जाएगा 4BHK घर",
+      "content": "News article: GST रेट कट... अब इतने रुपये में बन जाएगा 4BHK घर",
+      "summary": "GST रेट कट... अब इतने रुपये में बन जाएगा 4BHK घर",
+      "url": "https://www.aajtak.in/visualstories/business/gst-rate-cut-calculation-of-4bhk-house-cost-tutd-261054-18-09-2025",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "gst",
+        "इतन",
+        "4bhk",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.509119Z",
+        "website_section": null,
+        "content_hash": "a361aaee78d391a65e190cc9d49ff180"
+      }
+    },
+    {
+      "id": "51724bb2de95b3d99cd8bcc3473c87f7",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.506122Z",
+      "language": "Hindi",
+      "title": "कॉपर के बर्तन से पानी पीना हो सकता है खतरनाक! 5 तरह के लोग रहें दूर",
+      "content": "News article: कॉपर के बर्तन से पानी पीना हो सकता है खतरनाक! 5 तरह के लोग रहें दूर",
+      "summary": "कॉपर के बर्तन से पानी पीना हो सकता है खतरनाक! 5 तरह के लोग रहें दूर",
+      "url": "https://www.aajtak.in/visualstories/health/drinking-copper-water-5-people-who-should-avoid-health-risk-tvisx-261163-18-09-2025",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "सकत",
+        "खतरन",
+        "तरह",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.506122Z",
+        "website_section": null,
+        "content_hash": "680ccf1a3e417645e2157ae52057b3ba"
+      }
+    },
+    {
+      "id": "5c8bded89b8c67134894e8b342604cee",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.503019Z",
+      "language": "Hindi",
+      "title": "क्या होता है SEL? बच्चों की ग्रोथ को बना सकता है ये बेहतर...",
+      "content": "News article: क्या होता है SEL? बच्चों की ग्रोथ को बना सकता है ये बेहतर...",
+      "summary": "क्या होता है SEL? बच्चों की ग्रोथ को बना सकता है ये बेहतर...",
+      "url": "https://www.aajtak.in/visualstories/education/social-emotional-learning-sel-importance-for-students-growth-lbs-260938-18-09-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "sel",
+        "सकत",
+        "हतर",
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.503019Z",
+        "website_section": null,
+        "content_hash": "59cc50500113e9240de0cd3a4ddbf422"
+      }
+    },
+    {
+      "id": "08d85e5334a82bc497b1cb82f443ecc7",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.499116Z",
+      "language": "Hindi",
+      "title": "विजुअल स्टोरीज़",
+      "content": "News article: विजुअल स्टोरीज़",
+      "summary": "विजुअल स्टोरीज़",
+      "url": "https://www.aajtak.in/visualstories/?utm_source=athomepage&utm_medium=bottomwidget&utm_campaign=visualstories",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.499116Z",
+        "website_section": null,
+        "content_hash": "282860d52a612eac62bd2a43c2c151ba"
+      }
+    },
+    {
+      "id": "ad83643ac7540a8046cc657991312054",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.495126Z",
+      "language": "Hindi",
+      "title": "मैट्रिमोनियल साइट और डेटिंग... 69 साल की दुल्हन के कत्ल की कहानी",
+      "content": "News article: मैट्रिमोनियल साइट और डेटिंग... 69 साल की दुल्हन के कत्ल की कहानी",
+      "summary": "मैट्रिमोनियल साइट और डेटिंग... 69 साल की दुल्हन के कत्ल की कहानी",
+      "url": "https://www.aajtak.in/india/punjab/story/matrimonial-site-meeting-dating-fraud-us-bride-murder-ludhiana-lcla-dskc-2336332-2025-09-18",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "news",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.495126Z",
+        "website_section": null,
+        "content_hash": "05cb9ef2b5d6b2e752b71b2e4aca29c8"
+      }
+    },
+    {
+      "id": "79c5cb02b19b833c5d007fdef8f321ab",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-09-18T15:41:57.490035Z",
+      "language": "Hindi",
+      "title": "Maruti का बड़ा ऐलान! 3.50 लाख में S-Presso और 5 लाख से सस्ती हुई Wagon R",
+      "content": "LIVE: वर्ल्ड चैम्पियनशिप में नीरज और नदीम आमने-सामने, थोड़ी देर में होगा फाइनल",
+      "summary": "Maruti का बड़ा ऐलान! 3.50 लाख में S-Presso और 5 लाख से सस्ती हुई Wagon R",
+      "url": "https://www.aajtak.in/auto/news/story/maruti-suzuki-price-cut-gst-benifits-wagon-r-s-presso-alto-celerio-ignis-dskc-2336291-2025-09-18",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "neutral",
+      "keywords": [
+        "maruti",
+        "presso",
+        "wagon",
+        "live",
+        "यनश",
+        "आमन",
+        "इनल"
+      ],
+      "metadata": {
+        "scrape_time": "2025-09-18T15:41:57.490035Z",
+        "website_section": null,
+        "content_hash": "f2e96b53225a6c90ffbc39059ae38566"
+      }
+    }
+  ]
+}

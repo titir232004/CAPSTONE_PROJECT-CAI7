@@ -1,0 +1,1382 @@
+{
+  "metadata": {
+    "date": "2025-11-29",
+    "total": 45,
+    "last_updated": "2025-11-29T13:03:38.038396",
+    "new_articles_added": 0,
+    "ministries": [
+      "education",
+      "politics",
+      "sports",
+      "general",
+      "finance",
+      "international_affairs"
+    ],
+    "languages": [
+      "Hindi"
+    ],
+    "sources": [
+      "News18 India",
+      "Aaj Tak",
+      "ABP News"
+    ]
+  },
+  "articles": [
+    {
+      "id": "38e3290626a762bebb6251d20aa40b4f",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:29.770249Z",
+      "language": "Hindi",
+      "title": "गंभीर को कोचिंग छोड़ने कहा गया, घर में नहीं जीत सकते, वर्ल्ड कप भूल जाओ",
+      "content": "News article: गंभीर को कोचिंग छोड़ने कहा गया, घर में नहीं जीत सकते, वर्ल्ड कप भूल जाओ",
+      "summary": "गंभीर को कोचिंग छोड़ने कहा गया, घर में नहीं जीत सकते, वर्ल्ड कप भूल जाओ",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": -0.7214794754981995,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "सकत",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:29.770249Z",
+        "website_section": null,
+        "content_hash": "13d5710ce68b9d82e48c1024a6a92571"
+      }
+    },
+    {
+      "id": "eef6eca299b1ea10a6e1f18cc7444e2f",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:28.841563Z",
+      "language": "Hindi",
+      "title": "ब्रह्मोस का दीवाना हुआ इस्लामिक मुल्क, राजनाथ के साथ हाईलेवल मीटिंग, डील जल्द",
+      "content": "News article: ब्रह्मोस का दीवाना हुआ इस्लामिक मुल्क, राजनाथ के साथ हाईलेवल मीटिंग, डील जल्द",
+      "summary": "ब्रह्मोस का दीवाना हुआ इस्लामिक मुल्क, राजनाथ के साथ हाईलेवल मीटिंग, डील जल्द",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:28.841563Z",
+        "website_section": null,
+        "content_hash": "55661ed9b99fb53e22a20bc1714b3d8f"
+      }
+    },
+    {
+      "id": "52ff45cd546e5aaa62279d2ef31bd225",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:26.367902Z",
+      "language": "Hindi",
+      "title": "मोदी सरकार का फैसला मानने को मजबूर हुईं ममता दीदी, चुनावी रणनीति या कुछ और?",
+      "content": "News article: मोदी सरकार का फैसला मानने को मजबूर हुईं ममता दीदी, चुनावी रणनीति या कुछ और?",
+      "summary": "मोदी सरकार का फैसला मानने को मजबूर हुईं ममता दीदी, चुनावी रणनीति या कुछ और?",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": -0.44516077637672424,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "सरक",
+        "मजब",
+        "ममत",
+        "रणन",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:26.367902Z",
+        "website_section": null,
+        "content_hash": "7560058ff2b97ef755969351431b2e7d"
+      }
+    },
+    {
+      "id": "04b6ca668150e5c889bdf7f7ce974880",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:25.885436Z",
+      "language": "Hindi",
+      "title": "धोनी ने डिनर के बाद अपनी जान से प्यारी चीज कर दी विराट कोहली के हवाले",
+      "content": "News article: धोनी ने डिनर के बाद अपनी जान से प्यारी चीज कर दी विराट कोहली के हवाले",
+      "summary": "धोनी ने डिनर के बाद अपनी जान से प्यारी चीज कर दी विराट कोहली के हवाले",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.3871421217918396,
+      "sentiment_label": "Positive",
+      "keywords": [
+        "अपन",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:25.885436Z",
+        "website_section": null,
+        "content_hash": "77ca0a8e3fd90e299b17162a2eaa68f2"
+      }
+    },
+    {
+      "id": "d2a8391852be18a1bb9ffeee2f707c5a",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:25.246947Z",
+      "language": "Hindi",
+      "title": "बरात रोककर BLO ने दूल्हे से भरवाया SIR फॉर्म, अब हर तरफ हो रही चर्चा",
+      "content": "News article: बरात रोककर BLO ने दूल्हे से भरवाया SIR फॉर्म, अब हर तरफ हो रही चर्चा",
+      "summary": "बरात रोककर BLO ने दूल्हे से भरवाया SIR फॉर्म, अब हर तरफ हो रही चर्चा",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "ककर",
+        "blo",
+        "भरव",
+        "sir",
+        "तरफ",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:25.246947Z",
+        "website_section": null,
+        "content_hash": "2a991f1dd6c9686d6a5e2a5be77b9bf6"
+      }
+    },
+    {
+      "id": "a93c9747577d0cbbe4321ca7060cf760",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:22.192744Z",
+      "language": "Hindi",
+      "title": "मेरा फोन भी नहीं उठाते हैं केजरीवाल, आंसू छलकाते हुए BJP में शामिल AAP नेता",
+      "content": "News article: मेरा फोन भी नहीं उठाते हैं केजरीवाल, आंसू छलकाते हुए BJP में शामिल AAP नेता",
+      "summary": "मेरा फोन भी नहीं उठाते हैं केजरीवाल, आंसू छलकाते हुए BJP में शामिल AAP नेता",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "politics"
+      ],
+      "ministry_scores": {
+        "politics": 1.0
+      },
+      "sentiment_score": -0.6282130479812622,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "छलक",
+        "bjp",
+        "aap",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:22.192744Z",
+        "website_section": null,
+        "content_hash": "c525679fc04c0fb3012a18147183de8a"
+      }
+    },
+    {
+      "id": "19fc7b690c44c932d0db4fc268151b9d",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:21.547989Z",
+      "language": "Hindi",
+      "title": "AI मैडम की क्लास शुरू! बुलंदशहर के 17 साल के छात्र आदित्य ने बनाया AI टीचर",
+      "content": "News article: AI मैडम की क्लास शुरू! बुलंदशहर के 17 साल के छात्र आदित्य ने बनाया AI टीचर",
+      "summary": "AI मैडम की क्लास शुरू! बुलंदशहर के 17 साल के छात्र आदित्य ने बनाया AI टीचर",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "education"
+      ],
+      "ministry_scores": {
+        "education": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "दशहर",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:21.547989Z",
+        "website_section": null,
+        "content_hash": "9f2318210a1fd288ebc54ab0c4aca2d5"
+      }
+    },
+    {
+      "id": "dbf3cdb2ccb71ce39c025fca704cc36d",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:20.985145Z",
+      "language": "Hindi",
+      "title": "हवाई सफर पर लगा ‘सूर्य-ग्रहण’! A320 ही नहीं, ग्राउंड होंगे ये सभी प्‍लेन्‍स",
+      "content": "News article: हवाई सफर पर लगा ‘सूर्य-ग्रहण’! A320 ही नहीं, ग्राउंड होंगे ये सभी प्‍लेन्‍स",
+      "summary": "हवाई सफर पर लगा ‘सूर्य-ग्रहण’! A320 ही नहीं, ग्राउंड होंगे ये सभी प्‍लेन्‍स",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "सफर",
+        "रहण",
+        "a320",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:20.985145Z",
+        "website_section": null,
+        "content_hash": "956ba0879c6e2e49f5570236fc2b7536"
+      }
+    },
+    {
+      "id": "38c41ea66095394d77bf89dee947025e",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:20.565745Z",
+      "language": "Hindi",
+      "title": "मैं इंतजार करूंगा', CM सिद्दारमैया संग नाश्‍ते के बाद बोले डीके शिवकुमार",
+      "content": "News article: मैं इंतजार करूंगा', CM सिद्दारमैया संग नाश्‍ते के बाद बोले डीके शिवकुमार",
+      "summary": "मैं इंतजार करूंगा', CM सिद्दारमैया संग नाश्‍ते के बाद बोले डीके शिवकुमार",
+      "url": "https://hindi.news18.com",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:20.565745Z",
+        "website_section": null,
+        "content_hash": "9f410842d9e00378be3230d4f01e34cd"
+      }
+    },
+    {
+      "id": "6f4082d2b40e9c854b7091a689e1d359",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:18.438046Z",
+      "language": "Hindi",
+      "title": "रोहित को BCCI की हिदायत, 2027 वर्ल्ड कप खेलने पर रिएक्शन ना दें- रिपोर्ट",
+      "content": "News article: रोहित को BCCI की हिदायत, 2027 वर्ल्ड कप खेलने पर रिएक्शन ना दें- रिपोर्ट",
+      "summary": "रोहित को BCCI की हिदायत, 2027 वर्ल्ड कप खेलने पर रिएक्शन ना दें- रिपोर्ट",
+      "url": "https://hindi.news18.com/cricket/bcci-clear-message-to-rohit-sharma-avoid-reacting-to-speculation-about-future-focus-on-your-fitness-and-performance-says-report-9909593.html",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": -0.4406963288784027,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "bcci",
+        "2027",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:18.438046Z",
+        "website_section": null,
+        "content_hash": "2f745add9896b0c87098ff4074f05152"
+      }
+    },
+    {
+      "id": "c9782a2965456d179bf9197de5cd132e",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:16.274543Z",
+      "language": "Hindi",
+      "title": "अर्जुन तेंदुलकर की बवाल बॉलिंग, डाला बुमराह से भी खतरनाक यॉर्कर, देखें वीडियो",
+      "content": "News article: अर्जुन तेंदुलकर की बवाल बॉलिंग, डाला बुमराह से भी खतरनाक यॉर्कर, देखें वीडियो",
+      "summary": "अर्जुन तेंदुलकर की बवाल बॉलिंग, डाला बुमराह से भी खतरनाक यॉर्कर, देखें वीडियो",
+      "url": "https://hindi.news18.com/cricket/arjun-tendulkar-bowled-yorker-more-dangerous-jasprit-bumrah-watch-video-9909638.html",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0
+      },
+      "sentiment_score": -0.7227866649627686,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "लकर",
+        "खतरन",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:16.274543Z",
+        "website_section": null,
+        "content_hash": "187bf935deea9ffbf54d019b1027e66f"
+      }
+    },
+    {
+      "id": "9a7227c054671588f6ac5cc3abeed613",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:16.136415Z",
+      "language": "Hindi",
+      "title": "वैभव सूर्यवंशी की मैच फीस कितनी? कमाई जान रह जाएंगे हैरान",
+      "content": "News article: वैभव सूर्यवंशी की मैच फीस कितनी? कमाई जान रह जाएंगे हैरान",
+      "summary": "वैभव सूर्यवंशी की मैच फीस कितनी? कमाई जान रह जाएंगे हैरान",
+      "url": "https://hindi.news18.com/cricket/bihar-cricketer-vaibhav-suryavanshi-match-fees-bcci-bca-local18-ws-l-9909651.html",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:16.136415Z",
+        "website_section": null,
+        "content_hash": "d8a45aab57fbb1890d2d3f03f8e7f792"
+      }
+    },
+    {
+      "id": "7dfb166fa56d8a59ac74e64fa1633f38",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:15.972896Z",
+      "language": "Hindi",
+      "title": "बीसीसीआई चाहता है रोहित और विराट विजय हजारे ट्रॉफी में खेलने उतरें : Report",
+      "content": "News article: बीसीसीआई चाहता है रोहित और विराट विजय हजारे ट्रॉफी में खेलने उतरें : Report",
+      "summary": "बीसीसीआई चाहता है रोहित और विराट विजय हजारे ट्रॉफी में खेलने उतरें : Report",
+      "url": "https://hindi.news18.com/cricket/rohit-sharma-and-virat-kohli-to-participate-in-vijay-hazare-trophy-bcci-sending-messages-says-report-9909818.html",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "उतर",
+        "report",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:15.972896Z",
+        "website_section": null,
+        "content_hash": "99f1cdde074c065be8fd5072fa961b01"
+      }
+    },
+    {
+      "id": "db028ede835a2e53b44d3c41b79a7495",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:15.769937Z",
+      "language": "Hindi",
+      "title": "क्रिकेटशेड्यूललाइव स्कोरनतीजेन्यूजफोटोवीडियोखेल",
+      "content": "News article: क्रिकेटशेड्यूललाइव स्कोरनतीजेन्यूजफोटोवीडियोखेल",
+      "summary": "क्रिकेटशेड्यूललाइव स्कोरनतीजेन्यूजफोटोवीडियोखेल",
+      "url": "https://hindi.news18.com/cricket/match-schedule/",
+      "author": null,
+      "ministries": [
+        "sports"
+      ],
+      "ministry_scores": {
+        "sports": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "रनत",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:15.769937Z",
+        "website_section": null,
+        "content_hash": "04d9618b514c877fc6708e7230f27943"
+      }
+    },
+    {
+      "id": "7d24585cf7a8908df4dfdd0dad41f700",
+      "source_type": "web_scraper",
+      "source_name": "News18 India",
+      "timestamp": "2025-11-29T13:03:13.543741Z",
+      "language": "Hindi",
+      "title": "बगैर पानी के पकता है मटन, फिर भी गलकर टूट जाता है पीस, जानें खासियत",
+      "content": "News article: बगैर पानी के पकता है मटन, फिर भी गलकर टूट जाता है पीस, जानें खासियत",
+      "summary": "बगैर पानी के पकता है मटन, फिर भी गलकर टूट जाता है पीस, जानें खासियत",
+      "url": "https://hindi.news18.com/news/lifestyle/recipe/",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": -0.4244111478328705,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "पकत",
+        "मटन",
+        "गलकर",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:13.543741Z",
+        "website_section": null,
+        "content_hash": "f397bf58c332a72195c0ec569f35ef42"
+      }
+    },
+    {
+      "id": "24385f88e5326b868eb2fe6a2867992d",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:05.695113Z",
+      "language": "Hindi",
+      "title": "दोनों पत्नियों और परिवार को धर्मेंद्र ने खूबसूरती से किया था मैनेज, जब ईशा देओल ने कही थी ये बात",
+      "content": "News article: दोनों पत्नियों और परिवार को धर्मेंद्र ने खूबसूरती से किया था मैनेज, जब ईशा देओल ने कही थी ये बात",
+      "summary": "दोनों पत्नियों और परिवार को धर्मेंद्र ने खूबसूरती से किया था मैनेज, जब ईशा देओल ने कही थी ये बात.",
+      "url": "https://www.abplive.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:05.695113Z",
+        "website_section": null,
+        "content_hash": "b3f72368d31c7acd81d11c6e06456c9e"
+      }
+    },
+    {
+      "id": "0097b0404c1d97d6fcd6b4b8f2fb4fc5",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:05.553248Z",
+      "language": "Hindi",
+      "title": "बॉलीवुडदोनों पत्नियों और परिवार को धर्मेंद्र ने खूबसूरती से किया था मैनेज, जब ईशा देओल ने कही थी ये बात",
+      "content": "News article: बॉलीवुडदोनों पत्नियों और परिवार को धर्मेंद्र ने खूबसूरती से किया था मैनेज, जब ईशा देओल ने कही थी ये बात",
+      "summary": "बॉलीवुडदोनों पत्नियों और परिवार को धर्मेंद्र ने खूबसूरती से किया था मैनेज, जब ईशा देओल ने कही थी ये बात.",
+      "url": "https://www.abplive.com/entertainment/bollywood/esha-deol-once-said-her-father-dharmendra-beautifully-manage-both-wives-hema-malini-and-prakash-kaur-beautifully-3050732",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:05.553248Z",
+        "website_section": null,
+        "content_hash": "b475547c3045f07e1b937f3aae1744a3"
+      }
+    },
+    {
+      "id": "4ba3a8c062cc4c1741a251b1418cfcb1",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:05.428596Z",
+      "language": "Hindi",
+      "title": "लखनऊ में ई-रिक्शा के रजिस्ट्रेशन को लेकर बड़ी खबर, कोर्ट ने निरस्त कर दिया यह अहम आदेश",
+      "content": "News article: लखनऊ में ई-रिक्शा के रजिस्ट्रेशन को लेकर बड़ी खबर, कोर्ट ने निरस्त कर दिया यह अहम आदेश",
+      "summary": "लखनऊ में ई-रिक्शा के रजिस्ट्रेशन को लेकर बड़ी खबर, कोर्ट ने निरस्त कर दिया यह अहम आदेश. News article: लखनऊ में ई-रिक्शा के रजिस्ट्रेशन को लेकर बड़ी खबर, कोर्ट ने निरस्त कर दिया यह अहम आदेश.",
+      "url": "https://www.abplive.com",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "लखनऊ",
+        "खबर",
+        "अहम",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:05.428596Z",
+        "website_section": null,
+        "content_hash": "7c090f2036fe4095bfdac8485afae72b"
+      }
+    },
+    {
+      "id": "56f3d7bb146c253e996167d08154cb76",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:05.182258Z",
+      "language": "Hindi",
+      "title": "उत्तर प्रदेश और उत्तराखंडलखनऊ में ई-रिक्शा के रजिस्ट्रेशन को लेकर बड़ी खबर, कोर्ट ने निरस्त कर दिया यह अहम आदेश",
+      "content": "News article: उत्तर प्रदेश और उत्तराखंडलखनऊ में ई-रिक्शा के रजिस्ट्रेशन को लेकर बड़ी खबर, कोर्ट ने निरस्त कर दिया यह अहम आदेश",
+      "summary": "उत्तर प्रदेश और उत्तराखंडलखनऊ में ई-रिक्शा के रजिस्ट्रेशन को लेकर बड़ी खबर, कोर्ट ने निरस्त कर दिया यह अहम आदेश.",
+      "url": "https://www.abplive.com/states/up-uk/allahabad-high-court-lucknow-bench-quashed-order-mandatory-to-be-a-resident-of-lucknow-for-registration-e-rickshaw-3050677",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "डलखनऊ",
+        "खबर",
+        "अहम",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:05.182258Z",
+        "website_section": null,
+        "content_hash": "7ee2f5727e6f8d7305cd4b1b7e246207"
+      }
+    },
+    {
+      "id": "0fb7bc61cdf6e4dacfde770492a67e23",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:03.742625Z",
+      "language": "Hindi",
+      "title": "सॉफ्टवेयर अपडेट और थम गया उड़ानों का कारवां, दिल्ली-मुंबई समेत कई एयरपोर्ट्स पर आई दिक्कत",
+      "content": "News article: सॉफ्टवेयर अपडेट और थम गया उड़ानों का कारवां, दिल्ली-मुंबई समेत कई एयरपोर्ट्स पर आई दिक्कत",
+      "summary": "सॉफ्टवेयर अपडेट और थम गया उड़ानों का कारवां, दिल्ली-मुंबई समेत कई एयरपोर्ट्स पर आई दिक्कत. News article: सॉफ्टवेयर अपडेट और थम गया उड़ानों का कारवां, दिल्ली-मुंबई समेत कई एयरपोर्ट्स पर आई दिक्कत.",
+      "url": "https://www.abplive.com",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": -0.7530576586723328,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "अपड",
+        "एयरप",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:03.742625Z",
+        "website_section": null,
+        "content_hash": "b4f1846232128f8bb2f9b58338812be0"
+      }
+    },
+    {
+      "id": "c12ee4018708e364146c18d9a08ddaca",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:02.255041Z",
+      "language": "Hindi",
+      "title": "इंडियासॉफ्टवेयर अपडेट और थम गया उड़ानों का कारवां, दिल्ली-मुंबई समेत कई एयरपोर्ट्स पर आई दिक्कत",
+      "content": "News article: इंडियासॉफ्टवेयर अपडेट और थम गया उड़ानों का कारवां, दिल्ली-मुंबई समेत कई एयरपोर्ट्स पर आई दिक्कत",
+      "summary": "इंडियासॉफ्टवेयर अपडेट और थम गया उड़ानों का कारवां, दिल्ली-मुंबई समेत कई एयरपोर्ट्स पर आई दिक्कत.",
+      "url": "https://www.abplive.com/news/india/air-india-airlines-airbus-a320-grounded-india-software-upgrade-dgca-latest-news-ann-3050704",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": -0.7854289412498474,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "अपड",
+        "एयरप",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:02.255041Z",
+        "website_section": null,
+        "content_hash": "4c725ecb1c5506e7eaa9a46b007f7479"
+      }
+    },
+    {
+      "id": "e9ff37acf4a6ddc550fa0c33ea14b63b",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:02.116429Z",
+      "language": "Hindi",
+      "title": "नवंबर को सिंह, कन्या, तुला, वृश्चिक की किस्मत अचानक पलटेगी! जानें किसे बड़ा नुकसान, किसे गुप्त फायदा",
+      "content": "News article: नवंबर को सिंह, कन्या, तुला, वृश्चिक की किस्मत अचानक पलटेगी! जानें किसे बड़ा नुकसान, किसे गुप्त फायदा",
+      "summary": "नवंबर को सिंह, कन्या, तुला, वृश्चिक की किस्मत अचानक पलटेगी! जानें किसे बड़ा नुकसान, किसे गुप्त फायदा. News article: नवंबर को सिंह, कन्या, तुला, वृश्चिक की किस्मत अचानक पलटेगी.",
+      "url": "https://www.abplive.com/lifestyle/religion/aaj-ka-rashifal-29-november-2025-leo-virgo-libra-scorpio-aquarius-moon-big-shift-horoscope-today-3050411",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "पलट",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:02.116429Z",
+        "website_section": null,
+        "content_hash": "d616273f1ec487c28ce3c6f174d6b54e"
+      }
+    },
+    {
+      "id": "1cb17b55e49e48564ec2cb46d1c459d2",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:02.018284Z",
+      "language": "Hindi",
+      "title": "Tata Harrier के सबसे सस्ते मॉडल को खरीदने के लिए कितनी डाउन पेमेंट करनी होगी? भरनी होगी इतनी EMI",
+      "content": "News article: Tata Harrier के सबसे सस्ते मॉडल को खरीदने के लिए कितनी डाउन पेमेंट करनी होगी? भरनी होगी इतनी EMI",
+      "summary": "Tata Harrier के सबसे सस्ते मॉडल को खरीदने के लिए कितनी डाउन पेमेंट करनी होगी? भरनी होगी इतनी EMI. News article: Tata Harrier के सबसे सस्ते मॉडल को खरीदने के लिए कितनी डाउन पेमेंट करनी होगी.",
+      "url": "https://www.abplive.com/auto/how-to-buy-tata-harrier-cheapest-model-on-emi-down-payment-method-know-on-road-price-3050692",
+      "author": null,
+      "ministries": [
+        "finance",
+        "sports",
+        "agriculture"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "sports": 1.0,
+        "agriculture": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "tata",
+        "harrier",
+        "सबस",
+        "करन",
+        "भरन",
+        "इतन",
+        "emi",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:02.018284Z",
+        "website_section": null,
+        "content_hash": "186e3853e0493f08f6667d9209648d21"
+      }
+    },
+    {
+      "id": "6cfe6bf841d6c39baf776b75d2b52237",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:01.907776Z",
+      "language": "Hindi",
+      "title": "दिन नहीं खुलेगा बैंक... दिसंबर में छुट्टियों की लंबी है लिस्ट, जानें आपके शहर में कब-कब ब्रांच रहेंगे बंद",
+      "content": "News article: दिन नहीं खुलेगा बैंक... दिसंबर में छुट्टियों की लंबी है लिस्ट, जानें आपके शहर में कब-कब ब्रांच रहेंगे बंद",
+      "summary": "दिन नहीं खुलेगा बैंक... दिसंबर में छुट्टियों की लंबी है लिस्ट, जानें आपके शहर में कब-कब ब्रांच रहेंगे बंद. News article: दिन नहीं खुलेगा बैंक.",
+      "url": "https://www.abplive.com/business/banks-will-be-closed-for-18-days-in-december-but-online-net-or-mobile-banking-services-will-remain-available-3050691",
+      "author": null,
+      "ministries": [
+        "finance",
+        "politics"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "आपक",
+        "शहर",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:01.907776Z",
+        "website_section": null,
+        "content_hash": "005e5b9c6195d4f5501b09718a16fcf0"
+      }
+    },
+    {
+      "id": "fba0c6e5a81453d82fde977ec954728c",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:01.723181Z",
+      "language": "Hindi",
+      "title": "अमेरिका की सबसे घातक मिसाइल मिनटमैन 3 को बनाने में कितना आता है खर्च? जानें इसकी ताकत",
+      "content": "News article: अमेरिका की सबसे घातक मिसाइल मिनटमैन 3 को बनाने में कितना आता है खर्च? जानें इसकी ताकत",
+      "summary": "अमेरिका की सबसे घातक मिसाइल मिनटमैन 3 को बनाने में कितना आता है खर्च? जानें इसकी ताकत",
+      "url": "https://www.abplive.com/news/world/america-minuteman-3-missile-is-one-of-world-most-powerful-intercontinental-ballistic-missiles-know-cost-of-making-3050676",
+      "author": null,
+      "ministries": [
+        "international_affairs",
+        "defence"
+      ],
+      "ministry_scores": {
+        "international_affairs": 1.0,
+        "defence": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "सबस",
+        "नटम",
+        "इसक",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:01.723181Z",
+        "website_section": null,
+        "content_hash": "e5fb425e012bc21487b6d8499a4c55a8"
+      }
+    },
+    {
+      "id": "07efdad6d3cc073dbe1f0cb3f042bd07",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:00.275428Z",
+      "language": "Hindi",
+      "title": "क्या मुस्लिमों की तरह हिंदू भी नहीं खाते हैं हलाल मीट, इस धर्म में क्या हैं नियम?",
+      "content": "News article: क्या मुस्लिमों की तरह हिंदू भी नहीं खाते हैं हलाल मीट, इस धर्म में क्या हैं नियम?",
+      "summary": "क्या मुस्लिमों की तरह हिंदू भी नहीं खाते हैं हलाल मीट, इस धर्म में क्या हैं नियम?",
+      "url": "https://www.abplive.com/gk/do-hindus-avoid-halal-meat-and-what-are-the-religious-rules-in-hinduism-3050413",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": -0.49441051483154297,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "तरह",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:00.275428Z",
+        "website_section": null,
+        "content_hash": "7ca4e95a61305f8996f7e8278b9df5d4"
+      }
+    },
+    {
+      "id": "bba9eaf1e513db0894aa6e352f8f01fb",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:00.168805Z",
+      "language": "Hindi",
+      "title": "शादी की सेकेंड एनिवर्सरी पर रणदीप ने पत्नी लिन संग फैंस को दी गुड न्यूज, अनाउंस की प्रेगनेंसी",
+      "content": "News article: शादी की सेकेंड एनिवर्सरी पर रणदीप ने पत्नी लिन संग फैंस को दी गुड न्यूज, अनाउंस की प्रेगनेंसी",
+      "summary": "शादी की सेकेंड एनिवर्सरी पर रणदीप ने पत्नी लिन संग फैंस को दी गुड न्यूज, अनाउंस की प्रेगनेंसी.",
+      "url": "https://www.abplive.com/entertainment/bollywood/randeep-hooda-and-his-wife-lin-laishram-announce-pregnancy-on-social-media-share-pics-on-second-wedding-anniversary-3050739",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "रणद",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:00.168805Z",
+        "website_section": null,
+        "content_hash": "e5685e5863f123a455f901c2c1004534"
+      }
+    },
+    {
+      "id": "0e946145208bec3d21841aef971771a9",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:03:00.053682Z",
+      "language": "Hindi",
+      "title": "जनवरी से शुरू होगी महिला प्रीमियर लीग, MI बनाम RCB से होगा धमाकेदार आगाज, जानिए पूरा शेड्यूल",
+      "content": "News article: जनवरी से शुरू होगी महिला प्रीमियर लीग, MI बनाम RCB से होगा धमाकेदार आगाज, जानिए पूरा शेड्यूल",
+      "summary": "जनवरी से शुरू होगी महिला प्रीमियर लीग, MI बनाम RCB से होगा धमाकेदार आगाज, जानिए पूरा शेड्यूल.",
+      "url": "https://www.abplive.com/sports/wpl-2026-full-schedule-mi-vs-rcb-opening-match-complete-fixtures-dates-venues-in-mumbai-and-vadodara-3050753",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.5523810982704163,
+      "sentiment_label": "Positive",
+      "keywords": [
+        "जनवर",
+        "rcb",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:03:00.053682Z",
+        "website_section": null,
+        "content_hash": "ca2442086ba8cdb320018a3098e86f25"
+      }
+    },
+    {
+      "id": "09bc9b180b324a563cd6764b1a79209b",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:02:59.938400Z",
+      "language": "Hindi",
+      "title": "रेप के दोषी नारायण साईं के खिलाफ नई FIR, जेल की कोठरी से मिला मोबाइल, गजब तरह से छुपाया था",
+      "content": "News article: रेप के दोषी नारायण साईं के खिलाफ नई FIR, जेल की कोठरी से मिला मोबाइल, गजब तरह से छुपाया था",
+      "summary": "रेप के दोषी नारायण साईं के खिलाफ नई FIR, जेल की कोठरी से मिला मोबाइल, गजब तरह से छुपाया था. News article: रेप के दोषी नारायण साईं के खिलाफ नई FIR, जेल की कोठरी से मिला मोबाइल, गजब तरह से छुपाया था.",
+      "url": "https://www.abplive.com/states/gujarat/fir-against-rape-convict-narayan-sai-for-hiding-mobile-phole-in-jail-cell-3050698",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "fir",
+        "गजब",
+        "तरह",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:59.938400Z",
+        "website_section": null,
+        "content_hash": "881737821cb4abfcb284f51146d421be"
+      }
+    },
+    {
+      "id": "f7b9877f4872c7cefa61cb31d88f2bea",
+      "source_type": "web_scraper",
+      "source_name": "ABP News",
+      "timestamp": "2025-11-29T13:02:59.803325Z",
+      "language": "Hindi",
+      "title": "कोई मतभेद नहीं...', ब्रेकफास्ट मीटिंग के बाद डीके शिवकुमार की पहली प्रतिक्रिया, कुर्सी विवाद पर क्या बोले?",
+      "content": "News article: कोई मतभेद नहीं...', ब्रेकफास्ट मीटिंग के बाद डीके शिवकुमार की पहली प्रतिक्रिया, कुर्सी विवाद पर क्या बोले?",
+      "summary": "कोई मतभेद नहीं...', ब्रेकफास्ट मीटिंग के बाद डीके शिवकुमार की पहली प्रतिक्रिया, कुर्सी विवाद पर क्या बोले?. News article: कोई मतभेद नहीं.",
+      "url": "https://www.abplive.com/news/india/karnataka-congress-troubles-end-siddaramaiah-and-dk-shivakumar-breakfast-meeting-in-bengaluru-3050733",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "मतभ",
+        "पहल",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:59.803325Z",
+        "website_section": null,
+        "content_hash": "e1a6b28d122d6c95bc7fc34417cb2fdd"
+      }
+    },
+    {
+      "id": "f480141aa37660c72f2198212cb627e6",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:49.371303Z",
+      "language": "Hindi",
+      "title": "बहुत ईगो क्लैश हो गया…', भंसाली और इस्माइल दरबार के रिश्ते पर बोले आवेज",
+      "content": "News article: बहुत ईगो क्लैश हो गया…', भंसाली और इस्माइल दरबार के रिश्ते पर बोले आवेज",
+      "summary": "बहुत ईगो क्लैश हो गया…', भंसाली और इस्माइल दरबार के रिश्ते पर बोले आवेज",
+      "url": "https://www.aajtak.in/entertainment/bollywood-news/story/awez-darbar-reaction-on-sanjay-leela-bhansali-and-ismail-darbar-fight-tmovg-dskc-2399254-2025-11-29",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "दरब",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:49.371303Z",
+        "website_section": null,
+        "content_hash": "1aba00fcaf42330c66c797392ffbb9bc"
+      }
+    },
+    {
+      "id": "eb22837ccccd2cc5f08194b071de0239",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:49.240865Z",
+      "language": "Hindi",
+      "title": "Cr का महल है Antilia, जहां परिवार संग रहते हैं मुकेश अंबानी",
+      "content": "News article: Cr का महल है Antilia, जहां परिवार संग रहते हैं मुकेश अंबानी",
+      "summary": "Cr का महल है Antilia, जहां परिवार संग रहते हैं मुकेश अंबानी",
+      "url": "https://www.aajtak.in/visualstories/business/mukesh-ambani-15000-crore-antilia-house-see-inside-photos-where-he-lived-with-family-tutc-268319-29-11-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "महल",
+        "antilia",
+        "रहत",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:49.240865Z",
+        "website_section": null,
+        "content_hash": "6600da79a050117d98685ba7c3b2e043"
+      }
+    },
+    {
+      "id": "f97bd3300f8beacdb2c73e7a7e47248e",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:49.067539Z",
+      "language": "Hindi",
+      "title": "भट्ट परिवार का दामाद बनेगा ये हैंडसम हंक? आलिया की बहन शाहीन संग हुआ रोमांटिक",
+      "content": "News article: भट्ट परिवार का दामाद बनेगा ये हैंडसम हंक? आलिया की बहन शाहीन संग हुआ रोमांटिक",
+      "summary": "भट्ट परिवार का दामाद बनेगा ये हैंडसम हंक? आलिया की बहन शाहीन संग हुआ रोमांटिक",
+      "url": "https://www.aajtak.in/visualstories/entertainment/alia-bhatt-sister-shaheen-dating-ishaan-mehra-shares-romantic-photos-marriage-soon-tmovf-268395-29-11-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "डसम",
+        "बहन",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:49.067539Z",
+        "website_section": null,
+        "content_hash": "9c90791a3f42e9b5106a936251707d33"
+      }
+    },
+    {
+      "id": "3476c3470a94809b92a6c20d7120fefb",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:48.847512Z",
+      "language": "Hindi",
+      "title": "नीता अंबानी के Hermes बैग को श्लोका की बहन ने दिया स्पेशल टच, हीरे से जड़े पोते-पोतियों के नाम",
+      "content": "News article: नीता अंबानी के Hermes बैग को श्लोका की बहन ने दिया स्पेशल टच, हीरे से जड़े पोते-पोतियों के नाम",
+      "summary": "नीता अंबानी के Hermes बैग को श्लोका की बहन ने दिया स्पेशल टच, हीरे से जड़े पोते-पोतियों के नाम.",
+      "url": "https://www.aajtak.in/visualstories/fashion/nita-ambani-wpl-auction-hermes-kelly-bag-akvp-charms-grandchildren-aadiya-krishna-veda-prithvi-rare-diamond-customised-badi-bahu-shloka-mehta-cousin-ashna-mehta-tvist-268306-29-11-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "hermes",
+        "बहन",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:48.847512Z",
+        "website_section": null,
+        "content_hash": "87952cf6cdef5e686f84c3a8429cf781"
+      }
+    },
+    {
+      "id": "14ca916e41bb5df342d289be42e6c7f6",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:48.609563Z",
+      "language": "Hindi",
+      "title": "वें बच्चे का पिता बनेगा करोड़पति यूट्यूबर, प्रेग्नेंट है दूसरी पत्नी? दुबई में दी गुडन्यूज",
+      "content": "News article: वें बच्चे का पिता बनेगा करोड़पति यूट्यूबर, प्रेग्नेंट है दूसरी पत्नी? दुबई में दी गुडन्यूज",
+      "summary": "वें बच्चे का पिता बनेगा करोड़पति यूट्यूबर, प्रेग्नेंट है दूसरी पत्नी? दुबई में दी गुडन्यूज. News article: वें बच्चे का पिता बनेगा करोड़पति यूट्यूबर, प्रेग्नेंट है दूसरी पत्नी.",
+      "url": "https://www.aajtak.in/visualstories/entertainment/youtuber-armaan-malik-second-wife-kritika-malik-second-pregnancy-5th-child-soon-tmovb-268396-29-11-2025",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:48.609563Z",
+        "website_section": null,
+        "content_hash": "f5c4d8020966b5644f65dab39302c080"
+      }
+    },
+    {
+      "id": "b01cad8681c6b5263f707d28be53dcfd",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:48.250575Z",
+      "language": "Hindi",
+      "title": "मटके जैसा निकला पेट होगा अंदर! बस अपना लें आचार्य बालकृष्ण के ये देसी नुस्खे",
+      "content": "News article: मटके जैसा निकला पेट होगा अंदर! बस अपना लें आचार्य बालकृष्ण के ये देसी नुस्खे",
+      "summary": "मटके जैसा निकला पेट होगा अंदर! बस अपना लें आचार्य बालकृष्ण के ये देसी नुस्खे",
+      "url": "https://www.aajtak.in/visualstories/health/acharya-balkrishna-fat-loss-tips-weight-management-triphala-khadha-honey-tmovx-267635-29-11-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "मटक",
+        "अपन",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:48.250575Z",
+        "website_section": null,
+        "content_hash": "f9673f5a573d495507d04c3286351a54"
+      }
+    },
+    {
+      "id": "933de1503ca06b48268d967a29dc7c2a",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:46.125284Z",
+      "language": "Hindi",
+      "title": "पैसों के लिए रातभर...', 2 बार टूटी शादी-पेरेंट्स का छूटा साथ, तन्हाई में एक्ट्रेस, छलका दर्द",
+      "content": "News article: पैसों के लिए रातभर...', 2 बार टूटी शादी-पेरेंट्स का छूटा साथ, तन्हाई में एक्ट्रेस, छलका दर्द",
+      "summary": "पैसों के लिए रातभर...', 2 बार टूटी शादी-पेरेंट्स का छूटा साथ, तन्हाई में एक्ट्रेस, छलका दर्द. News article: पैसों के लिए रातभर. ', 2 बार टूटी शादी-पेरेंट्स का छूटा साथ, तन्हाई में एक्ट्रेस, छलका दर्द.",
+      "url": "https://www.aajtak.in/visualstories/entertainment/47-years-rakhi-sawant-cried-remembering-traumatic-childhood-2-divorce-ex-husbands-tmovf-268397-29-11-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": -0.45885011553764343,
+      "sentiment_label": "Negative",
+      "keywords": [
+        "तभर",
+        "छलक",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:46.125284Z",
+        "website_section": null,
+        "content_hash": "d0c5b872d665367eea4f0dce9c03b2f0"
+      }
+    },
+    {
+      "id": "c3da9edc7234f387ba233403f1676c4a",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:45.938633Z",
+      "language": "Hindi",
+      "title": "करोड़पति यूट्यूबर बनेगा दूल्हा, किस पर आया दिल? बोला- लव मैरिज...",
+      "content": "News article: करोड़पति यूट्यूबर बनेगा दूल्हा, किस पर आया दिल? बोला- लव मैरिज...",
+      "summary": "करोड़पति यूट्यूबर बनेगा दूल्हा, किस पर आया दिल? बोला- लव मैरिज...",
+      "url": "https://www.aajtak.in/visualstories/entertainment/youtuber-ashish-chanchlani-getting-married-soon-break-silence-on-dating-actress-tmovb-268398-29-11-2025",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:45.938633Z",
+        "website_section": null,
+        "content_hash": "8355424ae2e4abc38d9ed853ddc9c602"
+      }
+    },
+    {
+      "id": "f421596a1e390f492a8afdb1b5551f1e",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:45.779459Z",
+      "language": "Hindi",
+      "title": "में ही 50 के लगेंगे दिखने! अगर सर्दियों में सुबह करते हैं ये 8 गलतियां",
+      "content": "News article: में ही 50 के लगेंगे दिखने! अगर सर्दियों में सुबह करते हैं ये 8 गलतियां",
+      "summary": "में ही 50 के लगेंगे दिखने! अगर सर्दियों में सुबह करते हैं ये 8 गलतियां",
+      "url": "https://www.aajtak.in/visualstories/lifestyle/skincare-tips-winter-8-morning-habits-dry-skin-anti-aging-tvisx-268248-29-11-2025",
+      "author": null,
+      "ministries": [
+        "finance"
+      ],
+      "ministry_scores": {
+        "finance": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "अगर",
+        "करत",
+        "गलत",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:45.779459Z",
+        "website_section": null,
+        "content_hash": "388db9ae01650099751381bcffd9a561"
+      }
+    },
+    {
+      "id": "44d6a6a0135bd7b12b57f2ed6757701a",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:45.596525Z",
+      "language": "Hindi",
+      "title": "आर माधवन ने 21 दिन में कैसे घटाया वजन? वेट लॉस के लिए अपनाए थे ये तरीके",
+      "content": "News article: आर माधवन ने 21 दिन में कैसे घटाया वजन? वेट लॉस के लिए अपनाए थे ये तरीके",
+      "summary": "आर माधवन ने 21 दिन में कैसे घटाया वजन? वेट लॉस के लिए अपनाए थे ये तरीके",
+      "url": "https://www.aajtak.in/visualstories/health/r-madhavan-weight-loss-in-21-days-without-gym-lifestyle-tmovx-260552-29-11-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "धवन",
+        "वजन",
+        "अपन",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:45.596525Z",
+        "website_section": null,
+        "content_hash": "868930d837f10e6afeaf2445c65590b6"
+      }
+    },
+    {
+      "id": "69b0cabdddfce6434c0739dde58abbd0",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:45.392997Z",
+      "language": "Hindi",
+      "title": "रणदीप हुड्डा के घर गूंजेगी किलकारी, शादी के 2 साल बाद बनने वाले हैं पापा, दी Goodnews",
+      "content": "News article: रणदीप हुड्डा के घर गूंजेगी किलकारी, शादी के 2 साल बाद बनने वाले हैं पापा, दी Goodnews",
+      "summary": "रणदीप हुड्डा के घर गूंजेगी किलकारी, शादी के 2 साल बाद बनने वाले हैं पापा, दी Goodnews",
+      "url": "https://www.aajtak.in/visualstories/entertainment/randeep-hooda-soon-become-father-wife-lin-laishram-announced-pregnancy-2-years-marriage-tmovf-268402-29-11-2025",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "रणद",
+        "बनन",
+        "goodnews",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:45.392997Z",
+        "website_section": null,
+        "content_hash": "e1d045b0b1857bc656547b0f09f10bc4"
+      }
+    },
+    {
+      "id": "fbab98bbefaff1bcb512897b573c26d7",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:45.291331Z",
+      "language": "Hindi",
+      "title": "विजुअल स्टोरीज़",
+      "content": "News article: विजुअल स्टोरीज़",
+      "summary": "विजुअल स्टोरीज़",
+      "url": "https://www.aajtak.in/visualstories/?utm_source=athomepage&utm_medium=bottomwidget&utm_campaign=visualstories",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:45.291331Z",
+        "website_section": null,
+        "content_hash": "282860d52a612eac62bd2a43c2c151ba"
+      }
+    },
+    {
+      "id": "4c46d2ca9ca38257ab9e334749cc8c02",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:45.062847Z",
+      "language": "Hindi",
+      "title": "तेरे इश्क में' का भौकाल! धनुष ने की रजनीकांत की बराबरी, कृति ने बनाया रिकॉर्ड",
+      "content": "News article: तेरे इश्क में' का भौकाल! धनुष ने की रजनीकांत की बराबरी, कृति ने बनाया रिकॉर्ड",
+      "summary": "तेरे इश्क में' का भौकाल! धनुष ने की रजनीकांत की बराबरी, कृति ने बनाया रिकॉर्ड",
+      "url": "https://www.aajtak.in/entertainment/bollywood-news/story/tere-ishk-mein-box-office-dhanush-equals-rajinikanth-kriti-sanon-tops-ntcpsm-dskc-2399294-2025-11-29",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "रजन",
+        "article"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:45.062847Z",
+        "website_section": null,
+        "content_hash": "d8a9b73eb9058f6707805fff1685b105"
+      }
+    },
+    {
+      "id": "9d830d15d160a411bfc5c7a7745479a1",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:44.739482Z",
+      "language": "Hindi",
+      "title": "रांची ODI के लिए भारतीय प्लेइंग 11 तय! नंबर 4 और 6 पर फंसा पेच... पंत-त‍िलक-ऋतुराज में जंग",
+      "content": "रांची ODI के लिए भारतीय प्लेइंग 11 तय! नंबर 4 और 6 पर फंसा पेच... पंत-त‍िलक-ऋतुराज में जंग",
+      "summary": "रांची ODI के लिए भारतीय प्लेइंग 11 तय! नंबर 4 और 6 पर फंसा पेच... पंत-त‍िलक-ऋतुराज में जंग",
+      "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-sa-ranchi-odi-team-india-playing-11-pant-tilak-ruturaj-number-4-6-selection-tspok-dskc-2399296-2025-11-29",
+      "author": null,
+      "ministries": [
+        "general"
+      ],
+      "ministry_scores": {
+        "general": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "odi"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:44.739482Z",
+        "website_section": null,
+        "content_hash": "74394c73af6c870a33a7a46dc61e8309"
+      }
+    },
+    {
+      "id": "b2b6e56250be99f7d31b12ff114c89f6",
+      "source_type": "web_scraper",
+      "source_name": "Aaj Tak",
+      "timestamp": "2025-11-29T13:02:44.110186Z",
+      "language": "Hindi",
+      "title": "मतभेद सुलझाओ, फिर दिल्ली आओ...' कर्नाटक में ब्रेकफास्ट डिप्लोमेसी के बीच कांग्रेस हाईकमान की दो टूक",
+      "content": "रांची ODI के लिए भारतीय प्लेइंग 11 तय! नंबर 4 और 6 पर फंसा पेच... पंत-त‍िलक-ऋतुराज में जंग",
+      "summary": "मतभेद सुलझाओ, फिर दिल्ली आओ...' कर्नाटक में ब्रेकफास्ट डिप्लोमेसी के बीच कांग्रेस हाईकमान की दो टूक",
+      "url": "https://www.aajtak.in/karnataka/story/karnataka-congress-crisis-siddaramaiah-dk-shivakumar-breakfast-meeting-delhi-call-ntc-rpti-2399259-2025-11-29",
+      "author": null,
+      "ministries": [
+        "finance",
+        "politics"
+      ],
+      "ministry_scores": {
+        "finance": 1.0,
+        "politics": 1.0
+      },
+      "sentiment_score": 0.0,
+      "sentiment_label": "Neutral",
+      "keywords": [
+        "मतभ",
+        "ईकम",
+        "odi"
+      ],
+      "metadata": {
+        "scrape_time": "2025-11-29T13:02:44.110186Z",
+        "website_section": null,
+        "content_hash": "712eb5ce5e7302c19083933711385df5"
+      }
+    }
+  ]
+}
