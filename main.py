@@ -14,7 +14,7 @@ from transformers import pipeline, AutoTokenizer, AutoModelForSequenceClassifica
 
 
 # ========================= CONFIG ============================
-API_KEY = "AIzaSyDNaqwdSARzEgeLYpmznozyXAJeS9FhUnI"
+API_KEY = " "
 
 channels = {
     "BBC News Hindi": "UCN7B-QD0Qgn2boVH5Q0pOWg",
@@ -271,3 +271,4 @@ def process_channel(channel_name, channel_id):
 
 for name, cid in channels.items():
     process_channel(name, cid)
+
