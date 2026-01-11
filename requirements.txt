@@ -1,0 +1,10 @@
+opencv-python
+pytesseract
+numpy
+Pillow
+rapidfuzz
+transformers
+torch
+gunicorn
+keybert 
+sentence-transformers
